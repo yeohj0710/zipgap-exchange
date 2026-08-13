@@ -606,3 +606,9 @@ scout:wishlist:1-candidate:cycle106
 scout:wishlist:add:NARITJAE5:cycle106
 scout:wishlist:reject:NARITJAE5:unresolvable-region:cycle106
 scout:wishlist:replace:BITGARAMJUNGHEUNG1:cycle106
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle107
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle107
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle107
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle107
+wishlist:consume:YANGSANSASONG3
+add-asset:YANGSANSASONG3
