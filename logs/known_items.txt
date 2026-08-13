@@ -58,3 +58,8 @@ scout:wishlist:3-candidates:cycle13
 add-asset:SUWONPRUGIOJAI
 add-asset:BANPOJAI
 add-asset:JAMSIL5
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle14
+scout:wishlist:3-candidates:cycle14
+add-asset:GAEPORFOREST
+add-asset:SINCHONGRAN
+add-asset:BUNDANGPARK
