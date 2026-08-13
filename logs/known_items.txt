@@ -336,3 +336,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle59
 scout:wishlist:1-candidate:cycle59
 wishlist:consume:POHANGXATON
 add-asset:POHANGXATON
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle60
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle60
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle60
+scout:wishlist:1-candidate:cycle60
+wishlist:consume:CHUNGCENTRAL
+add-asset:CHUNGCENTRAL

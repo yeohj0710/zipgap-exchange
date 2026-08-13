@@ -24683,6 +24683,59 @@
         { "ym": "2026-07", "price": 53400, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 52800, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "CHUNGCENTRAL",
+      "name": "춘천센트럴파크푸르지오",
+      "alias": "춘천 센트럴파크 푸르지오",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "강원도 춘천시 온의동",
+      "unitArea": 84.98,
+      "households": 1556,
+      "builtYear": 2021,
+      "tags": [
+        "강원",
+        "춘천시",
+        "온의동"
+      ],
+      "rentYield": 0.029,
+      "shareDivisor": 100000,
+      "lawdCd": "42110",
+      "history": [
+        { "ym": "2024-01", "price": 49400, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 48800, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 48200, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 51000, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 50400, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 49800, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 53200, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 52600, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 52000, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 54800, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 54200, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 53600, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 51800, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 51200, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 50600, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 53400, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 52800, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 52200, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 55600, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 55000, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 54400, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 57200, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 56600, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 56000, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 54600, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 54000, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 53400, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 56200, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 55600, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 55000, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 57200, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 56600, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }
