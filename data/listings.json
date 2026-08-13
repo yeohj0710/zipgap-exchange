@@ -24148,6 +24148,59 @@
         { "ym": "2026-07", "price": 60600, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 60000, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "ULSANGUMGANG",
+      "name": "울산송정금강펜테리움그린테라스1차",
+      "alias": "울산송정금강펜테리움그린테라스",
+      "kind": "complex",
+      "sido": "광역시",
+      "region": "울산 북구 화봉동",
+      "unitArea": 84.21,
+      "households": 544,
+      "builtYear": 2019,
+      "tags": [
+        "울산",
+        "북구",
+        "화봉동"
+      ],
+      "rentYield": 0.029,
+      "shareDivisor": 100000,
+      "lawdCd": "31200",
+      "history": [
+        { "ym": "2024-01", "price": 52200, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 51600, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 51000, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 53600, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 53000, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 52400, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 55100, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 54500, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 53900, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 56700, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 56100, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 55500, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 58400, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 57800, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 57200, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 60100, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 59500, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 58900, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 61900, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 61300, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 60700, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 63800, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 63200, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 62600, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 65700, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 65100, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 64500, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 67600, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 67000, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 66400, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 69500, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 68900, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }

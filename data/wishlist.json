@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "울산송정금강펜테리움그린테라스", "region": "울산 북구 송정동", "unitArea": 84.98 },
     { "name": "노형2차아이파크", "region": "제주 제주시 노형동", "unitArea": 84.99 },
     { "name": "원주기업도시이지더원", "region": "강원 원주시 지정면", "unitArea": 84.98 },
     { "name": "전주에코시티더샵", "region": "전북 전주시 덕진구 송천동2가", "unitArea": 84.98 },
@@ -59,6 +58,7 @@
     { "name": "목포하당지구중흥S클래스센텀뷰", "region": "전남 목포시 상동", "unitArea": 84.99 },
     { "name": "광양중마대광로제비앙", "region": "전남 광양시 중동", "unitArea": 84.98 },
     { "name": "대구월배1차아이파크", "region": "대구 달서구 유천동", "unitArea": 84.98 },
-    { "name": "천안청수한양수자인", "region": "충남 천안시 동남구 청당동", "unitArea": 84.97 }
+    { "name": "천안청수한양수자인", "region": "충남 천안시 동남구 청당동", "unitArea": 84.97 },
+    { "name": "경주현곡푸르지오", "region": "경북 경주시 현곡면", "unitArea": 84.99 }
   ]
 }

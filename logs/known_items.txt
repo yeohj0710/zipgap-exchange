@@ -276,3 +276,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle49
 scout:wishlist:1-candidate:cycle49
 wishlist:consume:UNAMSANIPARK
 add-asset:UNAMSANIPARK
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle50
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle50
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle50
+scout:wishlist:1-candidate:cycle50
+wishlist:consume:ULSANGUMGANG
+add-asset:ULSANGUMGANG
