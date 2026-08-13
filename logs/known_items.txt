@@ -121,3 +121,10 @@ wishlist:consume:GUMIINDONG
 wishlist:consume:CHEONGRALAKE
 add-asset:GUMIINDONG
 add-asset:CHEONGRALAKE
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle25
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle25
+scout:wishlist:2-candidates:cycle25
+wishlist:consume:LUWONSKLEADERS
+wishlist:consume:NAMCHEONJAI
+add-asset:LUWONSKLEADERS
+add-asset:NAMCHEONJAI

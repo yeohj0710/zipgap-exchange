@@ -18818,9 +18818,435 @@
           "trades": 5,
           "source": "seed"
         },
+       {
+         "ym": "2026-08",
+         "price": 75120,
+         "trades": 4,
+         "source": "seed"
+       }
+      ]
+    },
+    {
+      "symbol": "LUWONSKLEADERS",
+      "name": "루원시티SK리더스뷰",
+      "alias": "루원시티 SK 리더스뷰",
+      "kind": "complex",
+      "sido": "인천",
+      "region": "인천 서구 가정동",
+      "unitArea": 84.83,
+      "households": 2378,
+      "builtYear": 2022,
+      "tags": [
+        "인천",
+        "루원시티",
+        "가정동"
+      ],
+      "rentYield": 0.028,
+      "shareDivisor": 100000,
+      "lawdCd": "28260",
+      "history": [
+        {
+          "ym": "2024-01",
+          "price": 57100,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-02",
+          "price": 56500,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-03",
+          "price": 56450,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-04",
+          "price": 58600,
+          "trades": 7,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-05",
+          "price": 58000,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-06",
+          "price": 57950,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-07",
+          "price": 60100,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-08",
+          "price": 59500,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-09",
+          "price": 59450,
+          "trades": 7,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-10",
+          "price": 61600,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-11",
+          "price": 61000,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-12",
+          "price": 60950,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-01",
+          "price": 63100,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-02",
+          "price": 62500,
+          "trades": 7,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-03",
+          "price": 62450,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-04",
+          "price": 64600,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-05",
+          "price": 64000,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-06",
+          "price": 63950,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-07",
+          "price": 66100,
+          "trades": 7,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-08",
+          "price": 65500,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-09",
+          "price": 65450,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-10",
+          "price": 67600,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-11",
+          "price": 67000,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-12",
+          "price": 66950,
+          "trades": 7,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-01",
+          "price": 69100,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-02",
+          "price": 68500,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-03",
+          "price": 68450,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-04",
+          "price": 70600,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-05",
+          "price": 70000,
+          "trades": 7,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-06",
+          "price": 69950,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-07",
+          "price": 72100,
+          "trades": 5,
+          "source": "seed"
+        },
         {
           "ym": "2026-08",
-          "price": 75120,
+          "price": 71500,
+          "trades": 4,
+          "source": "seed"
+        }
+      ]
+    },
+    {
+      "symbol": "NAMCHEONJAI",
+      "name": "남천자이",
+      "alias": "남천 자이",
+      "kind": "complex",
+      "sido": "부산",
+      "region": "부산 수영구 남천동",
+      "unitArea": 84.98,
+      "households": 913,
+      "builtYear": 2023,
+      "tags": [
+        "부산",
+        "남천동",
+        "자이"
+      ],
+      "rentYield": 0.026,
+      "shareDivisor": 100000,
+      "lawdCd": "26500",
+      "history": [
+        {
+          "ym": "2024-01",
+          "price": 99600,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-02",
+          "price": 98850,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-03",
+          "price": 98900,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-04",
+          "price": 102150,
+          "trades": 7,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-05",
+          "price": 101400,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-06",
+          "price": 101450,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-07",
+          "price": 104700,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-08",
+          "price": 103950,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-09",
+          "price": 104000,
+          "trades": 7,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-10",
+          "price": 107250,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-11",
+          "price": 106500,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-12",
+          "price": 106550,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-01",
+          "price": 109800,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-02",
+          "price": 109050,
+          "trades": 7,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-03",
+          "price": 109100,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-04",
+          "price": 112350,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-05",
+          "price": 111600,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-06",
+          "price": 111650,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-07",
+          "price": 114900,
+          "trades": 7,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-08",
+          "price": 114150,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-09",
+          "price": 114200,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-10",
+          "price": 117450,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-11",
+          "price": 116700,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-12",
+          "price": 116750,
+          "trades": 7,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-01",
+          "price": 120000,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-02",
+          "price": 119250,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-03",
+          "price": 119300,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-04",
+          "price": 122550,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-05",
+          "price": 121800,
+          "trades": 7,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-06",
+          "price": 121850,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-07",
+          "price": 125100,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-08",
+          "price": 124350,
           "trades": 4,
           "source": "seed"
         }
