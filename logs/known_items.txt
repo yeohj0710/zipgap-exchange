@@ -103,5 +103,7 @@ add-asset:MYEONGJIOCEAN2
 fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle22
 fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle22
 scout:wishlist:1-candidate:cycle22
+wishlist:consume:CHEONGJUTECHNO1
+wishlist:consume:GAPCHEON1TRIPLE
 add-asset:CHEONGJUTECHNO1
 add-asset:GAPCHEON1TRIPLE

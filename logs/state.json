@@ -1,7 +1,7 @@
 {
   "objective": "Read C:\\dev\\zipgap-exchange\\CODEX.md and follow its continuous data workflow.",
   "workspace": "C:\\dev\\zipgap-exchange",
-  "lastAction": "Kept HWAMJAIPARK and SHINYOUNGTECHNO builtYear unset because completion or move-in is planned for 2027; added CHEONGJUTECHNO1 and GAPCHEON1TRIPLE with verified metadata and lawdCd values; added one lawd-validated wishlist candidate.",
+  "lastAction": "Kept HWAMJAIPARK and SHINYOUNGTECHNO builtYear unset because completion or move-in is planned for 2027; added CHEONGJUTECHNO1 and GAPCHEON1TRIPLE with verified metadata and lawdCd values; removed both consumed candidates and kept one lawd-validated wishlist candidate.",
   "cyclesCompleted": 22,
   "processedItems": [
     "scout:wishlist:60-candidates",
@@ -109,6 +109,8 @@
     "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle22",
     "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle22",
     "scout:wishlist:1-candidate:cycle22",
+    "wishlist:consume:CHEONGJUTECHNO1",
+    "wishlist:consume:GAPCHEON1TRIPLE",
     "add-asset:CHEONGJUTECHNO1",
     "add-asset:GAPCHEON1TRIPLE"
   ],
