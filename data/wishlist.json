@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "창원중동유니시티3단지", "region": "경남 창원시 의창구 중동", "unitArea": 84.99 },
     { "name": "여수웅천지웰3차", "region": "전남 여수시 웅천동", "unitArea": 84.98 },
     { "name": "포항자이애서턴", "region": "경북 포항시 남구 대잠동", "unitArea": 84.99 },
     { "name": "춘천센트럴파크푸르지오", "region": "강원도 춘천시 온의동", "unitArea": 84.98 },
@@ -59,6 +58,7 @@
     { "name": "에코시티KCC스위첸", "region": "전라북도 전주시 덕진구 송천동2가", "unitArea": 84.98 },
     { "name": "힐스테이트창원더퍼스트", "region": "경남 창원시 성산구 내동", "unitArea": 84.99 },
     { "name": "포레나여수웅천1단지", "region": "전남 여수시 웅천동", "unitArea": 84.96 },
-    { "name": "청주사직푸르지오자이", "region": "충북 청주시 서원구 사직동", "unitArea": 84.99 }
+    { "name": "청주사직푸르지오자이", "region": "충북 청주시 서원구 사직동", "unitArea": 84.99 },
+    { "name": "메트로시티2단지", "region": "경남 창원시 마산회원구 양덕동", "unitArea": 84.93 }
   ]
 }
