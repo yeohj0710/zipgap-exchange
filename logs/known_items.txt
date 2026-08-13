@@ -154,3 +154,9 @@ wishlist:consume:MUNSUIPARK1
 wishlist:consume:ANYANGPRUGIOT
 add-asset:MUNSUIPARK1
 add-asset:ANYANGPRUGIOT
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle30
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle30
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle30
+scout:wishlist:2-candidates:cycle30
+wishlist:consume:GWANGGYOLAKE
+add-asset:GWANGGYOLAKE

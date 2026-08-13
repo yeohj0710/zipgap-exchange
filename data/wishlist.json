@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "광교더샵레이크시티", "region": "경기 수원시 영통구 원천동", "unitArea": 84.99 },
     { "name": "부산더샵파크시티", "region": "부산 연제구 연산동", "unitArea": 84.98 },
     { "name": "힐스테이트자이계양", "region": "인천 계양구 작전동", "unitArea": 84.99 },
     { "name": "롯데캐슬리버파크시그니처", "region": "서울 광진구 자양동", "unitArea": 84.98 },
@@ -58,6 +57,8 @@
     { "name": "청라더샵레이크파크", "region": "인천 서구 청라동", "unitArea": 84.98 },
     { "name": "가야역롯데캐슬스카이엘", "region": "부산 부산진구 가야동", "unitArea": 84.99 },
     { "name": "청주가경아이파크3단지", "region": "충북 청주시 흥덕구 가경동", "unitArea": 84.84 },
-    { "name": "서창센트럴푸르지오", "region": "인천 남동구 서창동", "unitArea": 84.98 }
+    { "name": "서창센트럴푸르지오", "region": "인천 남동구 서창동", "unitArea": 84.98 },
+    { "name": "제주강정유승한내들퍼스트오션", "region": "제주 서귀포시 강정동", "unitArea": 84.99 },
+    { "name": "양산사송더샵데시앙3단지", "region": "경남 양산시 동면", "unitArea": 84.98 }
   ]
 }
