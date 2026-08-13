@@ -512,3 +512,9 @@ fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle90
 fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle90
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle90
 scout:wishlist:1-candidate:cycle90
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle91
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle91
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle91
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle91
+wishlist:consume:BUKCHEONANXI
+add-asset:BUKCHEONANXI
