@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "검단자이2단지", "region": "인천 서구 왕길동", "unitArea": 84.74 },
     { "name": "수성레이크푸르지오", "region": "대구 수성구 두산동", "unitArea": 84.99 },
     { "name": "이편한세상거제유로스카이", "region": "경남 거제시 고현동", "unitArea": 84.94 },
     { "name": "마곡지구9단지", "region": "서울 강서구 마곡동", "unitArea": 84 },
