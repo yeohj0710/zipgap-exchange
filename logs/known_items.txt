@@ -441,3 +441,8 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle77
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle77
 wishlist:consume:YUSEONGO2G3
 add-asset:YUSEONGO2G3
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle78
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle78
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle78
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle78
+scout:wishlist:1-candidate:cycle78
