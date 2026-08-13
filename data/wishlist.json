@@ -1,9 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "도안신도시9블록트리풀시티", "region": "대전 서구 도안동", "unitArea": 84.9 },
-    { "name": "상무센트럴자이", "region": "광주 서구 치평동", "unitArea": 84.97 },
-    { "name": "울산문수로동문굿모닝힐", "region": "울산 남구 신정동", "unitArea": 84.98 },
     { "name": "수원역푸르지오자이", "region": "경기 수원시 팔달구 고등동", "unitArea": 84.99 },
     { "name": "반포자이", "region": "서울 서초구 반포동", "unitArea": 84.98 },
     { "name": "잠실주공5단지", "region": "서울 송파구 잠실동", "unitArea": 82.61 },
@@ -57,6 +54,9 @@
     { "name": "창원중동유니시티4단지", "region": "경남 창원시 의창구 중동", "unitArea": 84.99 },
     { "name": "청주테크노폴리스푸르지오", "region": "충북 청주시 흥덕구 송절동", "unitArea": 84.98 },
     { "name": "광양푸르지오더퍼스트", "region": "전남 광양시 성황동", "unitArea": 84.97 },
-    { "name": "아산탕정지구지웰시티푸르지오", "region": "충남 아산시 탕정면", "unitArea": 84.98 }
+    { "name": "아산탕정지구지웰시티푸르지오", "region": "충남 아산시 탕정면", "unitArea": 84.98 },
+    { "name": "진주혁신도시중흥S클래스더프라임", "region": "경남 진주시 충무공동", "unitArea": 84.99 },
+    { "name": "구미확장단지골드클래스", "region": "경북 구미시 산동읍", "unitArea": 84.96 },
+    { "name": "강릉유천유승한내들", "region": "강원도 강릉시 유천동", "unitArea": 84.98 }
   ]
 }

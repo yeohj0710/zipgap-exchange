@@ -48,3 +48,8 @@ scout:wishlist:3-candidates:cycle11
 add-asset:MYEONGNYUN2IP
 add-asset:MANCHEONGREEN
 add-asset:WORLDMARKWE
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle12
+scout:wishlist:3-candidates:cycle12
+add-asset:DOAN9TRIPLE
+add-asset:SANGMUCENTRAL
+add-asset:MUNSUDONGMH
