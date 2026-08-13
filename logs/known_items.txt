@@ -624,3 +624,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle109
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle109
 wishlist:consume:MOKPOGOLDCLASS
 add-asset:MOKPOGOLDCLASS
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle110
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle110
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle110
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle110
+scout:wishlist:1-candidate:cycle110
+scout:wishlist:add:DANGJINHALRACAMPUS:cycle110
