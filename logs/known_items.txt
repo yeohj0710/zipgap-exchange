@@ -408,3 +408,8 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle71
 scout:wishlist:1-candidate:cycle71
 wishlist:consume:ANDONGTOP
 add-asset:ANDONGTOP
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle72
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle72
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle72
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle72
+scout:wishlist:1-candidate:cycle72
