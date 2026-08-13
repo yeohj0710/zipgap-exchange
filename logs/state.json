@@ -381,10 +381,16 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle66",
     "scout:wishlist:1-candidate:cycle66",
     "wishlist:consume:JINJUPRIME",
-    "add-asset:JINJUPRIME"
+    "add-asset:JINJUPRIME",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle67",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle67",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle67",
+    "scout:wishlist:1-candidate:cycle67",
+    "wishlist:consume:GUMIGOLD",
+    "add-asset:GUMIGOLD"
   ],
-  "cyclesCompleted": 66,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, and CENTUMPARKSK builtYear unset because completion or move-in is planned; added JINJUPRIME with verified 84.99 square meter metadata and lawdCd values; removed the consumed candidate and added one Gwangju candidate.",
+  "cyclesCompleted": 67,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, and CENTUMPARKSK builtYear unset because completion or move-in is planned; added GUMIGOLD with verified 84.96 square meter metadata and lawdCd values; removed the consumed candidate and added one Jeonbuk candidate.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, and CENTUMPARKSK builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have no actual completion year; planned completion or move-in is 2027."
 }

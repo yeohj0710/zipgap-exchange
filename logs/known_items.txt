@@ -378,3 +378,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle66
 scout:wishlist:1-candidate:cycle66
 wishlist:consume:JINJUPRIME
 add-asset:JINJUPRIME
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle67
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle67
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle67
+scout:wishlist:1-candidate:cycle67
+wishlist:consume:GUMIGOLD
+add-asset:GUMIGOLD
