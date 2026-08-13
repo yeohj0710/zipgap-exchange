@@ -1,8 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "구미인동하늘채디어반", "region": "경북 구미시 인의동", "unitArea": 84.99 },
-    { "name": "청라호수공원한신더휴", "region": "인천 서구 청라동", "unitArea": 84.96 },
     { "name": "루원시티SK리더스뷰", "region": "인천 서구 가정동", "unitArea": 84.98 },
     { "name": "남천자이", "region": "부산 수영구 남천동", "unitArea": 84.98 },
     { "name": "센텀파크SK뷰", "region": "부산 해운대구 재송동", "unitArea": 84.99 },
@@ -58,6 +56,8 @@
     { "name": "대전유성숲오투그란데3차", "region": "대전 유성구 용계동", "unitArea": 84.99 },
     { "name": "배곧호반베르디움더프라임", "region": "경기 시흥시 정왕동", "unitArea": 84.99 },
     { "name": "광주첨단2지구사랑으로부영", "region": "광주 북구 신용동", "unitArea": 84.36 },
-    { "name": "검단자이2단지", "region": "인천 서구 왕길동", "unitArea": 84.74 }
+    { "name": "검단자이2단지", "region": "인천 서구 왕길동", "unitArea": 84.74 },
+    { "name": "수성레이크푸르지오", "region": "대구 수성구 두산동", "unitArea": 84.99 },
+    { "name": "이편한세상거제유로스카이", "region": "경남 거제시 고현동", "unitArea": 84.94 }
   ]
 }

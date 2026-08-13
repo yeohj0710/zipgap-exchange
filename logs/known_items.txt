@@ -114,3 +114,10 @@ wishlist:consume:SUWANBANG6
 wishlist:consume:GEOJEKCC
 add-asset:SUWANBANG6
 add-asset:GEOJEKCC
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle24
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle24
+scout:wishlist:2-candidates:cycle24
+wishlist:consume:GUMIINDONG
+wishlist:consume:CHEONGRALAKE
+add-asset:GUMIINDONG
+add-asset:CHEONGRALAKE
