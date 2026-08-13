@@ -34,3 +34,7 @@ add-asset:SEOULSTC
 add-asset:GWANGMYEONG
 add-asset:KINTEXONE
 scout:wishlist:4-candidates
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle9
+add-asset:PYEONGCHON
+add-asset:INDEOGWON
+add-asset:FIRSTWORLD

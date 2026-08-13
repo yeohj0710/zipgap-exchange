@@ -1,9 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "평촌더샵센트럴시티", "region": "경기 안양시 동안구 관양동", "unitArea": 84.98 },
-    { "name": "인덕원자이SK뷰", "region": "경기 의왕시 내손동", "unitArea": 84.99 },
-    { "name": "더샵퍼스트월드", "region": "인천 연수구 송도동", "unitArea": 84.98 },
     { "name": "부평아이파크", "region": "인천 부평구 산곡동", "unitArea": 84.97 },
     { "name": "센텀비스타동원", "region": "부산 수영구 민락동", "unitArea": 84.98 },
     { "name": "동래래미안아이파크", "region": "부산 동래구 온천동", "unitArea": 84.99 },
