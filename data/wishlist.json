@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "e편한세상홍성더센트럴", "region": "충남 홍성군 홍성읍", "unitArea": 84.99 },
     { "name": "양산물금동일스위트", "region": "경남 양산시 물금읍", "unitArea": 84.93 },
     { "name": "더샵안동더퍼스트", "region": "경북 안동시 옥동", "unitArea": 84.97 },
     { "name": "첨단자이2단지", "region": "광주 북구 신용동", "unitArea": 84.99 },
@@ -59,6 +58,7 @@
     { "name": "부산명지더샵퍼스트월드", "region": "부산 강서구 명지동", "unitArea": 84.96 },
     { "name": "광주효천시티프라디움", "region": "광주 남구 임암동", "unitArea": 84.99 },
     { "name": "전주에코시티더샵4차", "region": "전라북도 전주시 덕진구 송천동2가", "unitArea": 84.78 },
-    { "name": "문수로금호어울림더퍼스트", "region": "울산 남구 신정동", "unitArea": 84.84 }
+    { "name": "문수로금호어울림더퍼스트", "region": "울산 남구 신정동", "unitArea": 84.84 },
+    { "name": "청주가경아이파크5단지", "region": "충북 청주시 흥덕구 강서동", "unitArea": 84.87 }
   ]
 }
