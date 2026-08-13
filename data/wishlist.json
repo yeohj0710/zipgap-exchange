@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "광양푸르지오더퍼스트", "region": "전남 광양시 성황동", "unitArea": 84.97 },
     { "name": "아산탕정지구지웰시티푸르지오", "region": "충남 아산시 탕정면", "unitArea": 84.98 },
     { "name": "진주혁신도시중흥S클래스더프라임", "region": "경남 진주시 충무공동", "unitArea": 84.99 },
     { "name": "구미확장단지골드클래스", "region": "경북 구미시 산동읍", "unitArea": 84.96 },
@@ -59,6 +58,7 @@
     { "name": "속초디오션자이", "region": "강원도 속초시 동명동", "unitArea": 84.98 },
     { "name": "울산송정한양수자인", "region": "울산 북구 송정동", "unitArea": 84.98 },
     { "name": "도안우미린트리쉐이드", "region": "대전 유성구 용계동", "unitArea": 84.98 },
-    { "name": "지제역더샵센트럴시티", "region": "경기 평택시 지제동", "unitArea": 84.93 }
+    { "name": "지제역더샵센트럴시티", "region": "경기 평택시 지제동", "unitArea": 84.93 },
+    { "name": "강릉아이파크", "region": "강원도 강릉시 송정동", "unitArea": 84.97 }
   ]
 }

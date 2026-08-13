@@ -360,3 +360,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle63
 scout:wishlist:1-candidate:cycle63
 wishlist:consume:CHEONGJUTECHNO
 add-asset:CHEONGJUTECHNO
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle64
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle64
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle64
+scout:wishlist:1-candidate:cycle64
+wishlist:consume:GWANGYANGPRUGIO
+add-asset:GWANGYANGPRUGIO
