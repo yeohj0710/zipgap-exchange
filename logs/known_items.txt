@@ -419,3 +419,8 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle73
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle73
 wishlist:consume:CHEOMDAN2
 add-asset:CHEOMDAN2
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle74
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle74
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle74
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle74
+scout:wishlist:1-candidate:cycle74
