@@ -479,3 +479,9 @@ fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle84
 fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle84
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle84
 scout:wishlist:1-candidate:cycle84
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle85
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle85
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle85
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle85
+wishlist:consume:SUSEONGLAKE
+add-asset:SUSEONGLAKE
