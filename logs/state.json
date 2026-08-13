@@ -590,10 +590,15 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle103",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle103",
     "wishlist:consume:SEOCHANGCENTRAL",
-    "add-asset:SEOCHANGCENTRAL"
+    "add-asset:SEOCHANGCENTRAL",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle104",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle104",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle104",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle104",
+    "scout:wishlist:1-candidate:cycle104"
   ],
-  "cyclesCompleted": 103,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added SEOCHANGCENTRAL with verified 84.98 square meter metadata and lawdCd values; removed the consumed candidate.",
+  "cyclesCompleted": 104,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added the verified Wonju Lotte Castle The First candidate with 84.98 square meter metadata.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }
