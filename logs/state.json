@@ -562,10 +562,16 @@
     "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle98",
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle98",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle98",
-    "scout:wishlist:1-candidate:cycle98"
+    "scout:wishlist:1-candidate:cycle98",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle99",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle99",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle99",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle99",
+    "wishlist:consume:GAYALSKYEL",
+    "add-asset:GAYALSKYEL"
   ],
-  "cyclesCompleted": 98,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added the verified Dongtan Station Lotte Castle candidate with 84.70 square meter metadata.",
+  "cyclesCompleted": 99,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added GAYALSKYEL with verified 84.95 square meter metadata and lawdCd values; removed the consumed candidate.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }
