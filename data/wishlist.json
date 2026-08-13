@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "각산태영데시앙", "region": "대구 동구 각산동", "unitArea": 84.98 },
     { "name": "청라더샵레이크파크", "region": "인천 서구 청라동", "unitArea": 84.98 },
     { "name": "가야역롯데캐슬스카이엘", "region": "부산 부산진구 가야동", "unitArea": 84.99 },
     { "name": "청주가경아이파크3단지", "region": "충북 청주시 흥덕구 가경동", "unitArea": 84.84 },

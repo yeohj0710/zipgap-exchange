@@ -540,10 +540,16 @@
     "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle94",
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle94",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle94",
-    "scout:wishlist:1-candidate:cycle94"
+    "scout:wishlist:1-candidate:cycle94",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle95",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle95",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle95",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle95",
+    "wishlist:consume:GAKSANDECIAN",
+    "add-asset:GAKSANDECIAN"
   ],
-  "cyclesCompleted": 94,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added the verified Daegu Technopolis Hwasung Park Dream candidate with 84.94 square meter metadata.",
+  "cyclesCompleted": 95,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added GAKSANDECIAN with verified 84.99 square meter metadata and lawdCd values; removed the consumed candidate.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }
