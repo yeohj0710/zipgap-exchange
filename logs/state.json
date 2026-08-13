@@ -579,10 +579,15 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle101",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle101",
     "wishlist:consume:GAGYEONGIPARK3",
-    "add-asset:GAGYEONGIPARK3"
+    "add-asset:GAGYEONGIPARK3",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle102",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle102",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle102",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle102",
+    "scout:wishlist:1-candidate:cycle102"
   ],
-  "cyclesCompleted": 101,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added GAGYEONGIPARK3 with verified 84.84 square meter metadata and lawdCd values; removed the consumed candidate.",
+  "cyclesCompleted": 102,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added the verified Eco City The Sharp 3 candidate with 84.98 square meter metadata.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }
