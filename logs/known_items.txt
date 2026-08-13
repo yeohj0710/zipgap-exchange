@@ -172,3 +172,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle32
 scout:wishlist:1-candidate:cycle32
 wishlist:consume:HILLJAIKEYANG
 add-asset:HILLJAIKEYANG
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle33
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle33
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle33
+scout:wishlist:1-candidate:cycle33
+wishlist:consume:LOTTERIVERPK
+add-asset:LOTTERIVERPK

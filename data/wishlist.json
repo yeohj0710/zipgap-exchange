@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "롯데캐슬리버파크시그니처", "region": "서울 광진구 자양동", "unitArea": 84.98 },
     { "name": "마곡엠밸리7단지", "region": "서울 강서구 마곡동", "unitArea": 84.99 },
     { "name": "여의도자이", "region": "서울 영등포구 여의도동", "unitArea": 84.67 },
     { "name": "성복역롯데캐슬골드타운", "region": "경기 용인시 수지구 성복동", "unitArea": 84.97 },
@@ -59,6 +58,7 @@
     { "name": "제주강정유승한내들퍼스트오션", "region": "제주 서귀포시 강정동", "unitArea": 84.99 },
     { "name": "양산사송더샵데시앙3단지", "region": "경남 양산시 동면", "unitArea": 84.98 },
     { "name": "목포옥암골드클래스", "region": "전남 목포시 옥암동", "unitArea": 84.99 },
-    { "name": "호암지구우미린에듀시티", "region": "충북 충주시 호암동", "unitArea": 84.99 }
+    { "name": "호암지구우미린에듀시티", "region": "충북 충주시 호암동", "unitArea": 84.99 },
+    { "name": "오토밸리로줌파크", "region": "울산 북구 중산동", "unitArea": 84.9 }
   ]
 }
