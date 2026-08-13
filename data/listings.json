@@ -24468,6 +24468,60 @@
         { "ym": "2026-07", "price": 33800, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 33200, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "CJWELLPRUGIO",
+      "name": "청주지웰시티푸르지오",
+      "alias": "청주 지웰시티 푸르지오",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "충청북도 청주시 흥덕구 복대동",
+      "unitArea": 84.78,
+      "households": 466,
+      "builtYear": 2019,
+      "tags": [
+        "충북",
+        "청주시",
+        "흥덕구",
+        "복대동"
+      ],
+      "rentYield": 0.023,
+      "shareDivisor": 100000,
+      "lawdCd": "43113",
+      "history": [
+        { "ym": "2024-01", "price": 65000, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 64300, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 63700, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 66900, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 66200, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 65600, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 69800, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 69100, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 68500, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 72800, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 72100, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 71500, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 74200, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 73500, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 72900, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 76300, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 75600, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 75000, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 78600, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 77900, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 77300, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 81100, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 80400, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 79800, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 82400, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 81700, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 81100, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 84200, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 83500, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 82900, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 83600, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 83000, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }
