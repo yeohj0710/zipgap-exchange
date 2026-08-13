@@ -396,3 +396,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle69
 scout:wishlist:1-candidate:cycle69
 wishlist:consume:HONGSEONGDL
 add-asset:HONGSEONGDL
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle70
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle70
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle70
+scout:wishlist:1-candidate:cycle70
+wishlist:consume:YANGSANPARK
+add-asset:YANGSANPARK

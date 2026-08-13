@@ -25215,6 +25215,59 @@
         { "ym": "2026-07", "price": 34000, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 33600, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "YANGSANPARK",
+      "name": "양산물금동일스위트",
+      "alias": "양산물금 동일스위트",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "경남 양산시 물금읍",
+      "unitArea": 84.93,
+      "households": 1292,
+      "builtYear": 2013,
+      "tags": [
+        "경남",
+        "양산시",
+        "물금읍"
+      ],
+      "rentYield": 0.036,
+      "shareDivisor": 100000,
+      "lawdCd": "48330",
+      "history": [
+        { "ym": "2024-01", "price": 22400, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 22000, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 21600, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 23200, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 22800, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 22400, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 24000, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 23600, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 23200, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 24800, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 24400, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 24000, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 23200, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 22800, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 22400, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 24200, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 23800, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 23400, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 25200, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 24800, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 24400, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 26200, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 25800, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 25400, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 24600, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 24200, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 23800, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 25600, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 25200, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 24800, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 26600, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 26200, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }
