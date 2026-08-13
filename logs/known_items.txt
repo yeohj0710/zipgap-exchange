@@ -27,3 +27,5 @@ fill-meta:SWANJ:deferred-ambiguous-identity
 fill-meta:HEUKSEOK
 fill-meta:TRIMAGE
 fill-meta:CLASIA
+fill-meta:SWANJ:resolved-241-2008
+scout:wishlist:2-candidates

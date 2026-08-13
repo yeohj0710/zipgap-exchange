@@ -8219,12 +8219,14 @@
     },
     {
       "symbol": "SWANJ",
-      "name": "광주수완지구중흥S클래스",
-      "alias": "수완중흥",
+      "name": "수완중흥S클래스2차",
+      "alias": "수완중흥2차",
       "kind": "complex",
       "sido": "광역시",
-      "region": "광주 광산구 장덕동",
+      "region": "광주 광산구 흑석동",
       "unitArea": 84.9,
+      "households": 241,
+      "builtYear": 2008,
       "tags": [
         "광역시",
         "신도시"

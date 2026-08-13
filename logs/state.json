@@ -1,8 +1,8 @@
 {
   "objective": "Read C:\\dev\\zipgap-exchange\\CODEX.md and follow its continuous data workflow.",
   "workspace": "C:\\dev\\zipgap-exchange",
-  "lastAction": "Added four seed complex assets, filled verified metadata for HEUKSEOK, TRIMAGE, and CLASIA, and deferred SWANJ because the candidate identity is ambiguous; HWAMJAIPARK builtYear remains unset because completion is planned for 2027.",
-  "cyclesCompleted": 5,
+  "lastAction": "Resolved SWANJ as 수완중흥S클래스2차 in 흑석동 with 241 households and builtYear 2008, corrected its region, and added two lawd-validated wishlist candidates; HWAMJAIPARK builtYear remains unset because completion is planned for 2027.",
+  "cyclesCompleted": 6,
   "processedItems": [
     "scout:wishlist:60-candidates",
     "add-asset:OLYMPIC",
@@ -32,8 +32,10 @@
     "fill-meta:SWANJ:deferred-ambiguous-identity",
     "fill-meta:HEUKSEOK",
     "fill-meta:TRIMAGE",
-    "fill-meta:CLASIA"
+    "fill-meta:CLASIA",
+    "fill-meta:SWANJ:resolved-241-2008",
+    "scout:wishlist:2-candidates"
   ],
-  "nextAction": "Run data:next -- --count 5; keep unresolved metadata deferred unless official identity and values are confirmed.",
-  "blockedBy": "HWAMJAIPARK has no actual completion year yet; SWANJ candidate identity is ambiguous."
+  "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK builtYear unset until its planned 2027 completion, then process the next add-asset tasks.",
+  "blockedBy": "HWAMJAIPARK has no actual completion year yet; planned completion is 2027."
 }
