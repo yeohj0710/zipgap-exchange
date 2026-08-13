@@ -178,3 +178,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle33
 scout:wishlist:1-candidate:cycle33
 wishlist:consume:LOTTERIVERPK
 add-asset:LOTTERIVERPK
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle34
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle34
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle34
+scout:wishlist:1-candidate:cycle34
+wishlist:consume:MAGOKMVALLEY7
+add-asset:MAGOKMVALLEY7
