@@ -518,3 +518,11 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle91
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle91
 wishlist:consume:BUKCHEONANXI
 add-asset:BUKCHEONANXI
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle92
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle92
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle92
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle92
+scout:wishlist:1-candidate:cycle92
+scout:wishlist:normalize:SAENARU9:cycle92
+scout:wishlist:replace:SAENARU9:unresolvable-city-only-region:cycle92
+scout:wishlist:add:GIMHAEVIVID:cycle92
