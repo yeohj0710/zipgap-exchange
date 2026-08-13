@@ -264,3 +264,9 @@ scout:wishlist:1-candidate:cycle47
 wishlist:repair-queue:1-candidate:cycle47
 wishlist:consume:GAGYEONGIPARK
 add-asset:GAGYEONGIPARK
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle48
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle48
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle48
+scout:wishlist:1-candidate:cycle48
+wishlist:consume:BULDANGWELL
+add-asset:BULDANGWELL
