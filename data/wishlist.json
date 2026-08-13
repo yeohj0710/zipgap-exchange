@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "목포옥암골드클래스", "region": "전남 목포시 옥암동", "unitArea": 84.99 },
     { "name": "호암지구우미린에듀시티", "region": "충북 충주시 호암동", "unitArea": 84.99 },
     { "name": "오토밸리로줌파크", "region": "울산 북구 중산동", "unitArea": 84.9 },
     { "name": "조례3차골드클래스", "region": "전남 순천시 조례동", "unitArea": 84.99 },

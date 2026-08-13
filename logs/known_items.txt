@@ -618,3 +618,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle108
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle108
 scout:wishlist:1-candidate:cycle108
 scout:wishlist:add:BAEBANG2PRUGIO:cycle108
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle109
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle109
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle109
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle109
+wishlist:consume:MOKPOGOLDCLASS
+add-asset:MOKPOGOLDCLASS
