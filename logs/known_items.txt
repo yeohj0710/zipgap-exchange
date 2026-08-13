@@ -294,3 +294,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle52
 scout:wishlist:1-candidate:cycle52
 wishlist:consume:WONJUEGTHE1
 add-asset:WONJUEGTHE1
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle53
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle53
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle53
+scout:wishlist:1-candidate:cycle53
+wishlist:consume:JEONJUECOSHOP
+add-asset:JEONJUECOSHOP

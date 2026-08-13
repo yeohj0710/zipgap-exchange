@@ -24307,6 +24307,60 @@
         { "ym": "2026-07", "price": 29400, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 29000, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "JEONJUECOSHOP",
+      "name": "전주에코시티더샵",
+      "alias": "에코시티더샵1차",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "전라북도 전주시 덕진구 송천동2가",
+      "unitArea": 84.98,
+      "households": 724,
+      "builtYear": 2018,
+      "tags": [
+        "전북",
+        "전주시",
+        "덕진구",
+        "송천동2가"
+      ],
+      "rentYield": 0.027,
+      "shareDivisor": 100000,
+      "lawdCd": "45113",
+      "history": [
+        { "ym": "2024-01", "price": 48000, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 47500, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 47000, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 49200, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 48600, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 48000, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 51000, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 50300, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 49700, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 52500, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 51800, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 51200, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 53500, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 52800, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 52200, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 54800, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 54200, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 53600, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 56600, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 55900, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 55300, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 58000, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 57300, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 56700, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 59000, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 58300, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 57700, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 60000, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 59400, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 58800, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 57300, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 56300, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }
