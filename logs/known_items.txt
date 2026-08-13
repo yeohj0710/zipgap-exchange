@@ -226,3 +226,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle41
 scout:wishlist:1-candidate:cycle41
 wishlist:consume:GUWOLASIADE
 add-asset:GUWOLASIADE
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle42
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle42
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle42
+scout:wishlist:1-candidate:cycle42
+wishlist:consume:BUPYEONGGRAN
+add-asset:BUPYEONGGRAN
