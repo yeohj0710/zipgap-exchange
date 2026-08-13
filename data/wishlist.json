@@ -1,9 +1,9 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "대전둔곡우미린", "region": "대전 유성구 둔곡동", "unitArea": 84.99 },
-    { "name": "울산뉴시티에일린의뜰1단지", "region": "울산 울주군 청량읍", "unitArea": 84.94 },
-    { "name": "천안푸르지오레이크사이드", "region": "충남 천안시 서북구 성성동", "unitArea": 84.99 },
+    { "name": "제주첨단꿈에그린3단지", "region": "제주 제주시 월평동", "unitArea": 84.99 },
+    { "name": "신영지웰푸르지오테크노폴리스센트럴", "region": "충북 청주시 흥덕구 송절동", "unitArea": 84.99 },
+    { "name": "울산뉴시티에일린의뜰2차", "region": "울산 울주군 청량읍", "unitArea": 84.95 },
     { "name": "광주수완6차대방노블랜드", "region": "광주 광산구 수완동", "unitArea": 84.85 },
     { "name": "거제아주KCC스위첸", "region": "경남 거제시 아주동", "unitArea": 84.96 },
     { "name": "구미인동하늘채디어반", "region": "경북 구미시 인의동", "unitArea": 84.99 },

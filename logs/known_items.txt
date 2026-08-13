@@ -84,3 +84,8 @@ scout:wishlist:3-candidates:cycle18
 add-asset:HARRINGTONTECHNO
 add-asset:MYEONGJIDUSAN
 add-asset:GEOMDANPRUGIO
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle19
+fill-meta:HARRINGTONTECHNO:builtYear-2026
+scout:wishlist:3-candidates:cycle19
+add-asset:DUNGGOKWOOMI
+add-asset:ULSANAEILIN1
