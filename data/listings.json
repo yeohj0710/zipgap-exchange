@@ -25851,6 +25851,59 @@
         { "ym": "2026-07", "price": 28300, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 28300, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "YEONSANLCGF",
+      "name": "연산롯데캐슬골드포레",
+      "alias": "연산 롯데캐슬 골드포레",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "부산 연제구 연산동",
+      "unitArea": 84.99,
+      "households": 1230,
+      "builtYear": 2020,
+      "tags": [
+        "부산",
+        "연제구",
+        "연산동"
+      ],
+      "rentYield": 0.03,
+      "shareDivisor": 100000,
+      "lawdCd": "26470",
+      "history": [
+        { "ym": "2024-01", "price": 67500, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 67100, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 66800, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 68800, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 68400, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 68000, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 70000, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 69600, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 69200, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 71400, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 71000, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 70600, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 69800, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 69400, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 69000, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 71000, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 70600, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 70200, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 72400, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 72000, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 71600, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 70400, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 70000, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 69600, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 72000, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 71600, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 71200, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 74800, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 76000, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 78000, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 76000, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 76000, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }

@@ -526,3 +526,9 @@ scout:wishlist:1-candidate:cycle92
 scout:wishlist:normalize:SAENARU9:cycle92
 scout:wishlist:replace:SAENARU9:unresolvable-city-only-region:cycle92
 scout:wishlist:add:GIMHAEVIVID:cycle92
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle93
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle93
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle93
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle93
+wishlist:consume:YEONSANLCGF
+add-asset:YEONSANLCGF
