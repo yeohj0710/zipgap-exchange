@@ -33,3 +33,4 @@ add-asset:GODUKGR
 add-asset:SEOULSTC
 add-asset:GWANGMYEONG
 add-asset:KINTEXONE
+scout:wishlist:4-candidates
