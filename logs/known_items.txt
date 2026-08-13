@@ -330,3 +330,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle58
 scout:wishlist:1-candidate:cycle58
 wishlist:consume:YEOSUWELL3
 add-asset:YEOSUWELL3
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle59
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle59
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle59
+scout:wishlist:1-candidate:cycle59
+wishlist:consume:POHANGXATON
+add-asset:POHANGXATON
