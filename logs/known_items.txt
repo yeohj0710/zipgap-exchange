@@ -43,3 +43,8 @@ add-asset:BUPYEONGIP
 add-asset:CENTUMVISTA
 add-asset:DONGRAEIP
 scout:wishlist:3-candidates
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle11
+scout:wishlist:3-candidates:cycle11
+add-asset:MYEONGNYUN2IP
+add-asset:MANCHEONGREEN
+add-asset:WORLDMARKWE

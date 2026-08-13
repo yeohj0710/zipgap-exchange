@@ -1,9 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "부산명륜2차아이파크", "region": "부산 동래구 명륜동", "unitArea": 84.99 },
-    { "name": "만촌삼정그린코아에듀파크", "region": "대구 수성구 만촌동", "unitArea": 84.98 },
-    { "name": "대구월드마크웨스트엔드", "region": "대구 달서구 감삼동", "unitArea": 84.98 },
     { "name": "도안신도시9블록트리풀시티", "region": "대전 서구 도안동", "unitArea": 84.9 },
     { "name": "상무센트럴자이", "region": "광주 서구 치평동", "unitArea": 84.97 },
     { "name": "울산문수로동문굿모닝힐", "region": "울산 남구 신정동", "unitArea": 84.98 },
@@ -57,6 +54,9 @@
     { "name": "포항자이애서턴", "region": "경북 포항시 남구 대잠동", "unitArea": 84.99 },
     { "name": "춘천센트럴파크푸르지오", "region": "강원도 춘천시 온의동", "unitArea": 84.98 },
     { "name": "순천신대지구중흥S클래스", "region": "전남 순천시 해룡면", "unitArea": 84.98 },
-    { "name": "창원중동유니시티4단지", "region": "경남 창원시 의창구 중동", "unitArea": 84.99 }
+    { "name": "창원중동유니시티4단지", "region": "경남 창원시 의창구 중동", "unitArea": 84.99 },
+    { "name": "청주테크노폴리스푸르지오", "region": "충북 청주시 흥덕구 송절동", "unitArea": 84.98 },
+    { "name": "광양푸르지오더퍼스트", "region": "전남 광양시 성황동", "unitArea": 84.97 },
+    { "name": "아산탕정지구지웰시티푸르지오", "region": "충남 아산시 탕정면", "unitArea": 84.98 }
   ]
 }
