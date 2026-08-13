@@ -1,10 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "광주수완지구중흥S클래스", "region": "광주 광산구 장덕동", "unitArea": 84.9 },
-    { "name": "흑석리버파크자이", "region": "서울 동작구 흑석동", "unitArea": 84.99 },
-    { "name": "서울숲트리마제", "region": "서울 성동구 성수동1가", "unitArea": 84.82 },
-    { "name": "롯데캐슬클라시아", "region": "서울 성북구 길음동", "unitArea": 84.99 },
     { "name": "고덕그라시움", "region": "서울 강동구 고덕동", "unitArea": 84.9 },
     { "name": "서울역센트럴자이", "region": "서울 중구 만리동2가", "unitArea": 84.98 },
     { "name": "광명역센트럴자이", "region": "경기 광명시 일직동", "unitArea": 84.98 },

@@ -18,3 +18,12 @@ add-asset:DAEYEONH
 add-asset:MARINEJ
 add-asset:EDUNSAN
 add-asset:DJIPARKCITY
+add-asset:SWANJ
+add-asset:HEUKSEOK
+add-asset:TRIMAGE
+add-asset:CLASIA
+fill-meta:HWAMJAIPARK:deferred-planned-2027
+fill-meta:SWANJ:deferred-ambiguous-identity
+fill-meta:HEUKSEOK
+fill-meta:TRIMAGE
+fill-meta:CLASIA
