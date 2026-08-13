@@ -53,3 +53,8 @@ scout:wishlist:3-candidates:cycle12
 add-asset:DOAN9TRIPLE
 add-asset:SANGMUCENTRAL
 add-asset:MUNSUDONGMH
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle13
+scout:wishlist:3-candidates:cycle13
+add-asset:SUWONPRUGIOJAI
+add-asset:BANPOJAI
+add-asset:JAMSIL5
