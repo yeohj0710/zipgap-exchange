@@ -455,10 +455,15 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle79",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle79",
     "wishlist:consume:BAEGOTPRIME",
-    "add-asset:BAEGOTPRIME"
+    "add-asset:BAEGOTPRIME",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle80",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle80",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle80",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle80",
+    "scout:wishlist:1-candidate:cycle80"
   ],
-  "cyclesCompleted": 79,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added BAEGOTPRIME with verified 84.99 square meter metadata and lawdCd values; removed the consumed candidate.",
+  "cyclesCompleted": 80,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added one Jeonju wishlist candidate.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }
