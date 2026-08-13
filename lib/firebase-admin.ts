@@ -1,13 +1,16 @@
 import { cert, getApps, initializeApp, type App } from "firebase-admin/app";
-import { getAuth, type Auth } from "firebase-admin/auth";
 import { getFirestore, type Firestore } from "firebase-admin/firestore";
 
 /**
  * 서버용 Firebase.
  * 환경변수가 없으면 null 을 준다. 그때는 메모리 저장소로 돌아간다.
+ *
+ * firebase-admin/auth 는 일부러 안 쓴다. 딸려 오는 jwks-rsa 가 ESM 모듈을
+ * require 로 불러서 서버리스에서 적재가 실패한다. 로그인 토큰은
+ * lib/verify-token.ts 에서 구글 공개 인증서로 직접 확인한다.
  */
 
-let cached: { app: App; db: Firestore; auth: Auth } | null | undefined;
+let cached: { app: App; db: Firestore; projectId: string } | null | undefined;
 
 export function admin() {
   if (cached !== undefined) return cached;
@@ -32,7 +35,7 @@ export function admin() {
     // 이미 설정된 경우
   }
 
-  cached = { app, db, auth: getAuth(app) };
+  cached = { app, db, projectId };
   return cached;
 }
 

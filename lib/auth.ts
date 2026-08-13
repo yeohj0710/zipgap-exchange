@@ -1,5 +1,6 @@
 import { createHmac, timingSafeEqual } from "node:crypto";
 import { admin } from "./firebase-admin";
+import { verifyFirebaseToken } from "./verify-token";
 
 export interface Session {
   uid: string;
@@ -40,12 +41,9 @@ export async function sessionFrom(req: Request): Promise<Session | null> {
 
   const a = admin();
   if (a) {
-    try {
-      const decoded = await a.auth.verifyIdToken(token);
-      return { uid: decoded.uid, anon: decoded.firebase?.sign_in_provider === "anonymous" };
-    } catch {
-      return null;
-    }
+    const decoded = await verifyFirebaseToken(token, a.projectId);
+    if (!decoded) return null;
+    return { uid: decoded.uid, anon: decoded.provider === "anonymous" };
   }
 
   const uid = verifyDemoToken(token);
