@@ -29,3 +29,7 @@ fill-meta:TRIMAGE
 fill-meta:CLASIA
 fill-meta:SWANJ:resolved-241-2008
 scout:wishlist:2-candidates
+add-asset:GODUKGR
+add-asset:SEOULSTC
+add-asset:GWANGMYEONG
+add-asset:KINTEXONE

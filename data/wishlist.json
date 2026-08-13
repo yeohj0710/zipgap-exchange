@@ -1,10 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "고덕그라시움", "region": "서울 강동구 고덕동", "unitArea": 84.9 },
-    { "name": "서울역센트럴자이", "region": "서울 중구 만리동2가", "unitArea": 84.98 },
-    { "name": "광명역센트럴자이", "region": "경기 광명시 일직동", "unitArea": 84.98 },
-    { "name": "킨텍스원시티", "region": "경기 고양시 일산동구 장항동", "unitArea": 84.95 },
     { "name": "평촌더샵센트럴시티", "region": "경기 안양시 동안구 관양동", "unitArea": 84.98 },
     { "name": "인덕원자이SK뷰", "region": "경기 의왕시 내손동", "unitArea": 84.99 },
     { "name": "더샵퍼스트월드", "region": "인천 연수구 송도동", "unitArea": 84.98 },

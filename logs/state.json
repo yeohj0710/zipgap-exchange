@@ -1,8 +1,8 @@
 {
   "objective": "Read C:\\dev\\zipgap-exchange\\CODEX.md and follow its continuous data workflow.",
   "workspace": "C:\\dev\\zipgap-exchange",
-  "lastAction": "Resolved SWANJ as 수완중흥S클래스2차 in 흑석동 with 241 households and builtYear 2008, corrected its region, and added two lawd-validated wishlist candidates; HWAMJAIPARK builtYear remains unset because completion is planned for 2027.",
-  "cyclesCompleted": 6,
+  "lastAction": "Added four seed complex assets, filled verified metadata, assigned lawdCd values, and removed the four processed candidates; HWAMJAIPARK builtYear remains unset because completion is planned for 2027.",
+  "cyclesCompleted": 7,
   "processedItems": [
     "scout:wishlist:60-candidates",
     "add-asset:OLYMPIC",
@@ -34,7 +34,11 @@
     "fill-meta:TRIMAGE",
     "fill-meta:CLASIA",
     "fill-meta:SWANJ:resolved-241-2008",
-    "scout:wishlist:2-candidates"
+    "scout:wishlist:2-candidates",
+    "add-asset:GODUKGR",
+    "add-asset:SEOULSTC",
+    "add-asset:GWANGMYEONG",
+    "add-asset:KINTEXONE"
   ],
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK builtYear unset until its planned 2027 completion, then process the next add-asset tasks.",
   "blockedBy": "HWAMJAIPARK has no actual completion year yet; planned completion is 2027."
