@@ -1,0 +1,46 @@
+rules_version = '2';
+
+// 집값거래소 보안 규칙
+//
+// 원칙: 브라우저는 읽기만 한다. 쓰기는 전부 서버(Admin SDK)를 지난다.
+// Admin SDK 는 이 규칙을 건너뛰므로, 여기서 클라이언트 쓰기를 다 막아도
+// 주문 처리에는 지장이 없다. 값을 손으로 고쳐 잔고를 부풀리는 길을 없앤다.
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // 호가·시세·분봉. 누구나 실시간으로 본다
+    match /books/{symbol} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // 랭킹
+    match /ranks/{uid} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // 주문. 내 것만 본다
+    match /orders/{orderId} {
+      allow read: if request.auth != null && resource.data.uid == request.auth.uid;
+      allow write: if false;
+    }
+
+    // 계정과 그 아래 보유·체결. 내 것만 본다
+    match /accounts/{uid} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      allow write: if false;
+
+      match /{sub=**} {
+        allow read: if request.auth != null && request.auth.uid == uid;
+        allow write: if false;
+      }
+    }
+
+    // 나머지는 전부 막는다
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

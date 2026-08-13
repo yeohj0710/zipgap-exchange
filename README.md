@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 집값거래소
 
-## Getting Started
+전국 아파트를 10만분의 1로 쪼개 주식처럼 사고파는 모의 거래소.
+은마아파트 한 채가 28억이면 한 주는 28,000원이다.
 
-First, run the development server:
+진짜 돈은 오가지 않는다. 계좌를 열면 1,000만원을 주고, 그걸로 거래한다.
+
+## 값이 어떻게 정해지나
+
+세 겹이다.
+
+1. **실거래가(NAV)** — 국토교통부 월별 실거래를 원 단위 주가로 환산한 값.
+   차트에서 노란 점선이다. 한 달에 한 번 바뀐다.
+2. **시장조성자 호가** — 실거래가 둘레에 양방향으로 깔리는 호가.
+   시각만 넣으면 계산되는 순수 함수라 저장할 것이 없고, 서버와 브라우저가
+   같은 식을 써서 값이 어긋나지 않는다. 아무도 거래하지 않아도 값이 계속 움직인다.
+3. **사람들의 주문** — 지정가·시장가 주문이 서로 체결되면서 시장가격을 만든다.
+   사람이 사갈수록 시장조성자 재고가 줄고, 그만큼 호가가 위로 밀린다.
+   그래서 시장가격은 실거래가에서 벌어진다. 그 차이가 **괴리율**이다.
+
+시장조성자 재고 한도는 종목당 3억원어치다. 시드머니가 1,000만원이니
+서른 명이 한 종목에 전 재산을 넣으면 한도에 닿고, 값은 15%까지 밀려 올라간다.
+이 숫자는 `lib/config.ts` 에서 바꾼다.
+
+## 만듦새
+
+| 무엇 | 어디 |
+| --- | --- |
+| 가격 엔진 | `lib/pricing.ts` — 결정론적 흔들림, 재고 쏠림, 호가 사다리 |
+| 매칭 엔진 | `lib/engine.ts` — 저장소를 모르는 순수 함수 |
+| 주문 처리 | `lib/order-core.ts` — 잔고·보유·예약금·분봉을 한 트랜잭션에서 정산 |
+| 저장소 | `lib/store/firestore.ts` (운영) · `lib/store/memory.ts` (체험) |
+| 시세 계산 | `lib/quote.ts` — 서버와 브라우저가 같이 쓴다 |
+| 시세 원장 | `data/listings.json` — 규격은 `data/SCHEMA.md` |
+
+브라우저는 Firestore 를 **읽기만** 한다. 쓰기는 전부 서버를 지난다.
+잔고를 손으로 고치는 길을 막으려는 것이다. 규칙은 `firestore.rules` 에 있다.
+
+브라우저가 구독하는 문서는 종목당 `books/{symbol}` 하나뿐이다.
+호가·최근 체결·분봉을 그 문서 안에 넣어 뒀다. 읽기 수를 아끼려는 설계다.
+
+## 돌려 보기
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Firebase 를 안 붙여도 돈다. 그때는 서버 메모리에 저장하는 **체험 모드**로 뜨고,
+서버가 다시 뜨면 기록이 날아간다. 화면과 거래 흐름을 확인하기에는 충분하다.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm run selftest    # 매칭 엔진 검사 — 체결·예약금·취소·값 밀림
+npm run uitest      # 브라우저에서 실제로 눌러 보고 shots/ 에 화면을 남긴다
+npm run verify:data # 시세 원장이 규격에 맞는지
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 진짜 시장으로 켜기
 
-## Learn More
+지속형 시장은 Firestore 가 있어야 한다. Blaze 요금제를 권한다.
+Spark 로도 되지만 하루 읽기 5만 건에서 막힌다.
 
-To learn more about Next.js, take a look at the following resources:
+1. Firebase 콘솔에서 프로젝트를 만들고 **Firestore 를 켠다**(프로덕션 모드, 리전 `asia-northeast3`).
+2. **Authentication > 로그인 방법**에서 `익명`과 `Google`을 켠다.
+3. **프로젝트 설정 > 서비스 계정 > 새 비공개 키 생성**으로 JSON 을 받는다.
+4. 규칙과 색인을 올린다. Firebase CLI 도 브라우저 로그인도 필요 없다.
+   ```bash
+   node scripts/setup-firebase.mjs ./serviceAccount.json --env
+   ```
+   `.env.local` 이 만들어진다. 여기에 웹 앱 설정값(`apiKey`, `appId`,
+   `messagingSenderId`)만 손으로 채운다. 값은 **프로젝트 설정 > 내 앱 > 웹 앱**에 있다.
+5. `npm run dev` 로 확인한다. 위쪽 배너에서 "체험 모드" 문구가 사라지면 붙은 것이다.
+6. 같은 값을 Vercel 환경변수에 넣고 다시 배포한다.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+`NEXT_PUBLIC_FIREBASE_API_KEY` 는 브라우저에 그대로 나가는 값이다. 숨길 필요가 없다.
+실제 열쇠는 서비스 계정 키(`FIREBASE_PRIVATE_KEY`)이고, 이건 서버에만 둔다.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 시세 자료 채우기
 
-## Deploy on Vercel
+지금 들어 있는 값은 전부 **시드 추정치**다. 실거래 원자료를 아직 안 붙였다.
+사이트 배너에도 그렇게 적어 뒀다.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+채우는 일은 `CODEX.md` 에 지시서로 적어 뒀다. 할 일 목록은 이 명령이 준다.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+npm run data:next -- --stats     # 얼마나 채웠는지
+npm run data:next -- --count 5   # 다음에 할 일 다섯 개
+```
+
+원자료를 넣고 나면 `npm run verify:data` 를 통과해야 커밋한다.
+검사기가 잡는 것: 달이 빠졌는지, 단위가 만원이 맞는지, 한 달에 40% 넘게 튀었는지,
+없어진 종목이 있는지, `status` 를 `real` 로 올릴 자격이 되는지.
+
+## 아직 안 한 것
+
+- 취득세·보유세·양도세·중개수수료를 하나도 넣지 않았다. 수수료만 0.05% 받는다.
+- 대출(레버리지)이 없다. 가진 돈 안에서만 산다.
+- 분봉은 최근 240개만 `books/{symbol}` 안에 남는다. 그보다 오래된 구간은
+  시장조성자 기준가로 그린다. 장기 차트의 실제 체결 흔적은 남지 않는다.
+- 종목이 100개를 넘으면 `data/listings.json` 을 통째로 브라우저에 보내는 지금 방식이
+  버거워진다. 그때는 목록과 시세를 나눠야 한다.

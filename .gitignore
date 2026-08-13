@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# 집값거래소
+.env.data
+data/raw/
+shots/
+serviceAccount*.json
