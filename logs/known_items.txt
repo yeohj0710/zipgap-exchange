@@ -100,3 +100,8 @@ fill-meta:JEJUDREAM3:households-349
 fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle21
 scout:wishlist:3-candidates:cycle21
 add-asset:MYEONGJIOCEAN2
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle22
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle22
+scout:wishlist:1-candidate:cycle22
+add-asset:CHEONGJUTECHNO1
+add-asset:GAPCHEON1TRIPLE
