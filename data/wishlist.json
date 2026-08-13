@@ -1,8 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "센텀파크SK뷰", "region": "부산 해운대구 재송동", "unitArea": 84.99 },
-    { "name": "범어센트럴푸르지오", "region": "대구 수성구 범어동", "unitArea": 84.99 },
     { "name": "첨단자이1단지", "region": "광주 광산구 월계동", "unitArea": 84.98 },
     { "name": "둔산자이아이파크", "region": "대전 서구 탄방동", "unitArea": 84.99 },
     { "name": "울산문수로아이파크", "region": "울산 남구 신정동", "unitArea": 84.99 },
@@ -58,6 +56,8 @@
     { "name": "수성레이크푸르지오", "region": "대구 수성구 두산동", "unitArea": 84.99 },
     { "name": "이편한세상거제유로스카이", "region": "경남 거제시 고현동", "unitArea": 84.94 },
     { "name": "마곡지구9단지", "region": "서울 강서구 마곡동", "unitArea": 84 },
-    { "name": "북천안자이포레스트", "region": "충남 천안시 서북구 성거읍", "unitArea": 84.81 }
+    { "name": "북천안자이포레스트", "region": "충남 천안시 서북구 성거읍", "unitArea": 84.81 },
+    { "name": "연산롯데캐슬골드포레", "region": "부산 연제구 연산동", "unitArea": 84.98 },
+    { "name": "각산태영데시앙", "region": "대구 동구 각산동", "unitArea": 84.98 }
   ]
 }

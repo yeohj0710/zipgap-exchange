@@ -128,3 +128,10 @@ wishlist:consume:LUWONSKLEADERS
 wishlist:consume:NAMCHEONJAI
 add-asset:LUWONSKLEADERS
 add-asset:NAMCHEONJAI
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle26
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle26
+scout:wishlist:2-candidates:cycle26
+wishlist:consume:CENTUMPARKSK
+wishlist:consume:BEOMEOCENTRAL
+add-asset:CENTUMPARKSK
+add-asset:BEOMEOCENTRAL
