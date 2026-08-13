@@ -663,10 +663,16 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle115",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle115",
     "wishlist:consume:JORYE3GOLD",
-    "add-asset:JORYE3GOLD"
+    "add-asset:JORYE3GOLD",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle116",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle116",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle116",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle116",
+    "scout:wishlist:1-candidate:cycle116",
+    "scout:wishlist:add:YEONGJUTHELIV:cycle116"
   ],
-  "cyclesCompleted": 115,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; added JORYE3GOLD with verified 84.99 square meter metadata, 473 households, 2023 completion, and lawdCd 46150; removed the consumed candidate.",
+  "cyclesCompleted": 116,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; added the verified 영주가흥더리브스위트엠 wishlist candidate with 84.94 square meter metadata, 831 households, and 2021 completion evidence; corrected the candidate count from 58 to the actual 60.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }

@@ -660,3 +660,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle115
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle115
 wishlist:consume:JORYE3GOLD
 add-asset:JORYE3GOLD
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle116
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle116
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle116
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle116
+scout:wishlist:1-candidate:cycle116
+scout:wishlist:add:YEONGJUTHELIV:cycle116
