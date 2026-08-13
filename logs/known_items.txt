@@ -95,3 +95,8 @@ scout:wishlist:3-candidates:cycle20
 add-asset:JEJUDREAM3
 add-asset:SHINYOUNGTECHNO
 add-asset:ULSANAEILIN2
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle21
+fill-meta:JEJUDREAM3:households-349
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle21
+scout:wishlist:3-candidates:cycle21
+add-asset:MYEONGJIOCEAN2

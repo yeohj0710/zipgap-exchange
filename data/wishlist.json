@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "명지대방노블랜드오션뷰2차", "region": "부산 강서구 명지동", "unitArea": 84.99 },
     { "name": "청주테크노폴리스우방아이유쉘1단지", "region": "충북 청주시 흥덕구 송절동", "unitArea": 84.35 },
     { "name": "대전갑천1트리풀시티", "region": "대전 유성구 원신흥동", "unitArea": 84.99 },
     { "name": "광주수완6차대방노블랜드", "region": "광주 광산구 수완동", "unitArea": 84.85 },
@@ -57,6 +56,9 @@
     { "name": "강릉유천유승한내들", "region": "강원도 강릉시 유천동", "unitArea": 84.98 },
     { "name": "e편한세상홍성더센트럴", "region": "충남 홍성군 홍성읍", "unitArea": 84.99 },
     { "name": "양산물금동일스위트", "region": "경남 양산시 물금읍", "unitArea": 84.93 },
-    { "name": "더샵안동더퍼스트", "region": "경북 안동시 옥동", "unitArea": 84.97 }
+    { "name": "더샵안동더퍼스트", "region": "경북 안동시 옥동", "unitArea": 84.97 },
+    { "name": "첨단자이2단지", "region": "광주 북구 신용동", "unitArea": 84.99 },
+    { "name": "청라제일풍경채2차에듀앤파크", "region": "인천 서구 청라동", "unitArea": 84.99 },
+    { "name": "대전유성숲오투그란데3차", "region": "대전 유성구 용계동", "unitArea": 84.99 }
   ]
 }
