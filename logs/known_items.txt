@@ -208,3 +208,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle38
 scout:wishlist:1-candidate:cycle38
 wishlist:consume:DASANJAIIB
 add-asset:DASANJAIIB
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle39
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle39
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle39
+scout:wishlist:1-candidate:cycle39
+wishlist:consume:GODEOKPARAGON
+add-asset:GODEOKPARAGON
