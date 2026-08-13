@@ -651,10 +651,16 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle113",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle113",
     "wishlist:consume:AUTOVALLEYZOOM",
-    "add-asset:AUTOVALLEYZOOM"
+    "add-asset:AUTOVALLEYZOOM",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle114",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle114",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle114",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle114",
+    "scout:wishlist:1-candidate:cycle114",
+    "scout:wishlist:add:JUYOUNGPALACE6:cycle114"
   ],
-  "cyclesCompleted": 113,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; added AUTOVALLEYZOOM with verified 84.92 square meter metadata, 867 households, 2017 completion, and lawdCd 31200; removed the consumed candidate.",
+  "cyclesCompleted": 114,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; added the verified JUYOUNGPALACE6 wishlist candidate in Tongyeong Gwangdo-myeon with 84.99 square meters and a resolvable legal-dong region.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }

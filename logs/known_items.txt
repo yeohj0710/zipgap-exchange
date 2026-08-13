@@ -648,3 +648,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle113
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle113
 wishlist:consume:AUTOVALLEYZOOM
 add-asset:AUTOVALLEYZOOM
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle114
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle114
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle114
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle114
+scout:wishlist:1-candidate:cycle114
+scout:wishlist:add:JUYOUNGPALACE6:cycle114
