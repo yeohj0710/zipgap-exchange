@@ -1,8 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "울산문수로아이파크", "region": "울산 남구 신정동", "unitArea": 84.99 },
-    { "name": "안양역푸르지오더샵", "region": "경기 안양시 만안구 안양동", "unitArea": 84.99 },
     { "name": "광교더샵레이크시티", "region": "경기 수원시 영통구 원천동", "unitArea": 84.99 },
     { "name": "부산더샵파크시티", "region": "부산 연제구 연산동", "unitArea": 84.98 },
     { "name": "힐스테이트자이계양", "region": "인천 계양구 작전동", "unitArea": 84.99 },

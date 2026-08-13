@@ -147,3 +147,10 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle28
 scout:wishlist:2-candidates:cycle28
 wishlist:consume:DUNSANJAI
 add-asset:DUNSANJAI
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle29
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle29
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle29
+wishlist:consume:MUNSUIPARK1
+wishlist:consume:ANYANGPRUGIOT
+add-asset:MUNSUIPARK1
+add-asset:ANYANGPRUGIOT
