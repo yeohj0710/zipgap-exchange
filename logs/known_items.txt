@@ -202,3 +202,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle37
 scout:wishlist:1-candidate:cycle37
 wishlist:consume:MISACENTRAL
 add-asset:MISACENTRAL
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle38
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle38
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle38
+scout:wishlist:1-candidate:cycle38
+wishlist:consume:DASANJAIIB
+add-asset:DASANJAIIB
