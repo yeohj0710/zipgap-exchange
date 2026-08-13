@@ -24415,6 +24415,59 @@
         { "ym": "2026-07", "price": 92500, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 91800, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "UNGCHONZ1BL",
+      "name": "웅천지웰1차(1블럭)",
+      "alias": "웅천지웰1차",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "전라남도 여수시 웅천동",
+      "unitArea": 84.94,
+      "households": 482,
+      "builtYear": 2010,
+      "tags": [
+        "전남",
+        "여수시",
+        "웅천동"
+      ],
+      "rentYield": 0.035,
+      "shareDivisor": 100000,
+      "lawdCd": "46130",
+      "history": [
+        { "ym": "2024-01", "price": 29200, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 28800, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 28400, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 30100, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 29600, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 29000, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 31500, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 30900, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 30300, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 32600, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 32000, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 31400, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 32500, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 31900, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 31300, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 33100, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 32600, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 32000, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 34400, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 33800, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 33200, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 35000, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 34400, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 33800, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 34900, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 34300, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 33700, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 35500, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 34900, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 34300, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 33800, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 33200, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }
