@@ -581,3 +581,9 @@ fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle102
 fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle102
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle102
 scout:wishlist:1-candidate:cycle102
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle103
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle103
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle103
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle103
+wishlist:consume:SEOCHANGCENTRAL
+add-asset:SEOCHANGCENTRAL
