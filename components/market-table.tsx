@@ -175,14 +175,19 @@ export function MarketTable() {
                   {qt ? pct(qt.changeRate) : "—"}
                 </div>
 
-                <div className="num text-left text-[13px] md:text-right">
-                  <span className={qt ? toneClass(qt.premium) : "text-mute"}>
+                <div className="text-left text-[13px] md:text-right">
+                  {/* 좁은 화면에는 표 머리가 없어서 무슨 숫자인지 적어 준다 */}
+                  <span className="mr-1 text-[11px] text-[var(--color-dim)] md:hidden">
+                    실거래가 대비
+                  </span>
+                  <span className={`num ${qt ? toneClass(qt.premium) : "text-mute"}`}>
                     {qt ? pct(qt.premium) : "—"}
                   </span>
                 </div>
 
-                <div className="num text-right text-[13px] text-[var(--color-mute)]">
-                  {qt && qt.volume > 0 ? qty(qt.volume) : "-"}
+                <div className="text-right text-[13px] text-[var(--color-mute)]">
+                  <span className="mr-1 text-[11px] text-[var(--color-dim)] md:hidden">거래량</span>
+                  <span className="num">{qt && qt.volume > 0 ? qty(qt.volume) : "-"}</span>
                 </div>
               </Link>
             );
