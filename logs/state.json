@@ -1,8 +1,8 @@
 {
   "objective": "Read C:\\dev\\zipgap-exchange\\CODEX.md and follow its continuous data workflow.",
   "workspace": "C:\\dev\\zipgap-exchange",
-  "lastAction": "Added three seed complex assets with verified metadata and lawdCd values; resolved the Jeju candidate to 제주첨단꿈에그린2단지; added six lawd-validated regional wishlist candidates. HWAMJAIPARK builtYear remains unset because completion is planned for 2027.",
-  "cyclesCompleted": 17,
+  "lastAction": "Added three seed complex assets with verified metadata and lawdCd values; left HARRINGTONTECHNO builtYear unset because only an August 2026 planned move-in was found; added three lawd-validated regional wishlist candidates. HWAMJAIPARK builtYear remains unset because completion is planned for 2027.",
+  "cyclesCompleted": 18,
   "processedItems": [
     "scout:wishlist:60-candidates",
     "add-asset:OLYMPIC",
@@ -84,7 +84,12 @@
     "scout:wishlist:6-candidates:cycle17",
     "add-asset:JEJUDREAM2",
     "add-asset:CHEONGJUSKVIEW",
-    "add-asset:CHANGWONUNICITY2"
+    "add-asset:CHANGWONUNICITY2",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle18",
+    "scout:wishlist:3-candidates:cycle18",
+    "add-asset:HARRINGTONTECHNO",
+    "add-asset:MYEONGJIDUSAN",
+    "add-asset:GEOMDANPRUGIO"
   ],
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK builtYear unset until its planned 2027 completion, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK has no actual completion year yet; planned completion is 2027."

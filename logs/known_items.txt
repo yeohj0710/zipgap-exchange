@@ -79,3 +79,8 @@ scout:wishlist:6-candidates:cycle17
 add-asset:JEJUDREAM2
 add-asset:CHEONGJUSKVIEW
 add-asset:CHANGWONUNICITY2
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle18
+scout:wishlist:3-candidates:cycle18
+add-asset:HARRINGTONTECHNO
+add-asset:MYEONGJIDUSAN
+add-asset:GEOMDANPRUGIO
