@@ -601,10 +601,18 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle105",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle105",
     "wishlist:consume:GANGJEONGYOO",
-    "add-asset:GANGJEONGYOO"
+    "add-asset:GANGJEONGYOO",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle106",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle106",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle106",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle106",
+    "scout:wishlist:1-candidate:cycle106",
+    "scout:wishlist:add:NARITJAE5:cycle106",
+    "scout:wishlist:reject:NARITJAE5:unresolvable-region:cycle106",
+    "scout:wishlist:replace:BITGARAMJUNGHEUNG1:cycle106"
   ],
-  "cyclesCompleted": 105,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added GANGJEONGYOO with verified 84.99 square meter metadata and lawdCd values; removed the consumed candidate.",
+  "cyclesCompleted": 106,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; rejected the unresolvable Sejong candidate and replaced it with the verified BITGARAMJUNGHEUNG1 wishlist candidate in Naju Bitgaram-dong with 84.93 square meters.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }

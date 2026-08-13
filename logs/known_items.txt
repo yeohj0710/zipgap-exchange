@@ -598,3 +598,11 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle105
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle105
 wishlist:consume:GANGJEONGYOO
 add-asset:GANGJEONGYOO
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle106
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle106
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle106
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle106
+scout:wishlist:1-candidate:cycle106
+scout:wishlist:add:NARITJAE5:cycle106
+scout:wishlist:reject:NARITJAE5:unresolvable-region:cycle106
+scout:wishlist:replace:BITGARAMJUNGHEUNG1:cycle106
