@@ -238,3 +238,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle43
 scout:wishlist:1-candidate:cycle43
 wishlist:consume:HWAMYEONGKAI
 add-asset:HWAMYEONGKAI
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle44
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle44
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle44
+scout:wishlist:1-candidate:cycle44
+wishlist:consume:LGMETROCITY
+add-asset:LGMETROCITY
