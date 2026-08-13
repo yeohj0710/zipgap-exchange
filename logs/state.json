@@ -327,10 +327,16 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle57",
     "scout:wishlist:1-candidate:cycle57",
     "wishlist:consume:CHANGWONUNICITY3",
-    "add-asset:CHANGWONUNICITY3"
+    "add-asset:CHANGWONUNICITY3",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle58",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle58",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle58",
+    "scout:wishlist:1-candidate:cycle58",
+    "wishlist:consume:YEOSUWELL3",
+    "add-asset:YEOSUWELL3"
   ],
-  "cyclesCompleted": 57,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, and CENTUMPARKSK builtYear unset because completion or move-in is planned; added CHANGWONUNICITY3 with verified 84.02 square meter metadata and lawdCd values; removed the consumed candidate and added one Gyeongnam candidate.",
+  "cyclesCompleted": 58,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, and CENTUMPARKSK builtYear unset because completion or move-in is planned; added YEOSUWELL3 with verified 84.96 square meter metadata and lawdCd values; removed the consumed candidate and added one Jeonnam candidate.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, and CENTUMPARKSK builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have no actual completion year; planned completion or move-in is 2027."
 }

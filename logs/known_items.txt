@@ -324,3 +324,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle57
 scout:wishlist:1-candidate:cycle57
 wishlist:consume:CHANGWONUNICITY3
 add-asset:CHANGWONUNICITY3
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle58
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle58
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle58
+scout:wishlist:1-candidate:cycle58
+wishlist:consume:YEOSUWELL3
+add-asset:YEOSUWELL3
