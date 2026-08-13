@@ -300,3 +300,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle53
 scout:wishlist:1-candidate:cycle53
 wishlist:consume:JEONJUECOSHOP
 add-asset:JEONJUECOSHOP
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle54
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle54
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle54
+scout:wishlist:1-candidate:cycle54
+wishlist:consume:CHANGWONUNICITY1
+add-asset:CHANGWONUNICITY1
