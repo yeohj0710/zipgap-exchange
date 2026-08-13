@@ -196,3 +196,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle36
 scout:wishlist:1-candidate:cycle36
 wishlist:consume:SEONGBOKLOTTE
 add-asset:SEONGBOKLOTTE
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle37
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle37
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle37
+scout:wishlist:1-candidate:cycle37
+wishlist:consume:MISACENTRAL
+add-asset:MISACENTRAL
