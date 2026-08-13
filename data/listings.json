@@ -25320,6 +25320,59 @@
         { "ym": "2026-07", "price": 39800, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 39400, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "CHEOMDAN2",
+      "name": "첨단자이2단지",
+      "alias": "첨단자이2차",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "광주 북구 신용동",
+      "unitArea": 84.99,
+      "households": 546,
+      "builtYear": 2012,
+      "tags": [
+        "광주",
+        "북구",
+        "신용동"
+      ],
+      "rentYield": 0.034,
+      "shareDivisor": 100000,
+      "lawdCd": "29170",
+      "history": [
+        { "ym": "2024-01", "price": 34400, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 33800, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 33200, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 35800, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 35200, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 34600, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 37400, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 36800, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 36200, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 39000, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 38400, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 37800, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 36600, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 36000, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 35400, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 38200, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 37600, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 37000, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 39800, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 39200, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 38600, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 41400, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 40800, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 40200, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 39000, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 38400, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 37800, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 40600, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 40000, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 39400, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 42200, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 41600, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }
