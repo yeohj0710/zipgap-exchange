@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "청주가경아이파크", "region": "충북 청주시 흥덕구 가경동", "unitArea": 84.98 },
     { "name": "천안불당지웰더샵", "region": "충남 천안시 서북구 불당동", "unitArea": 84.99 },
     { "name": "운암산아이파크", "region": "광주 북구 동림동", "unitArea": 84.98 },
     { "name": "울산송정금강펜테리움그린테라스", "region": "울산 북구 송정동", "unitArea": 84.98 },
@@ -59,6 +58,7 @@
     { "name": "군산미장아이파크", "region": "전라북도 군산시 미장동", "unitArea": 84.98 },
     { "name": "창원자이시그니처", "region": "경남 창원시 성산구 가음동", "unitArea": 84.99 },
     { "name": "중산자이1단지", "region": "경북 경산시 중산동", "unitArea": 84.99 },
-    { "name": "포항자이애서턴", "region": "경북 포항시 북구 학잠동", "unitArea": 84.99 }
+    { "name": "목포하당지구중흥S클래스센텀뷰", "region": "전남 목포시 상동", "unitArea": 84.99 },
+    { "name": "광양중마대광로제비앙", "region": "전남 광양시 중동", "unitArea": 84.98 }
   ]
 }

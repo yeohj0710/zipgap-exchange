@@ -256,3 +256,11 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle46
 scout:wishlist:1-candidate:cycle46
 wishlist:consume:DORYONGSKVIEW
 add-asset:DORYONGSKVIEW
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle47
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle47
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle47
+wishlist:dedupe:포항자이애서턴:cycle47
+scout:wishlist:1-candidate:cycle47
+wishlist:repair-queue:1-candidate:cycle47
+wishlist:consume:GAGYEONGIPARK
+add-asset:GAGYEONGIPARK
