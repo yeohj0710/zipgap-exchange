@@ -74,3 +74,8 @@ wishlist:dedupe:3-candidates:cycle16
 add-asset:CHUNGJUCENTRAL
 add-asset:HWANGSEONGKCC
 add-asset:SEOSANPRUGIO
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle17
+scout:wishlist:6-candidates:cycle17
+add-asset:JEJUDREAM2
+add-asset:CHEONGJUSKVIEW
+add-asset:CHANGWONUNICITY2

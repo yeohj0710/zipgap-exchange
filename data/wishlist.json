@@ -1,9 +1,12 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "제주첨단과학기술단지꿈에그린", "region": "제주 제주시 월평동", "unitArea": 84.99 },
-    { "name": "청주SK뷰자이", "region": "충북 청주시 흥덕구 봉명동", "unitArea": 84.97 },
-    { "name": "창원중동유니시티2단지", "region": "경남 창원시 의창구 중동", "unitArea": 84.99 },
+    { "name": "해링턴플레이스테크노폴리스", "region": "충북 청주시 흥덕구 송절동", "unitArea": 84.95 },
+    { "name": "명지두산위브포세이돈", "region": "부산 강서구 명지동", "unitArea": 84.98 },
+    { "name": "검단신도시푸르지오더베뉴", "region": "인천 서구 원당동", "unitArea": 84.98 },
+    { "name": "광주수완6차대방노블랜드", "region": "광주 광산구 수완동", "unitArea": 84.85 },
+    { "name": "거제아주KCC스위첸", "region": "경남 거제시 아주동", "unitArea": 84.96 },
+    { "name": "구미인동하늘채디어반", "region": "경북 구미시 인의동", "unitArea": 84.99 },
     { "name": "청라호수공원한신더휴", "region": "인천 서구 청라동", "unitArea": 84.96 },
     { "name": "루원시티SK리더스뷰", "region": "인천 서구 가정동", "unitArea": 84.98 },
     { "name": "남천자이", "region": "부산 수영구 남천동", "unitArea": 84.98 },
