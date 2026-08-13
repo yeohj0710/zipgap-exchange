@@ -135,3 +135,9 @@ wishlist:consume:CENTUMPARKSK
 wishlist:consume:BEOMEOCENTRAL
 add-asset:CENTUMPARKSK
 add-asset:BEOMEOCENTRAL
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle27
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle27
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle27
+scout:wishlist:2-candidates:cycle27
+wishlist:consume:CHEOMDANJAI1
+add-asset:CHEOMDANJAI1
