@@ -67,6 +67,8 @@ interface SessionValue {
   account: Account | null;
   me: MeData | null;
   needsLogin: boolean;
+  /** 데이터베이스가 없어 보기만 되는 상태 */
+  readOnly: boolean;
   busy: boolean;
   openAccount: () => Promise<void>;
   loginGoogle: () => Promise<void>;
@@ -90,6 +92,7 @@ function SessionProvider({ children }: { children: React.ReactNode }) {
   const [me, setMe] = useState<MeData | null>(null);
   const [busy, setBusy] = useState(false);
   const [needsLogin, setNeedsLogin] = useState(false);
+  const [readOnly, setReadOnly] = useState(false);
   const tokenRef = useRef<string | null>(null);
 
   const live = FIREBASE_READY;
@@ -142,10 +145,17 @@ function SessionProvider({ children }: { children: React.ReactNode }) {
   /** 세션을 서버에 알리고 계정을 확보한다 */
   const sync = useCallback(async () => {
     try {
-      const data = await api<{ account: Account | null; token: string | null; needsLogin?: boolean }>(
-        "/api/session",
-        { method: "POST", body: JSON.stringify({}) }
-      );
+      const data = await api<{
+        account: Account | null;
+        token: string | null;
+        needsLogin?: boolean;
+        readOnly?: boolean;
+      }>("/api/session", { method: "POST", body: JSON.stringify({}) });
+      if (data.readOnly) {
+        setReadOnly(true);
+        setNeedsLogin(false);
+        return;
+      }
       if (data.token) {
         tokenRef.current = data.token;
         try {
@@ -268,6 +278,7 @@ function SessionProvider({ children }: { children: React.ReactNode }) {
       account,
       me,
       needsLogin,
+      readOnly,
       busy,
       openAccount,
       loginGoogle,
@@ -276,7 +287,7 @@ function SessionProvider({ children }: { children: React.ReactNode }) {
       api,
       setNick,
     }),
-    [ready, live, account, me, needsLogin, busy, openAccount, loginGoogle, logout, refresh, api, setNick]
+    [ready, live, account, me, needsLogin, readOnly, busy, openAccount, loginGoogle, logout, refresh, api, setNick]
   );
 
   return <SessionCtx.Provider value={value}>{children}</SessionCtx.Provider>;

@@ -45,3 +45,5 @@ next-env.d.ts
 data/raw/
 shots/
 serviceAccount*.json
+
+.vercel

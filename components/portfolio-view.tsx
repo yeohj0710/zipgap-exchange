@@ -8,13 +8,32 @@ import { pct, qty as fq, toneClass, won } from "@/lib/format";
 import { RULES } from "@/lib/config";
 
 export function PortfolioView() {
-  const { me, account, ready, openAccount, busy, setNick, live, loginGoogle } = useSession();
+  const { me, account, ready, readOnly, openAccount, busy, setNick, live, loginGoogle } =
+    useSession();
   const [editing, setEditing] = useState(false);
   const [draft, setDraft] = useState("");
   const [err, setErr] = useState("");
 
   if (!ready) {
     return <div className="py-20 text-center text-[13px] text-[var(--color-dim)]">불러오는 중</div>;
+  }
+
+  if (readOnly) {
+    return (
+      <div className="mx-auto max-w-md py-20 text-center">
+        <p className="text-[15px] font-semibold">지금은 보기만 됩니다</p>
+        <p className="mt-1.5 text-[13px] leading-relaxed text-[var(--color-mute)]">
+          주문과 잔고를 받아 둘 데이터베이스를 아직 안 붙였습니다. 붙이면 계좌가 열리고 여기에 내
+          집과 손익이 쌓입니다
+        </p>
+        <Link
+          href="/"
+          className="mt-4 inline-block rounded-lg border border-[var(--color-line)] px-4 py-2 text-[13px] text-[var(--color-mute)] hover:text-[var(--color-ink)]"
+        >
+          시장 둘러보기
+        </Link>
+      </div>
+    );
   }
 
   if (!account || !me) {

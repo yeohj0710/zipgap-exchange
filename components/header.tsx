@@ -14,7 +14,8 @@ const NAV = [
 
 export function Header() {
   const path = usePathname();
-  const { account, me, ready, live, needsLogin, busy, openAccount, loginGoogle } = useSession();
+  const { account, me, ready, live, needsLogin, readOnly, busy, openAccount, loginGoogle } =
+    useSession();
 
   const rate = me && me.account.seed > 0 ? (me.equity - me.account.seed) / me.account.seed : 0;
 
@@ -49,6 +50,10 @@ export function Header() {
 
         {!ready ? (
           <div className="h-7 w-24 animate-pulse rounded-md bg-[var(--color-panel2)]" />
+        ) : readOnly ? (
+          <span className="shrink-0 rounded-lg border border-[var(--color-line)] px-2.5 py-1.5 text-[12px] text-[var(--color-dim)]">
+            보기 전용
+          </span>
         ) : account && me ? (
           <Link
             href="/portfolio"

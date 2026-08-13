@@ -20,7 +20,7 @@ export function OrderForm({
   picked: number | null;
   onDone: () => void;
 }) {
-  const { account, me, ready, busy, openAccount, api, refresh } = useSession();
+  const { account, me, ready, readOnly, busy, openAccount, api, refresh } = useSession();
   const [side, setSide] = useState<Side>("buy");
   const [type, setType] = useState<OrderType>("limit");
   const [price, setPrice] = useState<number>(0);
@@ -90,7 +90,22 @@ export function OrderForm({
     }
   };
 
-  const disabled = sending || busy || !ready;
+  const disabled = sending || busy || !ready || readOnly;
+
+  if (readOnly) {
+    return (
+      <div className="panel flex flex-col gap-2.5 p-5 text-[13px] leading-relaxed">
+        <p className="font-semibold text-[var(--color-ink)]">지금은 보기만 됩니다</p>
+        <p className="text-[var(--color-mute)]">
+          값과 호가는 진짜처럼 움직입니다. 다만 주문을 받아 둘 데이터베이스를 아직 안 붙여서
+          사고팔 수는 없습니다.
+        </p>
+        <p className="text-[var(--color-dim)]">
+          Firestore 를 붙이면 계좌가 열리고, 여기서 낸 주문이 다른 사람 주문과 실제로 체결됩니다.
+        </p>
+      </div>
+    );
+  }
 
   return (
     <div className="panel flex flex-col overflow-hidden">

@@ -6,7 +6,7 @@ import { useMarket, useSession } from "./providers";
 /** 데이터 상태와 접속 상태를 한 줄로 알려 준다 */
 export function MarketBanner({ version, status }: { version: string; status: string }) {
   const { connected } = useMarket();
-  const { live, account, ready, openAccount, busy } = useSession();
+  const { live, account, ready, readOnly, openAccount, busy } = useSession();
 
   const seed = status !== "real";
 
@@ -38,13 +38,23 @@ export function MarketBanner({ version, status }: { version: string; status: str
         <>
           <span className="text-[var(--color-line2)]">|</span>
           <span className="text-[var(--color-mute)]">
-            데이터베이스를 안 붙여 <span className="text-[var(--color-accent)]">체험 모드</span>로
-            돕니다. 거래 기록이 남지 않습니다
+            {readOnly ? (
+              <>
+                데이터베이스를 아직 안 붙여{" "}
+                <span className="text-[var(--color-accent)]">보기만 됩니다</span>. 값과 호가는
+                진짜처럼 움직이지만 주문은 안 나갑니다
+              </>
+            ) : (
+              <>
+                데이터베이스를 안 붙여 <span className="text-[var(--color-accent)]">체험 모드</span>로
+                돕니다. 거래 기록이 남지 않습니다
+              </>
+            )}
           </span>
         </>
       )}
 
-      {ready && !account && (
+      {ready && !account && !readOnly && (
         <button
           onClick={() => void openAccount()}
           disabled={busy}
@@ -53,8 +63,11 @@ export function MarketBanner({ version, status }: { version: string; status: str
           계좌 열고 시작하기
         </button>
       )}
-      {ready && account && (
-        <Link href="/guide" className="ml-auto text-[12px] text-[var(--color-dim)] hover:text-[var(--color-ink)]">
+      {ready && (account || readOnly) && (
+        <Link
+          href="/guide"
+          className="ml-auto shrink-0 text-[12px] text-[var(--color-dim)] hover:text-[var(--color-ink)]"
+        >
           거래 규칙 보기 →
         </Link>
       )}
