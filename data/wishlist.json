@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "화명롯데캐슬카이저", "region": "부산 북구 화명동", "unitArea": 84.93 },
     { "name": "엘지메트로시티", "region": "부산 남구 용호동", "unitArea": 84.97 },
     { "name": "월배삼정그린코아카운티", "region": "대구 달서구 월성동", "unitArea": 84.98 },
     { "name": "도룡SK뷰", "region": "대전 유성구 도룡동", "unitArea": 84.97 },
@@ -59,6 +58,7 @@
     { "name": "검단신도시우미린더시그니처", "region": "인천 서구 원당동", "unitArea": 84.97 },
     { "name": "e편한세상용인한숲시티", "region": "경기 용인시 처인구 남사읍", "unitArea": 84.99 },
     { "name": "e편한세상어양", "region": "전라북도 익산시 어양동", "unitArea": 84.99 },
-    { "name": "e편한세상부평역센트럴파크", "region": "인천 부평구 부평동", "unitArea": 84.99 }
+    { "name": "e편한세상부평역센트럴파크", "region": "인천 부평구 부평동", "unitArea": 84.99 },
+    { "name": "군산미장아이파크", "region": "전라북도 군산시 미장동", "unitArea": 84.98 }
   ]
 }

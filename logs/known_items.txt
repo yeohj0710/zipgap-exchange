@@ -232,3 +232,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle42
 scout:wishlist:1-candidate:cycle42
 wishlist:consume:BUPYEONGGRAN
 add-asset:BUPYEONGGRAN
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle43
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle43
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle43
+scout:wishlist:1-candidate:cycle43
+wishlist:consume:HWAMYEONGKAI
+add-asset:HWAMYEONGKAI
