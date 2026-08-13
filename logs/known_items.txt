@@ -666,3 +666,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle116
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle116
 scout:wishlist:1-candidate:cycle116
 scout:wishlist:add:YEONGJUTHELIV:cycle116
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle117
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle117
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle117
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle117
+wishlist:consume:GYEONGSANIP2
+add-asset:GYEONGSANIP2
