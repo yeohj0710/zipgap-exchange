@@ -25109,6 +25109,59 @@
         { "ym": "2026-07", "price": 26600, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 26200, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "GANGNEUNGYUS",
+      "name": "강릉유천유승한내들",
+      "alias": "강릉유천유승한내들더퍼스트",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "강원도 강릉시 유천동",
+      "unitArea": 84.98,
+      "households": 788,
+      "builtYear": 2021,
+      "tags": [
+        "강원도",
+        "강릉시",
+        "유천동"
+      ],
+      "rentYield": 0.034,
+      "shareDivisor": 100000,
+      "lawdCd": "42150",
+      "history": [
+        { "ym": "2024-01", "price": 46800, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 46200, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 45600, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 48400, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 47800, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 47200, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 50200, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 49600, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 49000, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 52000, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 51400, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 50800, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 49400, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 48800, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 48200, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 51200, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 50600, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 50000, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 53200, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 52600, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 52000, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 55200, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 54600, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 54000, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 52600, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 52000, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 51400, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 54600, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 54000, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 53400, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 56600, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 56000, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }
