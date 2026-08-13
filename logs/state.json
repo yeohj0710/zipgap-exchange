@@ -675,10 +675,15 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle117",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle117",
     "wishlist:consume:GYEONGSANIP2",
-    "add-asset:GYEONGSANIP2"
+    "add-asset:GYEONGSANIP2",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle118",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle118",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle118",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle118",
+    "fill-meta:GYEONGSANIP2:deferred-planned-2027:cycle118"
   ],
-  "cyclesCompleted": 117,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; added GYEONGSANIP2 with verified 84.95 square meter metadata, 745 households, and 47290 lawdCd while leaving builtYear unset because completion remains planned; removed the consumed candidate.",
+  "cyclesCompleted": 118,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, ANDONGTOP, and GYEONGSANIP2 builtYear unset because completion remains planned or the schedule is unresolved; verified the five metadata tasks without changing data values.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }

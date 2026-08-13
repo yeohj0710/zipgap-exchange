@@ -672,3 +672,8 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle117
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle117
 wishlist:consume:GYEONGSANIP2
 add-asset:GYEONGSANIP2
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle118
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle118
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle118
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle118
+fill-meta:GYEONGSANIP2:deferred-planned-2027:cycle118
