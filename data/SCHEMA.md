@@ -58,8 +58,9 @@
 | `tags` | O | 빈 배열이라도 넣는다 |
 | `rentYield` | O | 연 임대수익률. 0.01 = 1%. 월세 배당 계산에 쓴다 |
 | `shareDivisor` | O | 한 채를 몇 조각으로 쪼갰는지. **항상 100000** 으로 둔다 |
-| `lawdCd` | 단지만 | 법정동코드 앞 5자리(시군구). 실거래 조회 열쇠 |
-| `aptName` | 단지만 | 국토부 자료에 적힌 아파트명 원문. `name` 과 다를 수 있다 |
+| `lawdCd` | 단지만 | 법정동코드 앞 5자리(시군구). 실거래 조회 열쇠. `scripts/resolve-lawd.mjs` 가 채운다 |
+| `aptName` | 단지만 | 국토부 자료에 적힌 아파트명 원문. `name` 과 다를 수 있다. 실제 조회로 확인한다 |
+| `members` | 지수만 | 이 지수를 이루는 시군구 코드 배열. `scripts/resolve-lawd.mjs` 의 `INDEX_RULES` 가 채운다 |
 | `history` | O | 월별 시세. `ym` 오름차순, 빠진 달 없이 이어져야 한다 |
 
 ## history 한 줄
