@@ -474,3 +474,8 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle83
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle83
 wishlist:consume:GEOMDANJAI2
 add-asset:GEOMDANJAI2
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle84
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle84
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle84
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle84
+scout:wishlist:1-candidate:cycle84
