@@ -615,10 +615,16 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle107",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle107",
     "wishlist:consume:YANGSANSASONG3",
-    "add-asset:YANGSANSASONG3"
+    "add-asset:YANGSANSASONG3",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle108",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle108",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle108",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle108",
+    "scout:wishlist:1-candidate:cycle108",
+    "scout:wishlist:add:BAEBANG2PRUGIO:cycle108"
   ],
-  "cyclesCompleted": 107,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; added YANGSANSASONG3 with verified 84.98 square meter metadata, 533 households, 2024 completion, and lawdCd 48330; removed the consumed candidate.",
+  "cyclesCompleted": 108,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; added the verified BAEBANG2PRUGIO wishlist candidate in Asan Baebang-eup with 84.93 square meters, 379 households, and a resolvable legal-dong region.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }
