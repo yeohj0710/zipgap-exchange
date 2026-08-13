@@ -682,3 +682,8 @@ fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle119
 fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle119
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle119
 fill-meta:GYEONGSANIP2:deferred-planned-2027:cycle119
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle120
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle120
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle120
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle120
+fill-meta:GYEONGSANIP2:deferred-planned-2027:cycle120
