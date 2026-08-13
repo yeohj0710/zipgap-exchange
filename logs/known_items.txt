@@ -402,3 +402,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle70
 scout:wishlist:1-candidate:cycle70
 wishlist:consume:YANGSANPARK
 add-asset:YANGSANPARK
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle71
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle71
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle71
+scout:wishlist:1-candidate:cycle71
+wishlist:consume:ANDONGTOP
+add-asset:ANDONGTOP
