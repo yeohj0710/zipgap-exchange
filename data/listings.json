@@ -25744,6 +25744,60 @@
         { "ym": "2026-07", "price": 49200, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 49500, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "MAGOKMVALLEY9",
+      "name": "마곡지구9단지",
+      "alias": "마곡엠밸리9단지",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "서울 강서구 마곡동",
+      "unitArea": 84.65,
+      "households": 1529,
+      "builtYear": 2021,
+      "tags": [
+        "서울",
+        "강서구",
+        "마곡동",
+        "신축"
+      ],
+      "rentYield": 0.021,
+      "shareDivisor": 100000,
+      "lawdCd": "11500",
+      "history": [
+        { "ym": "2024-01", "price": 133000, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 132000, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 131000, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 136000, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 135000, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 134000, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 140000, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 139000, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 138000, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 144000, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 143000, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 142000, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 138000, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 137000, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 136000, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 145000, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 143000, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 141000, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 148000, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 146000, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 147000, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 152000, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 150000, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 148000, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 151000, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 153000, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 156000, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 175000, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 170000, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 172000, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 174000, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 175000, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }

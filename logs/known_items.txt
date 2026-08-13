@@ -501,3 +501,9 @@ fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle88
 fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle88
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle88
 scout:wishlist:1-candidate:cycle88
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle89
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle89
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle89
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle89
+wishlist:consume:MAGOKMVALLEY9
+add-asset:MAGOKMVALLEY9
