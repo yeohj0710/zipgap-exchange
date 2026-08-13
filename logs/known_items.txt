@@ -107,3 +107,10 @@ wishlist:consume:CHEONGJUTECHNO1
 wishlist:consume:GAPCHEON1TRIPLE
 add-asset:CHEONGJUTECHNO1
 add-asset:GAPCHEON1TRIPLE
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle23
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle23
+scout:wishlist:2-candidates:cycle23
+wishlist:consume:SUWANBANG6
+wishlist:consume:GEOJEKCC
+add-asset:SUWANBANG6
+add-asset:GEOJEKCC
