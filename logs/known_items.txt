@@ -89,3 +89,9 @@ fill-meta:HARRINGTONTECHNO:builtYear-2026
 scout:wishlist:3-candidates:cycle19
 add-asset:DUNGGOKWOOMI
 add-asset:ULSANAEILIN1
+add-asset:CHEONANLAKESIDE
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle20
+scout:wishlist:3-candidates:cycle20
+add-asset:JEJUDREAM3
+add-asset:SHINYOUNGTECHNO
+add-asset:ULSANAEILIN2
