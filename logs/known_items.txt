@@ -190,3 +190,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle35
 scout:wishlist:1-candidate:cycle35
 wishlist:consume:YEUIDOJAI
 add-asset:YEUIDOJAI
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle36
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle36
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle36
+scout:wishlist:1-candidate:cycle36
+wishlist:consume:SEONGBOKLOTTE
+add-asset:SEONGBOKLOTTE
