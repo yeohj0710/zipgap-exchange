@@ -19,8 +19,8 @@ export function OrderBook({
   now: number;
   onPick: (price: number) => void;
 }) {
-  // 8단이면 440px 안에 딱 들어간다. 더 늘리면 아래가 잘린다
-  const levels = useMemo(() => bookLevels(asset, book, now, 8), [asset, book, now]);
+  // 7단씩이면 440px 안에 들어간다. 더 늘리면 아래가 잘린다
+  const levels = useMemo(() => bookLevels(asset, book, now, 7), [asset, book, now]);
   const maxQty = useMemo(
     () => Math.max(1, ...levels.bids.map((l) => l.qty), ...levels.asks.map((l) => l.qty)),
     [levels]
