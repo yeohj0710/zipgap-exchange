@@ -25003,6 +25003,59 @@
         { "ym": "2026-07", "price": 58400, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 57800, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "JINJUPRIME",
+      "name": "진주혁신도시중흥S클래스더프라임",
+      "alias": "진주혁신도시중흥S-클래스더프라임",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "경남 진주시 충무공동",
+      "unitArea": 84.99,
+      "households": 1143,
+      "builtYear": 2019,
+      "tags": [
+        "경남",
+        "진주시",
+        "충무공동"
+      ],
+      "rentYield": 0.033,
+      "shareDivisor": 100000,
+      "lawdCd": "48170",
+      "history": [
+        { "ym": "2024-01", "price": 48200, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 47600, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 47000, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 49800, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 49200, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 48600, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 51600, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 51000, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 50400, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 53200, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 52600, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 52000, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 50500, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 49900, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 49300, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 52300, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 51700, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 51100, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 54300, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 53700, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 53100, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 56100, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 55500, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 54900, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 53600, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 53000, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 52400, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 55400, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 54800, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 54200, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 57300, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 56700, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }

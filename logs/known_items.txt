@@ -372,3 +372,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle65
 scout:wishlist:1-candidate:cycle65
 wishlist:consume:ASANTANGGJWELL
 add-asset:ASANTANGGJWELL
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle66
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle66
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle66
+scout:wishlist:1-candidate:cycle66
+wishlist:consume:JINJUPRIME
+add-asset:JINJUPRIME
