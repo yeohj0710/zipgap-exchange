@@ -214,3 +214,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle39
 scout:wishlist:1-candidate:cycle39
 wishlist:consume:GODEOKPARAGON
 add-asset:GODEOKPARAGON
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle40
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle40
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle40
+scout:wishlist:1-candidate:cycle40
+wishlist:consume:HANGANGJAI
+add-asset:HANGANGJAI
