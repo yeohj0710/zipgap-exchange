@@ -548,3 +548,9 @@ fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle96
 fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle96
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle96
 scout:wishlist:1-candidate:cycle96
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle97
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle97
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle97
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle97
+wishlist:consume:CHEONGRATSHARP
+add-asset:CHEONGRATSHARP
