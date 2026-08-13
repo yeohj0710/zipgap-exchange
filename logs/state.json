@@ -690,10 +690,15 @@
     "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle120",
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle120",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle120",
-    "fill-meta:GYEONGSANIP2:deferred-planned-2027:cycle120"
+    "fill-meta:GYEONGSANIP2:deferred-planned-2027:cycle120",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle121",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle121",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle121",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle121",
+    "fill-meta:GYEONGSANIP2:deferred-unresolved-schedule:cycle121"
   ],
-  "cyclesCompleted": 120,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, ANDONGTOP, and GYEONGSANIP2 builtYear unset because completion remains planned or the schedule is unresolved; recorded the same five metadata deferrals for cycle 120 without changing data values.",
-  "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
-  "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
+  "cyclesCompleted": 121,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; kept GYEONGSANIP2 builtYear unset because its construction and resales schedule is unresolved; recorded the five metadata deferrals for cycle 121.",
+  "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, ANDONGTOP, and GYEONGSANIP2 builtYear unset while completion remains planned or unresolved, then process the next keyless metadata, scout, and asset tasks.",
+  "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
