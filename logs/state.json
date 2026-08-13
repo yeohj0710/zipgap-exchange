@@ -568,10 +568,15 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle99",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle99",
     "wishlist:consume:GAYALSKYEL",
-    "add-asset:GAYALSKYEL"
+    "add-asset:GAYALSKYEL",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle100",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle100",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle100",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle100",
+    "scout:wishlist:1-candidate:cycle100"
   ],
-  "cyclesCompleted": 99,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added GAYALSKYEL with verified 84.95 square meter metadata and lawdCd values; removed the consumed candidate.",
+  "cyclesCompleted": 100,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added the verified Jungsan Haneulchae The First candidate with 84.84 square meter metadata.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }

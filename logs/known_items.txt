@@ -565,3 +565,8 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle99
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle99
 wishlist:consume:GAYALSKYEL
 add-asset:GAYALSKYEL
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle100
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle100
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle100
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle100
+scout:wishlist:1-candidate:cycle100
