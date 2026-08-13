@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "여의도자이", "region": "서울 영등포구 여의도동", "unitArea": 84.67 },
     { "name": "성복역롯데캐슬골드타운", "region": "경기 용인시 수지구 성복동", "unitArea": 84.97 },
     { "name": "미사강변센트럴자이", "region": "경기 하남시 망월동", "unitArea": 84.96 },
     { "name": "다산자이아이비플레이스", "region": "경기 남양주시 다산동", "unitArea": 84.98 },
@@ -59,6 +58,7 @@
     { "name": "목포옥암골드클래스", "region": "전남 목포시 옥암동", "unitArea": 84.99 },
     { "name": "호암지구우미린에듀시티", "region": "충북 충주시 호암동", "unitArea": 84.99 },
     { "name": "오토밸리로줌파크", "region": "울산 북구 중산동", "unitArea": 84.9 },
-    { "name": "조례3차골드클래스", "region": "전남 순천시 조례동", "unitArea": 84.99 }
+    { "name": "조례3차골드클래스", "region": "전남 순천시 조례동", "unitArea": 84.99 },
+    { "name": "경산아이파크2차", "region": "경북 경산시 압량읍", "unitArea": 84.95 }
   ]
 }
