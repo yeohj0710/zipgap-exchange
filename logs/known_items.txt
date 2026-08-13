@@ -446,3 +446,9 @@ fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle78
 fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle78
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle78
 scout:wishlist:1-candidate:cycle78
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle79
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle79
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle79
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle79
+wishlist:consume:BAEGOTPRIME
+add-asset:BAEGOTPRIME
