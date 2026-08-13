@@ -23723,6 +23723,219 @@
           "source": "seed"
         }
       ]
+    },
+    {
+      "symbol": "WOLSEONGSAMJ",
+      "name": "월배삼정그린코아카운티",
+      "alias": "월성삼정그린코아카운티",
+      "kind": "complex",
+      "sido": "광역시",
+      "region": "대구 달서구 월성동",
+      "unitArea": 109.0,
+      "households": 202,
+      "builtYear": 2022,
+      "tags": [
+        "대구",
+        "달서구",
+        "월성동"
+      ],
+      "rentYield": 0.026,
+      "shareDivisor": 100000,
+      "lawdCd": "27290",
+      "history": [
+        {
+          "ym": "2024-01",
+          "price": 66500,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-02",
+          "price": 66000,
+          "trades": 3,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-03",
+          "price": 65800,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-04",
+          "price": 68400,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-05",
+          "price": 67600,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-06",
+          "price": 67400,
+          "trades": 3,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-07",
+          "price": 70000,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-08",
+          "price": 69400,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-09",
+          "price": 69200,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-10",
+          "price": 71800,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-11",
+          "price": 71000,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2024-12",
+          "price": 70800,
+          "trades": 3,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-01",
+          "price": 73400,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-02",
+          "price": 72800,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-03",
+          "price": 72600,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-04",
+          "price": 75200,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-05",
+          "price": 74400,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-06",
+          "price": 74200,
+          "trades": 3,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-07",
+          "price": 76800,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-08",
+          "price": 76200,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-09",
+          "price": 76000,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-10",
+          "price": 78600,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-11",
+          "price": 77800,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2025-12",
+          "price": 77600,
+          "trades": 3,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-01",
+          "price": 80200,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-02",
+          "price": 79600,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-03",
+          "price": 79400,
+          "trades": 6,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-04",
+          "price": 82000,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-05",
+          "price": 81200,
+          "trades": 4,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-06",
+          "price": 81000,
+          "trades": 3,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-07",
+          "price": 83600,
+          "trades": 5,
+          "source": "seed"
+        },
+        {
+          "ym": "2026-08",
+          "price": 83000,
+          "trades": 4,
+          "source": "seed"
+        }
+      ]
     }
   ]
 }
