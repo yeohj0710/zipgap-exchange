@@ -532,3 +532,8 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle93
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle93
 wishlist:consume:YEONSANLCGF
 add-asset:YEONSANLCGF
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle94
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle94
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle94
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle94
+scout:wishlist:1-candidate:cycle94
