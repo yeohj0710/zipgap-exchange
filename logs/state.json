@@ -546,10 +546,15 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle95",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle95",
     "wishlist:consume:GAKSANDECIAN",
-    "add-asset:GAKSANDECIAN"
+    "add-asset:GAKSANDECIAN",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle96",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle96",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle96",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle96",
+    "scout:wishlist:1-candidate:cycle96"
   ],
-  "cyclesCompleted": 95,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added GAKSANDECIAN with verified 84.99 square meter metadata and lawdCd values; removed the consumed candidate.",
+  "cyclesCompleted": 96,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in is planned; added the verified Gunsan New Station Halla Vivaldi Centro candidate with 84.84 square meter metadata.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }
