@@ -24736,6 +24736,59 @@
         { "ym": "2026-07", "price": 57200, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 56600, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "SUNCHEONEDUHI",
+      "name": "순천신대지구중흥S클래스",
+      "alias": "중흥S클래스에듀하이10단지",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "전남 순천시 해룡면",
+      "unitArea": 84.98,
+      "households": 493,
+      "builtYear": 2020,
+      "tags": [
+        "전남",
+        "순천시",
+        "해룡면"
+      ],
+      "rentYield": 0.034,
+      "shareDivisor": 100000,
+      "lawdCd": "46150",
+      "history": [
+        { "ym": "2024-01", "price": 34400, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 33800, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 33200, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 35600, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 35000, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 34400, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 36800, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 36200, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 35600, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 38000, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 37400, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 36800, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 35600, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 35000, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 34400, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 37000, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 36400, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 35800, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 38600, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 38000, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 37400, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 40200, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 39600, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 39000, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 38200, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 37600, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 37000, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 39800, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 39200, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 38600, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 41400, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 40800, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }

@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "순천신대지구중흥S클래스", "region": "전남 순천시 해룡면", "unitArea": 84.98 },
     { "name": "창원중동유니시티4단지", "region": "경남 창원시 의창구 중동", "unitArea": 84.99 },
     { "name": "청주테크노폴리스푸르지오", "region": "충북 청주시 흥덕구 송절동", "unitArea": 84.98 },
     { "name": "광양푸르지오더퍼스트", "region": "전남 광양시 성황동", "unitArea": 84.97 },
@@ -59,6 +58,7 @@
     { "name": "메트로시티2단지", "region": "경남 창원시 마산회원구 양덕동", "unitArea": 84.93 },
     { "name": "여수웅천부영3차", "region": "전남 여수시 웅천동", "unitArea": 84.36 },
     { "name": "학잠대림힐타운", "region": "경북 포항시 북구 학잠동", "unitArea": 84.99 },
-    { "name": "속초디오션자이", "region": "강원도 속초시 동명동", "unitArea": 84.98 }
+    { "name": "속초디오션자이", "region": "강원도 속초시 동명동", "unitArea": 84.98 },
+    { "name": "울산송정한양수자인", "region": "울산 북구 송정동", "unitArea": 84.98 }
   ]
 }
