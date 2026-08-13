@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "청라제일풍경채2차에듀앤파크", "region": "인천 서구 청라동", "unitArea": 84.99 },
     { "name": "대전유성숲오투그란데3차", "region": "대전 유성구 용계동", "unitArea": 84.99 },
     { "name": "배곧호반베르디움더프라임", "region": "경기 시흥시 정왕동", "unitArea": 84.99 },
     { "name": "광주첨단2지구사랑으로부영", "region": "광주 북구 신용동", "unitArea": 84.36 },
