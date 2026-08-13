@@ -282,3 +282,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle50
 scout:wishlist:1-candidate:cycle50
 wishlist:consume:ULSANGUMGANG
 add-asset:ULSANGUMGANG
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle51
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle51
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle51
+scout:wishlist:1-candidate:cycle51
+wishlist:consume:NOHYEONG2IPARK
+add-asset:NOHYEONG2IPARK

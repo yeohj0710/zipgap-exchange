@@ -24201,6 +24201,59 @@
         { "ym": "2026-07", "price": 69500, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 68900, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "NOHYEONG2IPARK",
+      "name": "노형2차아이파크",
+      "alias": "노형 2차 아이파크",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "제주 제주시 노형동",
+      "unitArea": 84.90,
+      "households": 174,
+      "builtYear": 2014,
+      "tags": [
+        "제주",
+        "제주시",
+        "노형동"
+      ],
+      "rentYield": 0.022,
+      "shareDivisor": 100000,
+      "lawdCd": "50110",
+      "history": [
+        { "ym": "2024-01", "price": 73500, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 72800, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 72200, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 74800, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 74100, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 73500, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 76500, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 75800, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 75200, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 78200, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 77500, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 76900, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 80000, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 79300, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 78700, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 81900, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 81200, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 80600, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 83900, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 83200, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 82600, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 85900, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 85200, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 84600, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 87900, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 87200, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 86600, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 89700, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 89000, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 88400, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 91700, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 91000, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }
