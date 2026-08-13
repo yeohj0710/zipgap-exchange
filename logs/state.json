@@ -1,8 +1,8 @@
 {
   "objective": "Read C:\\dev\\zipgap-exchange\\CODEX.md and follow its continuous data workflow.",
   "workspace": "C:\\dev\\zipgap-exchange",
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, and CENTUMPARKSK builtYear unset because completion or move-in is planned; added GWANGGYOLAKE with verified metadata and lawdCd values; removed the consumed candidate and added two candidates in Jeju and Gyeongnam.",
-  "cyclesCompleted": 30,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, and CENTUMPARKSK builtYear unset because completion or move-in is planned; added BUSANPARKCITY with verified metadata and lawdCd values; removed the consumed candidate and added one Jeonnam candidate.",
+  "cyclesCompleted": 31,
   "processedItems": [
     "scout:wishlist:60-candidates",
     "add-asset:OLYMPIC",
@@ -165,7 +165,13 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle30",
     "scout:wishlist:2-candidates:cycle30",
     "wishlist:consume:GWANGGYOLAKE",
-    "add-asset:GWANGGYOLAKE"
+    "add-asset:GWANGGYOLAKE",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle31",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle31",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle31",
+    "scout:wishlist:1-candidate:cycle31",
+    "wishlist:consume:BUSANPARKCITY",
+    "add-asset:BUSANPARKCITY"
   ],
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK and SHINYOUNGTECHNO builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have no actual completion year; planned completion or move-in is 2027."

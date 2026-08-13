@@ -160,3 +160,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle30
 scout:wishlist:2-candidates:cycle30
 wishlist:consume:GWANGGYOLAKE
 add-asset:GWANGGYOLAKE
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle31
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle31
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle31
+scout:wishlist:1-candidate:cycle31
+wishlist:consume:BUSANPARKCITY
+add-asset:BUSANPARKCITY
