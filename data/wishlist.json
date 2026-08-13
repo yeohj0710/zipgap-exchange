@@ -1,7 +1,6 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "조례3차골드클래스", "region": "전남 순천시 조례동", "unitArea": 84.99 },
     { "name": "경산아이파크2차", "region": "경북 경산시 압량읍", "unitArea": 84.95 },
     { "name": "대구연경아이파크", "region": "대구 동구 지묘동", "unitArea": 84.99 },
     { "name": "김해율하원메이저", "region": "경남 김해시 장유동", "unitArea": 84.96 },

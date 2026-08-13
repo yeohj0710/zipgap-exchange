@@ -657,10 +657,16 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle114",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle114",
     "scout:wishlist:1-candidate:cycle114",
-    "scout:wishlist:add:JUYOUNGPALACE6:cycle114"
+    "scout:wishlist:add:JUYOUNGPALACE6:cycle114",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle115",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle115",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle115",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle115",
+    "wishlist:consume:JORYE3GOLD",
+    "add-asset:JORYE3GOLD"
   ],
-  "cyclesCompleted": 114,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; added the verified JUYOUNGPALACE6 wishlist candidate in Tongyeong Gwangdo-myeon with 84.99 square meters and a resolvable legal-dong region.",
+  "cyclesCompleted": 115,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; added JORYE3GOLD with verified 84.99 square meter metadata, 473 households, 2023 completion, and lawdCd 46150; removed the consumed candidate.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }
