@@ -270,3 +270,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle48
 scout:wishlist:1-candidate:cycle48
 wishlist:consume:BULDANGWELL
 add-asset:BULDANGWELL
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle49
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle49
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle49
+scout:wishlist:1-candidate:cycle49
+wishlist:consume:UNAMSANIPARK
+add-asset:UNAMSANIPARK
