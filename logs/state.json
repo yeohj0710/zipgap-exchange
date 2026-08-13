@@ -1,8 +1,8 @@
 {
   "objective": "Read C:\\dev\\zipgap-exchange\\CODEX.md and follow its continuous data workflow.",
   "workspace": "C:\\dev\\zipgap-exchange",
-  "lastAction": "Added two seed complex assets with verified metadata and lawdCd values; reused the existing WIRYECENT asset to avoid a duplicate; added three lawd-validated regional wishlist candidates. HWAMJAIPARK builtYear remains unset because completion is planned for 2027.",
-  "cyclesCompleted": 15,
+  "lastAction": "Added three seed complex assets with verified metadata and lawdCd values; removed three duplicate wishlist entries; added three lawd-validated regional wishlist candidates. HWAMJAIPARK builtYear remains unset because completion is planned for 2027.",
+  "cyclesCompleted": 16,
   "processedItems": [
     "scout:wishlist:60-candidates",
     "add-asset:OLYMPIC",
@@ -73,7 +73,13 @@
     "scout:wishlist:3-candidates:cycle15",
     "add-asset:SUWONIPARK2",
     "add-asset:EASYGWANGGYO",
-    "add-asset:WIRYECENT:duplicate-existing"
+    "add-asset:WIRYECENT:duplicate-existing",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle16",
+    "scout:wishlist:3-candidates:cycle16",
+    "wishlist:dedupe:3-candidates:cycle16",
+    "add-asset:CHUNGJUCENTRAL",
+    "add-asset:HWANGSEONGKCC",
+    "add-asset:SEOSANPRUGIO"
   ],
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK builtYear unset until its planned 2027 completion, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK has no actual completion year yet; planned completion is 2027."

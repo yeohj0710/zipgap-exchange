@@ -1,9 +1,9 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "충주센트럴푸르지오", "region": "충북 충주시 연수동", "unitArea": 84.95 },
-    { "name": "경주황성KCC스위첸", "region": "경북 경주시 황성동", "unitArea": 84.96 },
-    { "name": "서산예천푸르지오", "region": "충남 서산시 예천동", "unitArea": 84.98 },
+    { "name": "제주첨단과학기술단지꿈에그린", "region": "제주 제주시 월평동", "unitArea": 84.99 },
+    { "name": "청주SK뷰자이", "region": "충북 청주시 흥덕구 봉명동", "unitArea": 84.97 },
+    { "name": "창원중동유니시티2단지", "region": "경남 창원시 의창구 중동", "unitArea": 84.99 },
     { "name": "청라호수공원한신더휴", "region": "인천 서구 청라동", "unitArea": 84.96 },
     { "name": "루원시티SK리더스뷰", "region": "인천 서구 가정동", "unitArea": 84.98 },
     { "name": "남천자이", "region": "부산 수영구 남천동", "unitArea": 84.98 },
@@ -54,9 +54,6 @@
     { "name": "강릉유천유승한내들", "region": "강원도 강릉시 유천동", "unitArea": 84.98 },
     { "name": "e편한세상홍성더센트럴", "region": "충남 홍성군 홍성읍", "unitArea": 84.99 },
     { "name": "양산물금동일스위트", "region": "경남 양산시 물금읍", "unitArea": 84.93 },
-    { "name": "더샵안동더퍼스트", "region": "경북 안동시 옥동", "unitArea": 84.97 },
-    { "name": "충주센트럴푸르지오", "region": "충북 충주시 연수동", "unitArea": 84.95 },
-    { "name": "경주황성KCC스위첸", "region": "경북 경주시 황성동", "unitArea": 84.96 },
-    { "name": "서산예천푸르지오", "region": "충남 서산시 예천동", "unitArea": 84.98 }
+    { "name": "더샵안동더퍼스트", "region": "경북 안동시 옥동", "unitArea": 84.97 }
   ]
 }

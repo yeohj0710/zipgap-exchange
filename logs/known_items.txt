@@ -68,3 +68,9 @@ scout:wishlist:3-candidates:cycle15
 add-asset:SUWONIPARK2
 add-asset:EASYGWANGGYO
 add-asset:WIRYECENT:duplicate-existing
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle16
+scout:wishlist:3-candidates:cycle16
+wishlist:dedupe:3-candidates:cycle16
+add-asset:CHUNGJUCENTRAL
+add-asset:HWANGSEONGKCC
+add-asset:SEOSANPRUGIO
