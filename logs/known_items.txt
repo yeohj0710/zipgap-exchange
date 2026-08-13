@@ -430,3 +430,8 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle75
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle75
 wishlist:consume:CHUNGRACHEONG
 add-asset:CHUNGRACHEONG
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle76
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle76
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle76
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle76
+scout:wishlist:1-candidate:cycle76
