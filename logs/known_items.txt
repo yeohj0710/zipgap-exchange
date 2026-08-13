@@ -63,3 +63,8 @@ scout:wishlist:3-candidates:cycle14
 add-asset:GAEPORFOREST
 add-asset:SINCHONGRAN
 add-asset:BUNDANGPARK
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle15
+scout:wishlist:3-candidates:cycle15
+add-asset:SUWONIPARK2
+add-asset:EASYGWANGGYO
+add-asset:WIRYECENT:duplicate-existing

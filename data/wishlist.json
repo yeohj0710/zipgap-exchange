@@ -1,9 +1,9 @@
 {
   "note": "올릴 만한 단지 후보. data:next 가 여기서 다음 일감을 꺼낸다. 한 줄은 {name, region, unitArea} 모양.",
   "candidates": [
-    { "name": "수원아이파크시티", "region": "경기 수원시 권선구 권선동", "unitArea": 84.98 },
-    { "name": "e편한세상광교", "region": "경기 수원시 영통구 이의동", "unitArea": 84.95 },
-    { "name": "위례센트럴자이", "region": "경기 성남시 수정구 창곡동", "unitArea": 84.98 },
+    { "name": "충주센트럴푸르지오", "region": "충북 충주시 연수동", "unitArea": 84.95 },
+    { "name": "경주황성KCC스위첸", "region": "경북 경주시 황성동", "unitArea": 84.96 },
+    { "name": "서산예천푸르지오", "region": "충남 서산시 예천동", "unitArea": 84.98 },
     { "name": "청라호수공원한신더휴", "region": "인천 서구 청라동", "unitArea": 84.96 },
     { "name": "루원시티SK리더스뷰", "region": "인천 서구 가정동", "unitArea": 84.98 },
     { "name": "남천자이", "region": "부산 수영구 남천동", "unitArea": 84.98 },
