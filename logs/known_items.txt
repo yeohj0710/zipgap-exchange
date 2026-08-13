@@ -250,3 +250,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle45
 scout:wishlist:1-candidate:cycle45
 wishlist:consume:WOLSEONGSAMJ
 add-asset:WOLSEONGSAMJ
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle46
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle46
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle46
+scout:wishlist:1-candidate:cycle46
+wishlist:consume:DORYONGSKVIEW
+add-asset:DORYONGSKVIEW
