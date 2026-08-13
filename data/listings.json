@@ -25691,6 +25691,59 @@
         { "ym": "2026-07", "price": 79200, "trades": 5, "source": "seed" },
         { "ym": "2026-08", "price": 80000, "trades": 4, "source": "seed" }
       ]
+    },
+    {
+      "symbol": "GEOJEEURO",
+      "name": "이편한세상거제유로스카이",
+      "alias": "거제 유로스카이",
+      "kind": "complex",
+      "sido": "전국",
+      "region": "경남 거제시 고현동",
+      "unitArea": 84.94,
+      "households": 1113,
+      "builtYear": 2023,
+      "tags": [
+        "경남",
+        "거제시",
+        "고현동"
+      ],
+      "rentYield": 0.033,
+      "shareDivisor": 100000,
+      "lawdCd": "48310",
+      "history": [
+        { "ym": "2024-01", "price": 42000, "trades": 4, "source": "seed" },
+        { "ym": "2024-02", "price": 41600, "trades": 3, "source": "seed" },
+        { "ym": "2024-03", "price": 41200, "trades": 5, "source": "seed" },
+        { "ym": "2024-04", "price": 43200, "trades": 6, "source": "seed" },
+        { "ym": "2024-05", "price": 42800, "trades": 4, "source": "seed" },
+        { "ym": "2024-06", "price": 42400, "trades": 3, "source": "seed" },
+        { "ym": "2024-07", "price": 44000, "trades": 5, "source": "seed" },
+        { "ym": "2024-08", "price": 43600, "trades": 4, "source": "seed" },
+        { "ym": "2024-09", "price": 43200, "trades": 6, "source": "seed" },
+        { "ym": "2024-10", "price": 45000, "trades": 5, "source": "seed" },
+        { "ym": "2024-11", "price": 44600, "trades": 4, "source": "seed" },
+        { "ym": "2024-12", "price": 44200, "trades": 3, "source": "seed" },
+        { "ym": "2025-01", "price": 43400, "trades": 5, "source": "seed" },
+        { "ym": "2025-02", "price": 43000, "trades": 4, "source": "seed" },
+        { "ym": "2025-03", "price": 42600, "trades": 6, "source": "seed" },
+        { "ym": "2025-04", "price": 44600, "trades": 5, "source": "seed" },
+        { "ym": "2025-05", "price": 44200, "trades": 4, "source": "seed" },
+        { "ym": "2025-06", "price": 43800, "trades": 3, "source": "seed" },
+        { "ym": "2025-07", "price": 45400, "trades": 5, "source": "seed" },
+        { "ym": "2025-08", "price": 45000, "trades": 4, "source": "seed" },
+        { "ym": "2025-09", "price": 44600, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 46600, "trades": 5, "source": "seed" },
+        { "ym": "2025-11", "price": 46200, "trades": 4, "source": "seed" },
+        { "ym": "2025-12", "price": 45800, "trades": 3, "source": "seed" },
+        { "ym": "2026-01", "price": 45000, "trades": 5, "source": "seed" },
+        { "ym": "2026-02", "price": 44600, "trades": 4, "source": "seed" },
+        { "ym": "2026-03", "price": 44200, "trades": 6, "source": "seed" },
+        { "ym": "2026-04", "price": 46200, "trades": 5, "source": "seed" },
+        { "ym": "2026-05", "price": 47800, "trades": 4, "source": "seed" },
+        { "ym": "2026-06", "price": 48600, "trades": 3, "source": "seed" },
+        { "ym": "2026-07", "price": 49200, "trades": 5, "source": "seed" },
+        { "ym": "2026-08", "price": 49500, "trades": 4, "source": "seed" }
+      ]
     }
   ]
 }

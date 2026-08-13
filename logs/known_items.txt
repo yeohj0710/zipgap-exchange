@@ -490,3 +490,9 @@ fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle86
 fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle86
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle86
 scout:wishlist:1-candidate:cycle86
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle87
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle87
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle87
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle87
+wishlist:consume:GEOJEEURO
+add-asset:GEOJEEURO
