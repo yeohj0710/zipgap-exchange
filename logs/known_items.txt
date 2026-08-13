@@ -630,3 +630,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle110
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle110
 scout:wishlist:1-candidate:cycle110
 scout:wishlist:add:DANGJINHALRACAMPUS:cycle110
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle111
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle111
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle111
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle111
+wishlist:consume:HOAMUMI
+add-asset:HOAMUMI

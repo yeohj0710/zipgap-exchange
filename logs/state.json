@@ -633,10 +633,16 @@
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle110",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle110",
     "scout:wishlist:1-candidate:cycle110",
-    "scout:wishlist:add:DANGJINHALRACAMPUS:cycle110"
+    "scout:wishlist:add:DANGJINHALRACAMPUS:cycle110",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle111",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle111",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle111",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:cycle111",
+    "wishlist:consume:HOAMUMI",
+    "add-asset:HOAMUMI"
   ],
-  "cyclesCompleted": 110,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; added the verified DANGJINHALRACAMPUS wishlist candidate in Dangjin Sucheong-dong with 84.80 square meters and a resolvable legal-dong region.",
+  "cyclesCompleted": 111,
+  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; added HOAMUMI with verified 84.97 square meter metadata, 892 households, 2019 completion, and lawdCd 43130; removed the consumed candidate.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset while completion or move-in remains planned, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028."
 }
