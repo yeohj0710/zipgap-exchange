@@ -928,10 +928,18 @@
     "resolve-apt:GEOJEEURO:48310-202509:이편한세상거제유로스카이",
     "fill-month:GEOJEEURO:2025-09:45000:2",
     "fill-month:BAEGOTPRIME:2025-08:63172:0-seed-log",
-    "fill-month:BAEGOTPRIME:2025-10:63666:0-seed-log"
+    "fill-month:BAEGOTPRIME:2025-10:63666:0-seed-log",
+    "resolve-apt:BUKCHEONANXI:44133-202509:북천안자이포레스트",
+    "fill-month:BUKCHEONANXI:2025-09:28000:1",
+    "resolve-apt:GAKSANDECIAN:27140-202509:no-match",
+    "resolve-apt:GAYALSKYEL:26230-202509:no-match",
+    "resolve-apt:SEOCHANGCENTRAL:28200-202509:서창센트럴푸르지오",
+    "fill-month:SEOCHANGCENTRAL:2025-09:52500:2",
+    "resolve-apt:GANGJEONGYOO:50130-202509:제주강정유승한내들퍼스트오션",
+    "fill-month:GANGJEONGYOO:2025-09:56000:2"
   ],
-  "cyclesCompleted": 142,
-  "lastAction": "Checked five actionable regions for September 2025; confirmed three aptName values and three real medians, then log-linearly bridged two adjacent no-trade BAEGOTPRIME months.",
+  "cyclesCompleted": 143,
+  "lastAction": "Checked five actionable regions for September 2025; confirmed three aptName values and three real medians, while preserving two no-match identities.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }

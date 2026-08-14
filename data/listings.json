@@ -25893,6 +25893,7 @@
     },
     {
       "symbol": "BUKCHEONANXI",
+      "aptName": "북천안자이포레스트",
       "name": "북천안자이포레스트",
       "alias": "북천안 자이포레스트",
       "kind": "complex",
@@ -25930,7 +25931,7 @@
         { "ym": "2025-06", "price": 21800, "trades": 3, "source": "seed" },
         { "ym": "2025-07", "price": 23000, "trades": 5, "source": "seed" },
         { "ym": "2025-08", "price": 22800, "trades": 4, "source": "seed" },
-        { "ym": "2025-09", "price": 22600, "trades": 6, "source": "seed" },
+        { "ym": "2025-09", "price": 28000, "trades": 1, "source": "real" },
         { "ym": "2025-10", "price": 23800, "trades": 5, "source": "seed" },
         { "ym": "2025-11", "price": 23600, "trades": 4, "source": "seed" },
         { "ym": "2025-12", "price": 23400, "trades": 3, "source": "seed" },
@@ -26199,6 +26200,7 @@
     }
     , {
       "symbol": "SEOCHANGCENTRAL",
+      "aptName": "서창센트럴푸르지오",
       "name": "서창센트럴푸르지오",
       "alias": "서창 센트럴 푸르지오",
       "kind": "complex",
@@ -26232,7 +26234,7 @@
         { "ym": "2025-06", "price": 49500, "trades": 4, "source": "seed" },
         { "ym": "2025-07", "price": 51800, "trades": 6, "source": "seed" },
         { "ym": "2025-08", "price": 51100, "trades": 5, "source": "seed" },
-        { "ym": "2025-09", "price": 51000, "trades": 7, "source": "seed" },
+        { "ym": "2025-09", "price": 52500, "trades": 2, "source": "real" },
         { "ym": "2025-10", "price": 53300, "trades": 6, "source": "seed" },
         { "ym": "2025-11", "price": 52600, "trades": 5, "source": "seed" },
         { "ym": "2025-12", "price": 52500, "trades": 4, "source": "seed" },
@@ -26248,6 +26250,7 @@
     }
     , {
       "symbol": "GANGJEONGYOO",
+      "aptName": "제주강정유승한내들퍼스트오션",
       "name": "제주강정유승한내들퍼스트오션",
       "alias": "제주 강정 유승한내들 퍼스트오션",
       "kind": "complex",
@@ -26281,7 +26284,7 @@
         { "ym": "2025-06", "price": 49700, "trades": 4, "source": "seed" },
         { "ym": "2025-07", "price": 51900, "trades": 3, "source": "seed" },
         { "ym": "2025-08", "price": 51200, "trades": 4, "source": "seed" },
-        { "ym": "2025-09", "price": 51100, "trades": 5, "source": "seed" },
+        { "ym": "2025-09", "price": 56000, "trades": 2, "source": "real" },
         { "ym": "2025-10", "price": 53300, "trades": 4, "source": "seed" },
         { "ym": "2025-11", "price": 52600, "trades": 3, "source": "seed" },
         { "ym": "2025-12", "price": 52500, "trades": 4, "source": "seed" },
