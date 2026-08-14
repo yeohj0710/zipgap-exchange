@@ -712,3 +712,8 @@ fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:resume2
 fill-meta:CENTUMPARKSK:deferred-planned-2028:resume2
 fill-meta:ANDONGTOP:deferred-planned-2028:resume2
 fill-meta:GYEONGSANIP2:deferred-unresolved-schedule:resume2
+fill-meta:HWAMJAIPARK:deferred-planned-2027:resume3
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:resume3
+fill-meta:CENTUMPARKSK:deferred-planned-2028:resume3
+fill-meta:ANDONGTOP:deferred-planned-2028:resume3
+fill-meta:GYEONGSANIP2:deferred-unresolved-schedule:resume3
