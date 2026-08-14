@@ -216,3 +216,8 @@
 - 2026-08-14 18:45 · BONGSEON57 · 저장 원자료 29155-202509 totalCount 0, aptNm 미확인, 유지
 - 2026-08-14 18:45 · HWAMJAIPARK · 저장 원자료 29140-202509 totalCount 0, aptNm 미확인, 유지
 - 2026-08-14 18:45 · SWANJ · 저장 원자료 29200-202509 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 19:00 · INDEOGWON · 저장 원자료 41430-202509에서 `인덕원자이SK뷰` aptNm 미확인, 유지
+- 2026-08-14 19:00 · SANGMUCENTRAL · 저장 원자료 29155-202509 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 19:00 · HARRINGTONTECHNO · 저장 원자료 43113-202509에서 `해링턴플레이스테크노폴리스` aptNm 미확인, 유지
+- 2026-08-14 19:00 · GEOMDANPRUGIO · 저장 원자료 28260-202509 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 19:00 · ULSANAEILIN2 · 저장 원자료 31710-202509에서 `울산뉴시티에일린의뜰2차` aptNm 미확인, 유지
