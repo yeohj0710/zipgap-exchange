@@ -90,3 +90,5 @@
 - 2026-08-14 12:53 · GUMIINDONG · 공식 API 47190-202507 원자료 저장 · `구미인동하늘채디어반` aptNm 및 84.99㎡ 거래 미확인, 시세 유지
 - 2026-08-14 12:53 · CHEOMDANJAI1 · 공식 API 29170-202507 원자료 저장 · totalCount 0, aptName·시세 유지
 - 2026-08-14 12:53 · CENTUMPARKSK · 공식 API 26470-202507 원자료 저장 · `센텀파크SK뷰` aptNm 및 84.99㎡ 거래 미확인, 시세 유지
+- 2026-08-14 12:58 · fill-meta 5건 · 공식 공개 자료를 확인했지만 `HWAMJAIPARK`·`SHINYOUNGTECHNO`는 2027년 준공 예정, `CENTUMPARKSK`·`ANDONGTOP`은 2028년 예정, `GYEONGSANIP2`는 일정 미확정이라 준공년도를 추정하지 않고 보류
+- 2026-08-14 12:58 · scout · 후보 59개에서 세종권 후보는 법정동 resolver 형식과 맞지 않아 제외하고 `강릉교동하늘채스카이파크`(`강원도 강릉시 교동`, 84.99㎡)를 추가 · `node scripts/resolve-lawd.mjs`에서 사용 가능 후보 60개 확인

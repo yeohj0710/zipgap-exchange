@@ -820,3 +820,9 @@ resolve-apt:GEOJEKCC:48310-202507:거제아주KCC스위첸
 resolve-apt:GUMIINDONG:47190-202507:no-match
 resolve-apt:CHEOMDANJAI1:29170-202507:empty-0
 resolve-apt:CENTUMPARKSK:26470-202507:no-match
+fill-meta:HWAMJAIPARK:deferred-planned-2027:cycle127
+fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle127
+fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle127
+fill-meta:ANDONGTOP:deferred-planned-2028:cycle127
+fill-meta:GYEONGSANIP2:deferred-unresolved-schedule:cycle127
+scout:wishlist:add:강릉교동하늘채스카이파크:cycle127
