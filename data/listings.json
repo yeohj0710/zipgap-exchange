@@ -25094,6 +25094,7 @@
     },
     {
       "symbol": "JINJUPRIME",
+      "aptName": "진주혁신도시중흥에스-클래스더프라임",
       "name": "진주혁신도시중흥S클래스더프라임",
       "alias": "진주혁신도시중흥S-클래스더프라임",
       "kind": "complex",
@@ -25131,7 +25132,7 @@
         { "ym": "2025-06", "price": 51100, "trades": 3, "source": "seed" },
         { "ym": "2025-07", "price": 54300, "trades": 5, "source": "seed" },
         { "ym": "2025-08", "price": 53700, "trades": 4, "source": "seed" },
-        { "ym": "2025-09", "price": 53100, "trades": 6, "source": "seed" },
+        { "ym": "2025-09", "price": 58200, "trades": 3, "source": "real" },
         { "ym": "2025-10", "price": 56100, "trades": 5, "source": "seed" },
         { "ym": "2025-11", "price": 55500, "trades": 4, "source": "seed" },
         { "ym": "2025-12", "price": 54900, "trades": 3, "source": "seed" },

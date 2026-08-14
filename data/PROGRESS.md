@@ -154,3 +154,8 @@
 - 2026-08-14 15:15 · CHUNGCENTRAL · 공식 API 42110-202509 totalCount 0, aptName·시세 유지
 - 2026-08-14 15:15 · SUNCHEONEDUHI · 공식 API 46150-202509 totalCount 0, aptName·시세 유지
 - 2026-08-14 15:15 · CHANGWONUNICITY4 · 공식 API 48121-202509에서 `창원중동유니시티4단지` 84.72㎡ 9건 중앙값 85,500만원 반영
+- 2026-08-14 15:30 · GWANGYANGPRUGIO · 공식 API 46230-202509 totalCount 0, aptName·시세 유지
+- 2026-08-14 15:30 · ASANTANGGJWELL · 저장 원자료 44200-202509에서 `아산탕정지구지웰시티푸르지오` aptNm 및 84.98㎡ 거래 미확인, 유지
+- 2026-08-14 15:30 · JINJUPRIME · 공식 API 48170-202509에서 `진주혁신도시중흥에스-클래스더프라임` 84.99㎡ 3건 중앙값 58,200만원 반영
+- 2026-08-14 15:30 · GANGNEUNGYUS · 공식 API 42150-202509 totalCount 0, aptName·시세 유지
+- 2026-08-14 15:30 · HONGSEONGDL · 저장 원자료 44800-202509에서 `e편한세상홍성더센트럴` aptNm 및 84.99㎡ 거래 미확인, 유지
