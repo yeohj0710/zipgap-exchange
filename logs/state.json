@@ -1021,12 +1021,32 @@
     ,"fill-month:CHEONGJUTECHNO:2025-09:51750:4"
     ,"resolve-apt:GWANGYANGPRUGIO:46230-202509:empty-0"
     ,"resolve-apt:ASANTANGGJWELL:44200-202509:ambiguous-blocks"
+    ,"resolve-apt:GUMIGOLD:47190-202509:구미확장단지골드클래스"
+    ,"fill-month:GUMIGOLD:2025-09:36000:4"
+    ,"resolve-apt:GUMIGOLD:47190-202508:구미확장단지골드클래스"
+    ,"fill-month:GUMIGOLD:2025-08:35800:1"
+    ,"bridge-month:GUMIGOLD:2024-08:29568:0"
+    ,"fill-month:GUMIGOLD:2024-09:37000:1"
+    ,"fill-month:GUMIGOLD:2024-10:36500:2"
+    ,"fill-month:GUMIGOLD:2024-11:38000:1"
+    ,"fill-month:GUMIGOLD:2024-12:35900:2"
+    ,"fill-month:GUMIGOLD:2025-01:35000:1"
+    ,"fill-month:GUMIGOLD:2025-02:37500:1"
+    ,"fill-month:GUMIGOLD:2025-03:37500:4"
+    ,"fill-month:GUMIGOLD:2025-04:34160:1"
+    ,"fill-month:GUMIGOLD:2025-05:37650:2"
+    ,"fill-month:GUMIGOLD:2025-06:36750:4"
+    ,"fill-month:GUMIGOLD:2025-07:36750:2"
+    ,"resolve-apt:CHEOMDAN2:29170-202509:empty-0"
+    ,"resolve-apt:CHUNGRACHEONG:28260-202509:empty-0"
+    ,"resolve-apt:YUSEONGO2G3:30200-202509:no-match"
+    ,"resolve-apt:GJBUYEONG:29170-202509:empty-0"
     ,"resolve-apt:CHEONGRALAKE:28260-202509:empty-0"
     ,"resolve-apt:LUWONSKLEADERS:28260-202509:empty-0"
     ,"resolve-apt:CENTUMPARKSK:26470-202509:no-match"
   ],
-  "cyclesCompleted": 159,
-  "lastAction": "Checked five more unresolved identities against existing September 2025 raw data; confirmed one aptName and one real median, while preserving four unresolved identities.",
+  "cyclesCompleted": 162,
+  "lastAction": "Normalized GUMIGOLD from September 2024 through September 2025 using official medians and one August bridge for the missing raw month.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
