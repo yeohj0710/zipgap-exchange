@@ -970,6 +970,14 @@ resolve-apt:GAKSANDECIAN:27140-202512:각산태영데시앙
 fill-month:GAKSANDECIAN:2025-12:26750:2
 resolve-apt:GANGJEONGYOO:50130-202512:제주강정유승한내들퍼스트오션
 fill-month:GANGJEONGYOO:2025-12:51500:4
+resolve-apt:EUNMA:11680-202601:deferred-historical-continuity
+resolve-apt:ELS:11710-202601:잠실엘스
+fill-month:ELS:2026-01:337000:7
+resolve-apt:HELIO:11710-202601:헬리오시티
+fill-month:HELIO:2026-01:303000:7
+resolve-apt:ARIPARK:11650-202601:no-match-target-area
+resolve-apt:BANPO:11650-202601:래미안퍼스티지
+fill-month:BANPO:2026-01:470000:1
 resolve-apt:HILLJAIKEYANG:28245-202510:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-10:81000:2
 resolve-apt:LOTTERIVERPK:11215-202510:롯데캐슬리버파크시그니쳐
