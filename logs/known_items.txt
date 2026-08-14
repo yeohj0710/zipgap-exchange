@@ -981,6 +981,16 @@ resolve-apt:GJUNGHEUNG:41117-202510:광교중흥에스클래스
 fill-month:GJUNGHEUNG:2025-10:162000:11
 resolve-apt:DOANIPARK:30170-202510:현대아이파크
 fill-month:DOANIPARK:2025-10:58000:3
+resolve-apt:MUNSU2IPARK:31140-202509:empty-target-area
+bridge-month:MUNSU2IPARK:2025-09:79138:0
+resolve-apt:MUNSU2IPARK:31140-202510:문수로2차IPARK1단지
+fill-month:MUNSU2IPARK:2025-10:97400:2
+resolve-apt:DAEYEONH:26290-202510:대연힐스테이트푸르지오
+fill-month:DAEYEONH:2025-10:95500:6
+resolve-apt:DJIPARKCITY:30200-202510:대전아이파크시티1단지
+fill-month:DJIPARKCITY:2025-10:75750:6
+resolve-apt:HEUKSEOK:11590-202510:no-match-target-area
+resolve-apt:TRIMAGE:11200-202510:deferred-historical-continuity
 resolve-apt:HEUKSEOK:11590-202509:흑석리버파크자이
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:BUPYEONGIP:28237-202509:부평IPARK
