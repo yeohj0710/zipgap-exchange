@@ -879,3 +879,9 @@ resolve-apt:JAMSIL5:11710-202509:주공아파트 5단지
 fill-month:JAMSIL5:2025-09:403825:8
 fill-month:JAMSIL5:2025-08:288983:0-seed-log
 fill-month:JAMSIL5:2025-10:298334:0-seed-log
+resolve-apt:JEJUDREAM2:50110-202509:no-match
+resolve-apt:CHEONGJUSKVIEW:43113-202509:청주SKVIEW자이
+fill-month:CHEONGJUSKVIEW:2025-09:51300:1
+resolve-apt:HARRINGTONTECHNO:43113-202509:no-match
+resolve-apt:ULSANAEILIN2:31710-202509:no-match
+resolve-apt:GUMIINDONG:47190-202509:no-match

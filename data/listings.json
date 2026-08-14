@@ -15073,6 +15073,7 @@
       "rentYield": 0.032,
       "shareDivisor": 100000,
       "lawdCd": "43113",
+      "aptName": "청주SKVIEW자이",
       "history": [
         {
           "ym": "2024-01",
@@ -15196,9 +15197,9 @@
         },
         {
           "ym": "2025-09",
-          "price": 51900,
-          "trades": 7,
-          "source": "seed"
+          "price": 51300,
+          "trades": 1,
+          "source": "real"
         },
         {
           "ym": "2025-10",
