@@ -955,6 +955,16 @@ resolve-apt:ELS:11710-202508:잠실엘스
 fill-month:ELS:2025-08:329000:1
 resolve-apt:GAGYEONGIPARK3:43113-202508:청주가경아이파크3단지
 fill-month:GAGYEONGIPARK3:2025-08:64300:1
+resolve-apt:GAPCHEON1TRIPLE:30200-202508:갑천1트리풀시티힐스테이트
+fill-month:GAPCHEON1TRIPLE:2025-08:71850:2
+resolve-apt:GJUNGHEUNG:41117-202508:광교중흥에스클래스
+fill-month:GJUNGHEUNG:2025-08:153500:1
+resolve-apt:GWANGGYO:41117-202508:자연앤힐스테이트
+fill-month:GWANGGYO:2025-08:163500:3
+resolve-apt:HELIO:11710-202508:헬리오시티
+fill-month:HELIO:2025-08:289000:3
+resolve-apt:MANCHEONGREEN:27260-202508:만촌삼정그린코아포레스트
+fill-month:MANCHEONGREEN:2025-08:102000:5
 resolve-apt:DAEGUCJ:27110-202507:deferred-historical-continuity
 resolve-apt:GUWOLASIADE:28200-202601:구월아시아드선수촌5단지
 fill-month:GUWOLASIADE:2026-01:49400:2
