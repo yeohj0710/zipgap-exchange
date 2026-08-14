@@ -1685,9 +1685,19 @@
     ,"fill-month:HELIO:2025-08:289000:3"
     ,"resolve-apt:MANCHEONGREEN:27260-202508:만촌삼정그린코아포레스트"
     ,"fill-month:MANCHEONGREEN:2025-08:102000:5"
+    ,"resolve-apt:SHINYOUNGTECHNO:43113-202508:청주테크노폴리스신영지웰푸르지오"
+    ,"fill-month:SHINYOUNGTECHNO:2025-08:56925:6"
+    ,"resolve-apt:ULSANAEILIN1:31710-202508:울산뉴시티에일린의뜰1차"
+    ,"fill-month:ULSANAEILIN1:2025-08:46000:1"
+    ,"resolve-apt:YANGSANPARK:48330-202508:양산물금동일스위트"
+    ,"fill-month:YANGSANPARK:2025-08:24300:1"
+    ,"resolve-apt:YEONSANLCGF:26470-202508:연산롯데캐슬골드포레"
+    ,"fill-month:YEONSANLCGF:2025-08:73500:5"
+    ,"resolve-apt:BEOMW:27260-202509:수성범어W"
+    ,"fill-month:BEOMW:2025-09:147000:25"
   ],
-  "cyclesCompleted": 239,
-  "lastAction": "Processed five historical official median fills for 2025-08: GAPCHEON1TRIPLE, GJUNGHEUNG, GWANGGYO, HELIO, and MANCHEONGREEN; kept DOAN9TRIPLE deferred.",
+  "cyclesCompleted": 240,
+  "lastAction": "Processed five historical official median fills for 2025-08 and 2025-09: SHINYOUNGTECHNO, ULSANAEILIN1, YANGSANPARK, YEONSANLCGF, and BEOMW; kept DOAN9TRIPLE deferred.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }

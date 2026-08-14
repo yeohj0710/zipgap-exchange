@@ -1689,3 +1689,13 @@ resolve-apt:GEOMDANP:28260-202509:empty-0
 resolve-apt:BONGSEON57:29155-202509:empty-0
 resolve-apt:HWAMJAIPARK:29140-202509:empty-0
 resolve-apt:SWANJ:29200-202509:empty-0
+resolve-apt:SHINYOUNGTECHNO:43113-202508:청주테크노폴리스신영지웰푸르지오
+fill-month:SHINYOUNGTECHNO:2025-08:56925:6
+resolve-apt:ULSANAEILIN1:31710-202508:울산뉴시티에일린의뜰1차
+fill-month:ULSANAEILIN1:2025-08:46000:1
+resolve-apt:YANGSANPARK:48330-202508:양산물금동일스위트
+fill-month:YANGSANPARK:2025-08:24300:1
+resolve-apt:YEONSANLCGF:26470-202508:연산롯데캐슬골드포레
+fill-month:YEONSANLCGF:2025-08:73500:5
+resolve-apt:BEOMW:27260-202509:수성범어W
+fill-month:BEOMW:2025-09:147000:25
