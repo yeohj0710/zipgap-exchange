@@ -1009,12 +1009,18 @@
     ,"resolve-apt:UNAMSANIPARK:29170-202509:empty-0"
     ,"resolve-apt:NOHYEONG2IPARK:50110-202509:no-match"
     ,"resolve-apt:WONJUEGTHE1:42130-202509:empty-0"
+    ,"resolve-apt:JEONJUECOSHOP:45113-202509:empty-0"
+    ,"resolve-apt:UNGCHONZ1BL:46130-202509:empty-0"
+    ,"resolve-apt:CJWELLPRUGIO:43113-202509:청주지웰시티푸르지오"
+    ,"fill-month:CJWELLPRUGIO:2025-09:63800:4"
+    ,"resolve-apt:YEOSUWELL3:46130-202509:empty-0"
+    ,"resolve-apt:POHANGXATON:47113-202509:no-match"
     ,"resolve-apt:CHEONGRALAKE:28260-202509:empty-0"
     ,"resolve-apt:LUWONSKLEADERS:28260-202509:empty-0"
     ,"resolve-apt:CENTUMPARKSK:26470-202509:no-match"
   ],
-  "cyclesCompleted": 157,
-  "lastAction": "Checked five more unresolved identities against existing September 2025 raw data; two had ambiguous multi-block names and three remained unresolved.",
+  "cyclesCompleted": 158,
+  "lastAction": "Checked five more unresolved identities against existing September 2025 raw data; confirmed one aptName and one real median, while preserving four unresolved identities.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }

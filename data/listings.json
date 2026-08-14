@@ -24560,6 +24560,7 @@
     },
     {
       "symbol": "CJWELLPRUGIO",
+      "aptName": "청주지웰시티푸르지오",
       "name": "청주지웰시티푸르지오",
       "alias": "청주 지웰시티 푸르지오",
       "kind": "complex",
@@ -24598,7 +24599,7 @@
         { "ym": "2025-06", "price": 75000, "trades": 3, "source": "seed" },
         { "ym": "2025-07", "price": 78600, "trades": 5, "source": "seed" },
         { "ym": "2025-08", "price": 77900, "trades": 4, "source": "seed" },
-        { "ym": "2025-09", "price": 77300, "trades": 6, "source": "seed" },
+        { "ym": "2025-09", "price": 63800, "trades": 4, "source": "real" },
         { "ym": "2025-10", "price": 81100, "trades": 5, "source": "seed" },
         { "ym": "2025-11", "price": 80400, "trades": 4, "source": "seed" },
         { "ym": "2025-12", "price": 79800, "trades": 3, "source": "seed" },
