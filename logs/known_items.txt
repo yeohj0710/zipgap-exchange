@@ -992,6 +992,14 @@ resolve-apt:WIRYECENT:41131-202601:no-match-target-area
 resolve-apt:BEOMW:27260-202601:수성범어W
 fill-month:BEOMW:2026-01:160000:13
 resolve-apt:MUNSU2IPARK:31140-202601:no-match-target-area
+resolve-apt:DAEYEONH:26290-202601:대연힐스테이트푸르지오
+fill-month:DAEYEONH:2026-01:97250:2
+resolve-apt:DJIPARKCITY:30200-202601:대전아이파크시티1단지
+fill-month:DJIPARKCITY:2026-01:75650:24
+resolve-apt:HEUKSEOK:11590-202601:deferred-historical-continuity
+resolve-apt:TRIMAGE:11200-202601:deferred-historical-continuity
+resolve-apt:CLASIA:11290-202601:롯데캐슬클라시아
+fill-month:CLASIA:2026-01:167000:3
 resolve-apt:HILLJAIKEYANG:28245-202510:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-10:81000:2
 resolve-apt:LOTTERIVERPK:11215-202510:롯데캐슬리버파크시그니쳐
