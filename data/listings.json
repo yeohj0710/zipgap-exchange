@@ -24449,6 +24449,7 @@
     },
     {
       "symbol": "CHANGWONUNICITY1",
+      "aptName": "창원중동유니시티1단지",
       "name": "창원중동유니시티1단지",
       "alias": "유니시티1단지",
       "kind": "complex",
@@ -24487,7 +24488,7 @@
         { "ym": "2025-06", "price": 82600, "trades": 3, "source": "seed" },
         { "ym": "2025-07", "price": 86400, "trades": 5, "source": "seed" },
         { "ym": "2025-08", "price": 85700, "trades": 4, "source": "seed" },
-        { "ym": "2025-09", "price": 85100, "trades": 6, "source": "seed" },
+        { "ym": "2025-09", "price": 85500, "trades": 4, "source": "real" },
         { "ym": "2025-10", "price": 88400, "trades": 5, "source": "seed" },
         { "ym": "2025-11", "price": 87700, "trades": 4, "source": "seed" },
         { "ym": "2025-12", "price": 87100, "trades": 3, "source": "seed" },
@@ -24610,6 +24611,7 @@
     },
     {
       "symbol": "CHANGWONUNICITY3",
+      "aptName": "창원중동유니시티3단지",
       "name": "창원중동유니시티3단지",
       "alias": "유니시티3단지",
       "kind": "complex",
@@ -24648,7 +24650,7 @@
         { "ym": "2025-06", "price": 73500, "trades": 3, "source": "seed" },
         { "ym": "2025-07", "price": 78100, "trades": 5, "source": "seed" },
         { "ym": "2025-08", "price": 77400, "trades": 4, "source": "seed" },
-        { "ym": "2025-09", "price": 76800, "trades": 6, "source": "seed" },
+        { "ym": "2025-09", "price": 81750, "trades": 6, "source": "real" },
         { "ym": "2025-10", "price": 80600, "trades": 5, "source": "seed" },
         { "ym": "2025-11", "price": 79900, "trades": 4, "source": "seed" },
         { "ym": "2025-12", "price": 79300, "trades": 3, "source": "seed" },

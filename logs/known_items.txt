@@ -896,3 +896,10 @@ resolve-apt:YEUIDOJAI:11560-202509:no-match
 resolve-apt:LGMETROCITY:26290-202509:ambiguous-subdivisions
 resolve-apt:DORYONGSKVIEW:30200-202509:no-match
 resolve-apt:GAGYEONGIPARK:43113-202509:ambiguous-subdivisions
+resolve-apt:WONJUEGTHE1:42130-202509:empty-0
+resolve-apt:JEONJUECOSHOP:45113-202509:empty-0
+resolve-apt:CHANGWONUNICITY1:48121-202509:창원중동유니시티1단지
+fill-month:CHANGWONUNICITY1:2025-09:85500:4
+resolve-apt:UNGCHONZ1BL:46130-202509:empty-0
+resolve-apt:CHANGWONUNICITY3:48121-202509:창원중동유니시티3단지
+fill-month:CHANGWONUNICITY3:2025-09:81750:6
