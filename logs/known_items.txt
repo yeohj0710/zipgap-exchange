@@ -1855,3 +1855,13 @@ resolve-apt:GEOJEEURO:48310-202602:이편한세상거제유로스카이
 fill-month:GEOJEEURO:2026-02:44250:6
 resolve-apt:HELIO:11710-202602:헬리오시티
 fill-month:HELIO:2026-02:303500:4
+resolve-apt:BANPO:11650-202602:래미안퍼스티지
+fill-month:BANPO:2026-02:572500:2
+resolve-apt:BEOMW:27260-202602:수성범어W
+fill-month:BEOMW:2026-02:159000:8
+resolve-apt:MANCHEONGREEN:27260-202602:만촌삼정그린코아에듀파크
+fill-month:MANCHEONGREEN:2026-02:117000:3
+resolve-apt:MUNSUDONGMH:31140-202602:울산문수로동문디이스트
+fill-month:MUNSUDONGMH:2026-02:61850:4
+resolve-apt:SUSEONGLAKE:27260-202602:수성레이크푸르지오
+fill-month:SUSEONGLAKE:2026-02:83500:3
