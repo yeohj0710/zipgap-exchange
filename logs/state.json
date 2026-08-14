@@ -730,10 +730,13 @@
     "resolve-apt:MOKDONG7:11470-202507:목동신시가지7",
     "resolve-apt:GAEPO:11680-202507:개포자이프레지던스",
     "resolve-apt:GWANGGYO:41117-202507:자연앤힐스테이트",
-    "resolve-apt:SONGDO:28185-202507:송도더샵퍼스트파크F13-1BL"
+    "resolve-apt:SONGDO:28185-202507:송도더샵퍼스트파크F13-1BL",
+    "resolve-apt:PANGYO:41135-202506:봇들마을8단지(주공)",
+    "resolve-apt:HAEUNDAE:26350-202506:해운대두산위브더제니스",
+    "resolve-apt:RAEWON:11650-202507:래미안원베일리"
   ],
   "cyclesCompleted": 126,
-  "lastAction": "Saved complete official responses for 11680-202507, 11710-202507, 11650-202507, 11440-202507, 11470-202507, 41117-202507, and 28185-202507; verified 376, 412, 234, 141, 199, 381, and 322 items; set ten aptName values from returned aptNm values. Kept five planned or unresolved builtYear fields unset.",
+  "lastAction": "Saved complete official responses for 11680-202507, 11710-202507, 11650-202507, 11440-202507, 11470-202507, 41117-202507, 28185-202507, 41135-202506, 26350-202507, and 26350-202506; verified 376, 412, 234, 141, 199, 381, 322, 1432, 452, and 455 items; set thirteen aptName values from returned aptNm values. Kept five planned or unresolved builtYear fields unset.",
   "nextAction": "Continue resolve-apt for the next lawdCd using an official response, save data/raw/{lawdCd}-{ym}.xml, then fill-month only after aptName is confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }

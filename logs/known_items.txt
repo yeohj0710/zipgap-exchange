@@ -727,3 +727,6 @@ resolve-apt:MOKDONG7:11470-202507:목동신시가지7
 resolve-apt:GAEPO:11680-202507:개포자이프레지던스
 resolve-apt:GWANGGYO:41117-202507:자연앤힐스테이트
 resolve-apt:SONGDO:28185-202507:송도더샵퍼스트파크F13-1BL
+resolve-apt:PANGYO:41135-202506:봇들마을8단지(주공)
+resolve-apt:HAEUNDAE:26350-202506:해운대두산위브더제니스
+resolve-apt:RAEWON:11650-202507:래미안원베일리
