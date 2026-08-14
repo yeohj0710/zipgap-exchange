@@ -851,3 +851,10 @@ resolve-apt:GUWOLASIADE:28200-202507:구월아시아드선수촌5단지
 fill-month:GUWOLASIADE:2025-07:47000:2
 resolve-apt:BUPYEONGGRAN:28237-202507:e편한세상부평그랑힐스
 fill-month:BUPYEONGGRAN:2025-07:65000:1
+resolve-apt:HWAMYEONGKAI:26320-202507:화명롯데캐슬카이저
+fill-month:HWAMYEONGKAI:2025-07:62000:3
+resolve-apt:LGMETROCITY:26290-202507:ambiguous-subdivisions
+resolve-apt:WOLSEONGSAMJ:27290-202507:월성삼정그린코아카운티
+fill-month:WOLSEONGSAMJ:2025-07:76500:1
+resolve-apt:DORYONGSKVIEW:30200-202507:no-match
+resolve-apt:GAGYEONGIPARK:43113-202507:ambiguous-subdivisions

@@ -23392,6 +23392,7 @@
       "rentYield": 0.033,
       "shareDivisor": 100000,
       "lawdCd": "26320",
+      "aptName": "화명롯데캐슬카이저",
       "history": [
         {
           "ym": "2024-01",
@@ -23503,9 +23504,9 @@
         },
         {
           "ym": "2025-07",
-          "price": 72200,
-          "trades": 10,
-          "source": "seed"
+          "price": 62000,
+          "trades": 3,
+          "source": "real"
         },
         {
           "ym": "2025-08",
@@ -23818,6 +23819,7 @@
       "rentYield": 0.026,
       "shareDivisor": 100000,
       "lawdCd": "27290",
+      "aptName": "월성삼정그린코아카운티",
       "history": [
         {
           "ym": "2024-01",
@@ -23929,9 +23931,9 @@
         },
         {
           "ym": "2025-07",
-          "price": 76800,
-          "trades": 5,
-          "source": "seed"
+          "price": 76500,
+          "trades": 1,
+          "source": "real"
         },
         {
           "ym": "2025-08",
