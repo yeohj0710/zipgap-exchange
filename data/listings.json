@@ -14846,6 +14846,7 @@
     },
     {
       "symbol": "JEJUDREAM2",
+      "aptName": "제주첨단꿈에그린2단지아파트",
       "name": "제주첨단꿈에그린2단지",
       "alias": "제주첨단과학기술단지꿈에그린",
       "kind": "complex",
@@ -14978,9 +14979,9 @@
         },
         {
           "ym": "2025-08",
-          "price": 58700,
-          "trades": 2,
-          "source": "seed"
+          "price": 48000,
+          "trades": 1,
+          "source": "real"
         },
         {
           "ym": "2025-09",

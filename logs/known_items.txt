@@ -944,3 +944,9 @@ resolve-apt:GEOMDANP:28260-202508:empty-0
 resolve-apt:BONGSEON57:29155-202508:empty-0
 resolve-apt:HWAMJAIPARK:29140-202508:empty-0
 resolve-apt:SWANJ:29200-202508:empty-0
+resolve-apt:INDEOGWON:41430-202508:no-match
+resolve-apt:JEJUDREAM2:50110-202508:제주첨단꿈에그린2단지아파트
+fill-month:JEJUDREAM2:2025-08:48000:1
+resolve-apt:HARRINGTONTECHNO:43113-202508:no-match
+resolve-apt:ULSANAEILIN2:31710-202508:no-match
+resolve-apt:GUMIINDONG:47190-202508:no-match
