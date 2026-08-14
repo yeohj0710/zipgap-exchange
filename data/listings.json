@@ -21254,6 +21254,7 @@
       "rentYield": 0.019,
       "shareDivisor": 100000,
       "lawdCd": "11215",
+      "aptName": "롯데캐슬리버파크시그니쳐",
       "history": [
         {
           "ym": "2024-01",
@@ -21353,26 +21354,26 @@
         },
         {
           "ym": "2025-05",
-          "price": 126200,
-          "trades": 4,
+          "price": 163310,
+          "trades": 0,
           "source": "seed"
         },
         {
           "ym": "2025-06",
-          "price": 126000,
-          "trades": 3,
-          "source": "seed"
+          "price": 210000,
+          "trades": 1,
+          "source": "real"
         },
         {
           "ym": "2025-07",
-          "price": 129900,
-          "trades": 5,
-          "source": "seed"
+          "price": 230000,
+          "trades": 1,
+          "source": "real"
         },
         {
           "ym": "2025-08",
-          "price": 129100,
-          "trades": 4,
+          "price": 172183,
+          "trades": 0,
           "source": "seed"
         },
         {
@@ -21893,6 +21894,7 @@
       "rentYield": 0.024,
       "shareDivisor": 100000,
       "lawdCd": "41465",
+      "aptName": "성복역롯데캐슬골드타운",
       "history": [
         {
           "ym": "2024-01",
@@ -22004,9 +22006,9 @@
         },
         {
           "ym": "2025-07",
-          "price": 129900,
-          "trades": 6,
-          "source": "seed"
+          "price": 137500,
+          "trades": 2,
+          "source": "real"
         },
         {
           "ym": "2025-08",
@@ -22106,6 +22108,7 @@
       "rentYield": 0.023,
       "shareDivisor": 100000,
       "lawdCd": "41450",
+      "aptName": "미사강변센트럴자이",
       "history": [
         {
           "ym": "2024-01",
