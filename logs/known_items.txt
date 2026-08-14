@@ -910,6 +910,16 @@ resolve-apt:DJIPARKCITY:30200-202507:대전아이파크시티1단지
 fill-month:DJIPARKCITY:2025-07:77000:9
 resolve-apt:DOAN9TRIPLE:30200-202507:트리풀시티(5단지)
 fill-month:DOAN9TRIPLE:2025-07:64150:6
+resolve-apt:DOANIPARK:30170-202507:현대아이파크
+fill-month:DOANIPARK:2025-07:58000:5
+resolve-apt:DONGRAEIP:26260-202507:동래래미안아이파크
+fill-month:DONGRAEIP:2025-07:90000:18
+resolve-apt:DORYONGSKVIEW:30200-202507:도룡에스케이뷰
+fill-month:DORYONGSKVIEW:2025-07:104000:2
+resolve-apt:DUNGGOKWOOMI:30200-202507:대전둔곡우미린
+fill-month:DUNGGOKWOOMI:2025-07:46050:2
+resolve-apt:EASYGWANGGYO:41117-202507:광교2차e편한세상
+fill-month:EASYGWANGGYO:2025-07:98750:6
 resolve-apt:DAEGUCJ:27110-202507:deferred-historical-continuity
 resolve-apt:GUWOLASIADE:28200-202601:구월아시아드선수촌5단지
 fill-month:GUWOLASIADE:2026-01:49400:2
