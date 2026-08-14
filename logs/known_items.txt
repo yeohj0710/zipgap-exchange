@@ -954,6 +954,17 @@ resolve-apt:DASANJAIIB:41360-202512:다산자이아이비플레이스
 fill-month:DASANJAIIB:2025-12:112500:1
 resolve-apt:GODEOKPARAGON:41220-202512:고덕국제신도시파라곤
 fill-month:GODEOKPARAGON:2025-12:54650:4
+resolve-apt:HANGANGJAI:41570-202512:한강센트럴자이1단지
+fill-month:HANGANGJAI:2025-12:49900:10
+resolve-apt:GUWOLASIADE:28200-202512:no-match-target-area
+resolve-apt:HWAMYEONGKAI:26320-202512:화명롯데캐슬카이저
+fill-month:HWAMYEONGKAI:2025-12:61300:1
+resolve-apt:ULSANGUMGANG:31200-202512:울산송정금강펜테리움그린테라스1차
+fill-month:ULSANGUMGANG:2025-12:53500:3
+resolve-apt:JINJUPRIME:48170-202512:진주혁신도시중흥에스-클래스더프라임
+fill-month:JINJUPRIME:2025-12:58500:7
+resolve-apt:YANGSANPARK:48330-202512:양산물금동일스위트
+fill-month:YANGSANPARK:2025-12:23600:2
 resolve-apt:HILLJAIKEYANG:28245-202510:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-10:81000:2
 resolve-apt:LOTTERIVERPK:11215-202510:롯데캐슬리버파크시그니쳐
