@@ -966,3 +966,8 @@ resolve-apt:YEOSUWELL3:46130-202508:empty-0
 resolve-apt:POHANGXATON:47113-202508:no-match
 resolve-apt:CHUNGCENTRAL:42110-202508:empty-0
 resolve-apt:SUNCHEONEDUHI:46150-202508:empty-0
+resolve-apt:GWANGYANGPRUGIO:46230-202508:empty-0
+resolve-apt:ASANTANGGJWELL:44200-202508:no-match
+resolve-apt:GANGNEUNGYUS:42150-202508:empty-0
+resolve-apt:HONGSEONGDL:44800-202508:no-match
+resolve-apt:ANDONGTOP:47170-202508:no-match

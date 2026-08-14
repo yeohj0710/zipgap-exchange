@@ -199,3 +199,8 @@
 - 2026-08-14 17:45 · POHANGXATON · 저장 원자료 47113-202508에서 `포항자이애서턴` aptNm 미확인, 유지
 - 2026-08-14 17:45 · CHUNGCENTRAL · 공식 API 42110-202508 totalCount 0, aptNm 미확인, 유지
 - 2026-08-14 17:45 · SUNCHEONEDUHI · 공식 API 46150-202508 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 18:00 · GWANGYANGPRUGIO · 공식 API 46230-202508 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 18:00 · ASANTANGGJWELL · 저장 원자료 44200-202508에서 `아산탕정지구지웰시티푸르지오` aptNm 미확인, 유지
+- 2026-08-14 18:00 · GANGNEUNGYUS · 공식 API 42150-202508 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 18:00 · HONGSEONGDL · 저장 원자료 44800-202508에서 `e편한세상홍성더센트럴` aptNm 미확인, 유지
+- 2026-08-14 18:00 · ANDONGTOP · 저장 원자료 47170-202508에서 `더샵안동더퍼스트` aptNm 미확인, 유지
