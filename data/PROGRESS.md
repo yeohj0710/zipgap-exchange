@@ -44,6 +44,9 @@
 - 2026-08-14 13:05 · MANCHEONGREEN · 공식 API 27260-202507 원자료 384건에서 aptName 만촌삼정그린코아에듀파크 확정 · 실거래 반영은 다음 단계
 - 2026-08-14 13:05 · BANPOJAI·GAEPORFOREST·SINCHONGRAN·BUNDANGPARK·SUWONIPARK2 · 저장 원자료에서 aptName 반포자이·개포래미안포레스트·마포그랑자이·파크뷰·수원아이파크시티2단지 확정
 - 2026-08-14 13:05 · BUPYEONGIP·DONGRAEIP·MYEONGNYUN2IP·DOAN9TRIPLE·SANGMUCENTRAL·MUNSUDONGMH·JAMSIL5 · 공식 원자료에서 대상 aptNm 미확정
+- 2026-08-14 13:15 · DONGRAEIP·MYEONGNYUN2IP · 공식 API 26260-202507 원자료 303건에서 aptName 동래래미안아이파크·명륜2차아이파크1단지 확정
+- 2026-08-14 13:15 · DOAN9TRIPLE·MUNSUDONGMH · 저장 원자료에서 aptName 트리풀시티(5단지)·울산문수로동문디이스트 확정
+- 2026-08-14 13:15 · EASYGWANGGYO · 공식 API 41117-202507 원자료에서 84.6861㎡ 일치 aptName 광교2차e편한세상 확정
 - 2026-08-14 12:35 · DONGTANH·GEOMDANP · 공식 API 202508 원자료도 각각 0건 · aptName 미확정
 
 - 2026-08-14 · 재개 주기 3회차: 준공 예정·일정 미정 단지 5건의 준공년도 보류, 법정동코드 확정 · 종목 160개, 남은 실거래 칸 5120 · 후보 59개 중 유효 59개
