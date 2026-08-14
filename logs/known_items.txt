@@ -1007,6 +1007,14 @@ fill-month:HELIO:2025-12:291000:3
 resolve-apt:ARIPARK:11650-202512:no-match-target-area
 resolve-apt:BANPO:11650-202512:래미안퍼스티지
 fill-month:BANPO:2025-12:515000:1
+resolve-apt:MRP:11440-202512:no-match-target-area
+resolve-apt:MOKDONG7:11470-202512:목동신시가지7
+fill-month:MOKDONG7:2025-12:259500:2
+resolve-apt:PANGYO:41135-202512:no-match-target-area
+resolve-apt:GWANGGYO:41117-202512:자연앤힐스테이트
+fill-month:GWANGGYO:2025-12:178500:2
+resolve-apt:SONGDO:28185-202512:송도더샵퍼스트파크F13-1BL
+fill-month:SONGDO:2025-12:105000:1
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:SANGMUCENTRAL:29155-202509:empty-0
 resolve-apt:HARRINGTONTECHNO:43113-202509:no-match
