@@ -22322,6 +22322,7 @@
       "rentYield": 0.025,
       "shareDivisor": 100000,
       "lawdCd": "41360",
+      "aptName": "다산자이아이비플레이스",
       "history": [
         {
           "ym": "2024-01",
@@ -22535,6 +22536,7 @@
       "rentYield": 0.029,
       "shareDivisor": 100000,
       "lawdCd": "41220",
+      "aptName": "고덕국제신도시파라곤",
       "history": [
         {
           "ym": "2024-01",
@@ -22748,6 +22750,7 @@
       "rentYield": 0.032,
       "shareDivisor": 100000,
       "lawdCd": "41570",
+      "aptName": "한강센트럴자이1단지",
       "history": [
         {
           "ym": "2024-01",
@@ -22859,9 +22862,9 @@
         },
         {
           "ym": "2025-07",
-          "price": 50400,
-          "trades": 13,
-          "source": "seed"
+          "price": 50100,
+          "trades": 2,
+          "source": "real"
         },
         {
           "ym": "2025-08",
@@ -22961,6 +22964,7 @@
       "rentYield": 0.031,
       "shareDivisor": 100000,
       "lawdCd": "28200",
+      "aptName": "구월아시아드선수촌5단지",
       "history": [
         {
           "ym": "2024-01",
@@ -23072,9 +23076,9 @@
         },
         {
           "ym": "2025-07",
-          "price": 47200,
-          "trades": 9,
-          "source": "seed"
+          "price": 47000,
+          "trades": 2,
+          "source": "real"
         },
         {
           "ym": "2025-08",
@@ -23174,6 +23178,7 @@
       "rentYield": 0.025,
       "shareDivisor": 100000,
       "lawdCd": "28237",
+      "aptName": "e편한세상부평그랑힐스",
       "history": [
         {
           "ym": "2024-01",
@@ -23285,9 +23290,9 @@
         },
         {
           "ym": "2025-07",
-          "price": 62600,
-          "trades": 6,
-          "source": "seed"
+          "price": 65000,
+          "trades": 1,
+          "source": "real"
         },
         {
           "ym": "2025-08",
