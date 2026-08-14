@@ -826,3 +826,9 @@ fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle127
 fill-meta:ANDONGTOP:deferred-planned-2028:cycle127
 fill-meta:GYEONGSANIP2:deferred-unresolved-schedule:cycle127
 scout:wishlist:add:강릉교동하늘채스카이파크:cycle127
+resolve-apt:DUNSANJAI:30170-202507:no-match
+resolve-apt:ANYANGPRUGIOT:41171-202507:no-match
+resolve-apt:GWANGGYOLAKE:41117-202507:no-match
+resolve-apt:BUSANPARKCITY:26470-202507:더샵파크시티
+fill-month:BUSANPARKCITY:2025-07:64000:9
+resolve-apt:HILLJAIKEYANG:28245-202507:힐스테이트자이계양

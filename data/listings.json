@@ -20826,6 +20826,7 @@
       "rentYield": 0.031,
       "shareDivisor": 100000,
       "lawdCd": "26470",
+      "aptName": "더샵파크시티",
       "history": [
         {
           "ym": "2024-01",
@@ -20937,9 +20938,9 @@
         },
         {
           "ym": "2025-07",
-          "price": 71800,
-          "trades": 7,
-          "source": "seed"
+          "price": 64000,
+          "trades": 9,
+          "source": "real"
         },
         {
           "ym": "2025-08",
@@ -21039,6 +21040,7 @@
       "rentYield": 0.026,
       "shareDivisor": 100000,
       "lawdCd": "28245",
+      "aptName": "힐스테이트자이계양",
       "history": [
         {
           "ym": "2024-01",
