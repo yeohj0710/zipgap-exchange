@@ -705,10 +705,15 @@
     "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:cycle123",
     "fill-meta:CENTUMPARKSK:deferred-planned-2028:cycle123",
     "fill-meta:ANDONGTOP:deferred-planned-2028:cycle123",
-    "fill-meta:GYEONGSANIP2:deferred-unresolved-schedule:cycle123"
+    "fill-meta:GYEONGSANIP2:deferred-unresolved-schedule:cycle123",
+    "fill-meta:HWAMJAIPARK:deferred-planned-2027:resume1",
+    "fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:resume1",
+    "fill-meta:CENTUMPARKSK:deferred-planned-2028:resume1",
+    "fill-meta:ANDONGTOP:deferred-planned-2028:resume1",
+    "fill-meta:GYEONGSANIP2:deferred-unresolved-schedule:resume1"
   ],
-  "cyclesCompleted": 123,
-  "lastAction": "Kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; kept GYEONGSANIP2 builtYear unset because its construction and resales schedule is unresolved; recorded the five metadata deferrals for cycle 123.",
+  "cyclesCompleted": 124,
+  "lastAction": "After goal resumption, kept HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, and ANDONGTOP builtYear unset because completion or move-in remains planned; kept GYEONGSANIP2 builtYear unset because its construction and resale schedule is unresolved; recorded the same five metadata deferrals.",
   "nextAction": "Run data:next -- --count 5; keep HWAMJAIPARK, SHINYOUNGTECHNO, CENTUMPARKSK, ANDONGTOP, and GYEONGSANIP2 builtYear unset while completion remains planned or unresolved, then process the next keyless metadata, scout, and asset tasks.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
