@@ -885,6 +885,15 @@ resolve-apt:GAKSANDECIAN:27140-202601:각산태영데시앙
 fill-month:GAKSANDECIAN:2026-01:24400:1
 resolve-apt:GANGJEONGYOO:50130-202601:제주강정유승한내들퍼스트오션
 fill-month:GANGJEONGYOO:2026-01:54000:3
+resolve-apt:GJUNGHEUNG:41117-202601:광교중흥에스클래스
+fill-month:GJUNGHEUNG:2026-01:169000:2
+resolve-apt:HLAKESONG:28185-202601:힐스테이트레이크송도2차
+fill-month:HLAKESONG:2026-01:69000:3
+resolve-apt:EDUNSAN:30170-202601:e편한세상둔산2단지
+fill-month:EDUNSAN:2026-01:80000:4
+resolve-apt:MANCHEONGREEN:27260-202601:만촌삼정그린코아에듀파크
+fill-month:MANCHEONGREEN:2026-01:113300:5
+resolve-apt:DOAN9TRIPLE:30200-202601:deferred-historical-continuity
 resolve-apt:HAEUNDAE:26350-202512:no-match-target-area
 resolve-apt:GWACHEON:41290-202512:no-match-target-area
 resolve-apt:WIRYECENT:41131-202512:no-match-target-area
