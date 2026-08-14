@@ -1000,6 +1000,16 @@ resolve-apt:HEUKSEOK:11590-202601:deferred-historical-continuity
 resolve-apt:TRIMAGE:11200-202601:deferred-historical-continuity
 resolve-apt:CLASIA:11290-202601:롯데캐슬클라시아
 fill-month:CLASIA:2026-01:167000:3
+resolve-apt:GODUKGR:11740-202601:고덕그라시움
+fill-month:GODUKGR:2026-01:249900:1
+resolve-apt:SEOULSTC:11140-202601:서울역센트럴자이
+fill-month:SEOULSTC:2026-01:227000:2
+resolve-apt:GWANGMYEONG:41210-202601:광명역센트럴자이
+fill-month:GWANGMYEONG:2026-01:130000:1
+resolve-apt:KINTEXONE:41285-202601:킨텍스원시티3블럭
+fill-month:KINTEXONE:2026-01:128000:3
+resolve-apt:PYEONGCHON:41173-202601:평촌더샵센트럴시티
+fill-month:PYEONGCHON:2026-01:141250:2
 resolve-apt:HILLJAIKEYANG:28245-202510:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-10:81000:2
 resolve-apt:LOTTERIVERPK:11215-202510:롯데캐슬리버파크시그니쳐
