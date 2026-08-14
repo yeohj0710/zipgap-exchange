@@ -900,6 +900,17 @@ resolve-apt:CHEONGJUTECHNO1:43113-202507:청주테크노폴리스우방아이유
 fill-month:CHEONGJUTECHNO1:2025-07:41200:2
 resolve-apt:CHUNGJUCENTRAL:43130-202507:충주센트럴푸르지오
 fill-month:CHUNGJUCENTRAL:2025-07:41000:2
+resolve-apt:CJWELLPRUGIO:43113-202507:청주지웰시티푸르지오
+fill-month:CJWELLPRUGIO:2025-07:65000:3
+resolve-apt:DAEGUCJ:27110-202507:대구역센트럴자이
+fill-month:DAEGUCJ:2025-07:50000:3
+resolve-apt:DAEYEONH:26290-202507:대연힐스테이트푸르지오
+fill-month:DAEYEONH:2025-07:92000:10
+resolve-apt:DJIPARKCITY:30200-202507:대전아이파크시티1단지
+fill-month:DJIPARKCITY:2025-07:77000:9
+resolve-apt:DOAN9TRIPLE:30200-202507:트리풀시티(5단지)
+fill-month:DOAN9TRIPLE:2025-07:64150:6
+resolve-apt:DAEGUCJ:27110-202507:deferred-historical-continuity
 resolve-apt:GUWOLASIADE:28200-202601:구월아시아드선수촌5단지
 fill-month:GUWOLASIADE:2026-01:49400:2
 resolve-apt:HWAMYEONGKAI:26320-202601:화명롯데캐슬카이저
