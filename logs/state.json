@@ -1961,9 +1961,19 @@
     ,"fill-month:CJWELLPRUGIO:2025-12:64100:4"
     ,"resolve-apt:EASYGWANGGYO:41117-202512:official"
     ,"fill-month:EASYGWANGGYO:2025-12:107000:2"
+    ,"resolve-apt:FIRSTWORLD:28185-202512:official"
+    ,"fill-month:FIRSTWORLD:2025-12:80000:3"
+    ,"resolve-apt:GAEPO:11680-202512:official"
+    ,"fill-month:GAEPO:2025-12:427000:1"
+    ,"resolve-apt:EDUNSAN:30170-202605:official"
+    ,"fill-month:EDUNSAN:2026-05:80750:2"
+    ,"resolve-apt:EDUNSAN:30170-202607:official"
+    ,"fill-month:EDUNSAN:2026-07:81700:5"
+    ,"resolve-apt:GAPCHEON1TRIPLE:30200-202607:official"
+    ,"fill-month:GAPCHEON1TRIPLE:2026-07:72500:3"
   ],
-  "cyclesCompleted": 269,
-  "lastAction": "Processed five additional historical official median fills spanning 2025-11 and 2025-12; kept unsafe 2026-01 candidates plus DOAN9TRIPLE deferred.",
+  "cyclesCompleted": 270,
+  "lastAction": "Processed the final five safe historical official median fills; kept unsafe 2026-01 candidates plus DOAN9TRIPLE deferred.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
