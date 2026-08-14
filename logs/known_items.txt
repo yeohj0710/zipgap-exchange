@@ -1019,6 +1019,14 @@ resolve-apt:SUWONIPARK2:41113-202510:deferred-historical-continuity
 resolve-apt:CHUNGJUCENTRAL:43130-202510:충주센트럴푸르지오
 fill-month:CHUNGJUCENTRAL:2025-10:41300:3
 resolve-apt:HWANGSEONGKCC:47130-202510:no-match-target-area
+resolve-apt:SEOSANPRUGIO:44210-202510:서산예천푸르지오
+fill-month:SEOSANPRUGIO:2025-10:31150:2
+resolve-apt:JEJUDREAM2:50110-202510:no-match-target-area
+resolve-apt:CHEONGJUSKVIEW:43113-202510:청주SKVIEW자이
+fill-month:CHEONGJUSKVIEW:2025-10:49700:3
+resolve-apt:CHANGWONUNICITY2:48121-202510:창원중동유니시티2단지
+fill-month:CHANGWONUNICITY2:2025-10:87250:6
+resolve-apt:MYEONGJIDUSAN:26440-202510:no-match-target-area
 resolve-apt:HEUKSEOK:11590-202509:흑석리버파크자이
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:BUPYEONGIP:28237-202509:부평IPARK
