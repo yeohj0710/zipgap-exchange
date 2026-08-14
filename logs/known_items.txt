@@ -978,6 +978,14 @@ fill-month:HELIO:2026-01:303000:7
 resolve-apt:ARIPARK:11650-202601:no-match-target-area
 resolve-apt:BANPO:11650-202601:래미안퍼스티지
 fill-month:BANPO:2026-01:470000:1
+resolve-apt:MRP:11440-202601:no-match-target-area
+resolve-apt:MOKDONG7:11470-202601:목동신시가지7
+fill-month:MOKDONG7:2026-01:272500:1
+resolve-apt:PANGYO:41135-202601:no-match-target-area
+resolve-apt:GWANGGYO:41117-202601:자연앤힐스테이트
+fill-month:GWANGGYO:2026-01:174000:4
+resolve-apt:SONGDO:28185-202601:송도더샵퍼스트파크F13-1BL
+fill-month:SONGDO:2026-01:99500:5
 resolve-apt:HILLJAIKEYANG:28245-202510:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-10:81000:2
 resolve-apt:LOTTERIVERPK:11215-202510:롯데캐슬리버파크시그니쳐

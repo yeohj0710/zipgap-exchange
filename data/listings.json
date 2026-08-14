@@ -3089,9 +3089,9 @@
         },
         {
           "ym": "2026-01",
-          "price": 218800,
-          "trades": 20,
-          "source": "seed"
+          "price": 272500,
+          "trades": 1,
+          "source": "real"
         },
         {
           "ym": "2026-02",
@@ -3727,9 +3727,9 @@
         },
         {
           "ym": "2026-01",
-          "price": 125900,
-          "trades": 24,
-          "source": "seed"
+          "price": 174000,
+          "trades": 4,
+          "source": "real"
         },
         {
           "ym": "2026-02",
@@ -3940,9 +3940,9 @@
         },
         {
           "ym": "2026-01",
-          "price": 94100,
-          "trades": 14,
-          "source": "seed"
+          "price": 99500,
+          "trades": 5,
+          "source": "real"
         },
         {
           "ym": "2026-02",

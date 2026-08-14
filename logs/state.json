@@ -1409,9 +1409,17 @@
     ,"resolve-apt:ARIPARK:11650-202601:no-match-target-area"
     ,"resolve-apt:BANPO:11650-202601:래미안퍼스티지"
     ,"fill-month:BANPO:2026-01:470000:1"
+    ,"resolve-apt:MRP:11440-202601:no-match-target-area"
+    ,"resolve-apt:MOKDONG7:11470-202601:목동신시가지7"
+    ,"fill-month:MOKDONG7:2026-01:272500:1"
+    ,"resolve-apt:PANGYO:41135-202601:no-match-target-area"
+    ,"resolve-apt:GWANGGYO:41117-202601:자연앤힐스테이트"
+    ,"fill-month:GWANGGYO:2026-01:174000:4"
+    ,"resolve-apt:SONGDO:28185-202601:송도더샵퍼스트파크F13-1BL"
+    ,"fill-month:SONGDO:2026-01:99500:5"
   ],
-  "cyclesCompleted": 206,
-  "lastAction": "Processed the first January 2026 batch; ELS, HELIO, and BANPO were filled, EUNMA was deferred for historical continuity, and ARIPARK had no target-area trade.",
+  "cyclesCompleted": 207,
+  "lastAction": "Processed the next January 2026 batch; MOKDONG7, GWANGGYO, and SONGDO were filled, while MRP and PANGYO had no target-area trade.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
