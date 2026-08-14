@@ -865,3 +865,8 @@ resolve-apt:ULSANGUMGANG:31200-202507:울산송정금강펜테리움그린테라
 fill-month:ULSANGUMGANG:2025-07:53300:3
 resolve-apt:NOHYEONG2IPARK:50110-202507:no-match
 resolve-apt:WONJUEGTHE1:42130-202507:empty-0
+resolve-apt:DONGTANH:41590-202509:empty-0
+resolve-apt:GEOMDANP:28260-202509:empty-0
+resolve-apt:BONGSEON57:29155-202509:empty-0
+resolve-apt:HWAMJAIPARK:29140-202509:empty-0
+resolve-apt:SWANJ:29200-202509:empty-0

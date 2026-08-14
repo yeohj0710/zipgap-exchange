@@ -118,3 +118,8 @@
 - 2026-08-14 13:40 · ULSANGUMGANG · 공식 API 31200-202507 원자료 저장 · `울산송정금강펜테리움그린테라스1차` 84.59㎡ 3건 중앙값 53,300만원 반영
 - 2026-08-14 13:40 · NOHYEONG2IPARK · 저장 원자료 50110-202507에서 `노형2차아이파크` aptNm 및 84.90㎡ 거래 미확인, 유지
 - 2026-08-14 13:40 · WONJUEGTHE1 · 공식 API 42130-202507 원자료 저장 · totalCount 0, aptName·시세 유지
+- 2026-08-14 13:50 · DONGTANH · 저장 원자료 41590-202509 totalCount 0, aptName·시세 유지
+- 2026-08-14 13:50 · GEOMDANP · 저장 원자료 28260-202509 totalCount 0, aptName·시세 유지
+- 2026-08-14 13:50 · BONGSEON57 · 저장 원자료 29155-202509 totalCount 0, aptName·시세 유지
+- 2026-08-14 13:50 · HWAMJAIPARK · 저장 원자료 29140-202509 totalCount 0, aptName·시세 유지
+- 2026-08-14 13:50 · SWANJ · 저장 원자료 29200-202509 totalCount 0, aptName·시세 유지
