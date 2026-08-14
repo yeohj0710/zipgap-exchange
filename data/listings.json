@@ -6251,9 +6251,9 @@
         },
         {
           "ym": "2025-08",
-          "price": 118100,
-          "trades": 7,
-          "source": "seed"
+          "price": 145000,
+          "trades": 19,
+          "source": "real"
         },
         {
           "ym": "2025-09",
@@ -17751,9 +17751,9 @@
         },
         {
           "ym": "2025-08",
-          "price": 47840,
-          "trades": 4,
-          "source": "seed"
+          "price": 45000,
+          "trades": 1,
+          "source": "real"
         },
         {
           "ym": "2025-09",
@@ -20952,9 +20952,9 @@
         },
         {
           "ym": "2025-08",
-          "price": 71100,
-          "trades": 6,
-          "source": "seed"
+          "price": 66700,
+          "trades": 2,
+          "source": "real"
         },
         {
           "ym": "2025-09",
@@ -24600,7 +24600,7 @@
         { "ym": "2025-05", "price": 75600, "trades": 4, "source": "seed" },
         { "ym": "2025-06", "price": 75000, "trades": 3, "source": "seed" },
         { "ym": "2025-07", "price": 78600, "trades": 5, "source": "seed" },
-        { "ym": "2025-08", "price": 77900, "trades": 4, "source": "seed" },
+        { "ym": "2025-08", "price": 63800, "trades": 4, "source": "real" },
         { "ym": "2025-09", "price": 63800, "trades": 4, "source": "real" },
         { "ym": "2025-10", "price": 81100, "trades": 5, "source": "seed" },
         { "ym": "2025-11", "price": 80400, "trades": 4, "source": "seed" },
@@ -24978,7 +24978,7 @@
         { "ym": "2025-05", "price": 48800, "trades": 4, "source": "seed" },
         { "ym": "2025-06", "price": 48200, "trades": 3, "source": "seed" },
         { "ym": "2025-07", "price": 51400, "trades": 5, "source": "seed" },
-        { "ym": "2025-08", "price": 50800, "trades": 4, "source": "seed" },
+        { "ym": "2025-08", "price": 49900, "trades": 9, "source": "real" },
         { "ym": "2025-09", "price": 51750, "trades": 4, "source": "real" },
         { "ym": "2025-10", "price": 53200, "trades": 5, "source": "seed" },
         { "ym": "2025-11", "price": 52600, "trades": 4, "source": "seed" },
