@@ -1540,9 +1540,19 @@
     ,"fill-month:SUSEONGLAKE:2026-01:75500:3"
     ,"resolve-apt:GEOJEEURO:48310-202601:이편한세상거제유로스카이"
     ,"fill-month:GEOJEEURO:2026-01:43300:7"
+    ,"resolve-apt:YEONSANLCGF:26470-202601:연산롯데캐슬골드포레"
+    ,"fill-month:YEONSANLCGF:2026-01:72800:1"
+    ,"resolve-apt:GAGYEONGIPARK3:43113-202601:청주가경아이파크3단지"
+    ,"fill-month:GAGYEONGIPARK3:2026-01:71000:3"
+    ,"resolve-apt:SEOCHANGCENTRAL:28200-202601:서창센트럴푸르지오"
+    ,"fill-month:SEOCHANGCENTRAL:2026-01:54000:2"
+    ,"resolve-apt:HOAMUMI:43130-202601:우미린에듀시티"
+    ,"fill-month:HOAMUMI:2026-01:48800:1"
+    ,"resolve-apt:AUTOVALLEYZOOM:31200-202601:울산오토밸리로Z00M파크"
+    ,"fill-month:AUTOVALLEYZOOM:2026-01:32000:2"
   ],
-  "cyclesCompleted": 221,
-  "lastAction": "Processed the next January 2026 batch; CHANGWONUNICITY3, CHANGWONUNICITY4, CHEONGJUTECHNO, SUSEONGLAKE, and GEOJEEURO were filled from official medians.",
+  "cyclesCompleted": 222,
+  "lastAction": "Processed the next January 2026 batch; YEONSANLCGF, GAGYEONGIPARK3, SEOCHANGCENTRAL, HOAMUMI, and AUTOVALLEYZOOM were filled from official medians.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
