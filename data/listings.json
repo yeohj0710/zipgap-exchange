@@ -2219,9 +2219,9 @@
         },
         {
           "ym": "2025-10",
-          "price": 230300,
-          "trades": 75,
-          "source": "seed"
+          "price": 291000,
+          "trades": 9,
+          "source": "real"
         },
         {
           "ym": "2025-11",
@@ -16269,9 +16269,9 @@
         },
         {
           "ym": "2025-10",
-          "price": 52100,
-          "trades": 6,
-          "source": "seed"
+          "price": 45200,
+          "trades": 4,
+          "source": "real"
         },
         {
           "ym": "2025-11",
@@ -17977,9 +17977,9 @@
         },
         {
           "ym": "2025-10",
-          "price": 78900,
-          "trades": 4,
-          "source": "seed"
+          "price": 72000,
+          "trades": 9,
+          "source": "real"
         },
         {
           "ym": "2025-11",
@@ -25833,7 +25833,7 @@
         { "ym": "2025-07", "price": 43725, "trades": 2, "source": "real" },
         { "ym": "2025-08", "price": 45000, "trades": 4, "source": "seed" },
         { "ym": "2025-09", "price": 45000, "trades": 2, "source": "real" },
-        { "ym": "2025-10", "price": 46600, "trades": 5, "source": "seed" },
+        { "ym": "2025-10", "price": 43900, "trades": 1, "source": "real" },
         { "ym": "2025-11", "price": 46200, "trades": 4, "source": "seed" },
         { "ym": "2025-12", "price": 45800, "trades": 3, "source": "seed" },
         { "ym": "2026-01", "price": 43300, "trades": 7, "source": "real" },
@@ -26198,7 +26198,7 @@
         { "ym": "2025-07", "price": 65250, "trades": 4, "source": "real" },
         { "ym": "2025-08", "price": 64300, "trades": 1, "source": "real" },
         { "ym": "2025-09", "price": 64500, "trades": 1, "source": "real" },
-        { "ym": "2025-10", "price": 70500, "trades": 6, "source": "seed" },
+        { "ym": "2025-10", "price": 64150, "trades": 6, "source": "real" },
         { "ym": "2025-11", "price": 69700, "trades": 5, "source": "seed" },
         { "ym": "2025-12", "price": 69100, "trades": 4, "source": "seed" },
         { "ym": "2026-01", "price": 71000, "trades": 3, "source": "real" },
