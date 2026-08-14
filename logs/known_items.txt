@@ -914,6 +914,16 @@ resolve-apt:BULDANGWELL:44133-202601:천안불당지웰더샵
 fill-month:BULDANGWELL:2026-01:83700:1
 resolve-apt:CHANGWONUNICITY1:48121-202601:창원중동유니시티1단지
 fill-month:CHANGWONUNICITY1:2026-01:95000:3
+resolve-apt:CHANGWONUNICITY3:48121-202601:창원중동유니시티3단지
+fill-month:CHANGWONUNICITY3:2026-01:86000:3
+resolve-apt:CHANGWONUNICITY4:48121-202601:창원중동유니시티4단지
+fill-month:CHANGWONUNICITY4:2026-01:91000:7
+resolve-apt:CHEONGJUTECHNO:43113-202601:청주테크노폴리스푸르지오
+fill-month:CHEONGJUTECHNO:2026-01:54400:4
+resolve-apt:SUSEONGLAKE:27260-202601:수성레이크푸르지오
+fill-month:SUSEONGLAKE:2026-01:75500:3
+resolve-apt:GEOJEEURO:48310-202601:이편한세상거제유로스카이
+fill-month:GEOJEEURO:2026-01:43300:7
 resolve-apt:HAEUNDAE:26350-202512:no-match-target-area
 resolve-apt:GWACHEON:41290-202512:no-match-target-area
 resolve-apt:WIRYECENT:41131-202512:no-match-target-area
