@@ -873,10 +873,19 @@
     "resolve-apt:GEOMDANP:28260-202509:empty-0",
     "resolve-apt:BONGSEON57:29155-202509:empty-0",
     "resolve-apt:HWAMJAIPARK:29140-202509:empty-0",
-    "resolve-apt:SWANJ:29200-202509:empty-0"
+    "resolve-apt:SWANJ:29200-202509:empty-0",
+    "resolve-apt:HEUKSEOK:11590-202509:흑석리버파크자이",
+    "resolve-apt:INDEOGWON:41430-202509:no-match",
+    "resolve-apt:BUPYEONGIP:28237-202509:부평IPARK",
+    "fill-month:BUPYEONGIP:2025-09:68500:1",
+    "resolve-apt:SANGMUCENTRAL:29140-202509:empty-0",
+    "resolve-apt:JAMSIL5:11710-202509:주공아파트 5단지",
+    "fill-month:JAMSIL5:2025-09:403825:8",
+    "fill-month:JAMSIL5:2025-08:288983:0-seed-log",
+    "fill-month:JAMSIL5:2025-10:298334:0-seed-log"
   ],
-  "cyclesCompleted": 134,
-  "lastAction": "Checked five actionable regions for September 2025; all returned totalCount 0, so aptName and seed history were preserved.",
+  "cyclesCompleted": 135,
+  "lastAction": "Checked five actionable regions for September 2025; confirmed three aptName values, filled two real medians, and log-linearly bridged two adjacent no-trade months around JAMSIL5.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }

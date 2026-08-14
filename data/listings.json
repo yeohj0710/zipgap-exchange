@@ -8666,7 +8666,8 @@
           "source": "seed"
         }
       ],
-      "lawdCd": "11590"
+      "lawdCd": "11590",
+      "aptName": "흑석리버파크자이"
     },
     {
       "symbol": "TRIMAGE",
@@ -10601,6 +10602,7 @@
       "rentYield": 0.04,
       "shareDivisor": 100000,
       "lawdCd": "28237",
+      "aptName": "부평IPARK",
       "history": [
         {
           "ym": "2024-01",
@@ -10724,9 +10726,9 @@
         },
         {
           "ym": "2025-09",
-          "price": 60100,
-          "trades": 7,
-          "source": "seed"
+          "price": 68500,
+          "trades": 1,
+          "source": "real"
         },
         {
           "ym": "2025-10",
@@ -12942,6 +12944,7 @@
       "rentYield": 0.014,
       "shareDivisor": 100000,
       "lawdCd": "11710",
+      "aptName": "주공아파트 5단지",
       "history": [
         {
           "ym": "2024-01",
@@ -13059,19 +13062,19 @@
         },
         {
           "ym": "2025-08",
-          "price": 213900,
+          "price": 288983,
           "trades": 4,
           "source": "seed"
         },
         {
           "ym": "2025-09",
-          "price": 214200,
-          "trades": 7,
-          "source": "seed"
+          "price": 403825,
+          "trades": 8,
+          "source": "real"
         },
         {
           "ym": "2025-10",
-          "price": 221500,
+          "price": 298334,
           "trades": 6,
           "source": "seed"
         },
