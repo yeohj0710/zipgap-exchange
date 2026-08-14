@@ -999,6 +999,14 @@ resolve-apt:BAEGOTPRIME:41390-202511:no-match-target-area
 resolve-apt:GAKSANDECIAN:27140-202511:no-match-target-area
 resolve-apt:GANGJEONGYOO:50130-202511:제주강정유승한내들퍼스트오션
 fill-month:GANGJEONGYOO:2025-11:51800:3
+resolve-apt:EUNMA:11680-202512:no-match-target-area
+resolve-apt:ELS:11710-202512:잠실엘스
+fill-month:ELS:2025-12:335000:2
+resolve-apt:HELIO:11710-202512:헬리오시티
+fill-month:HELIO:2025-12:291000:3
+resolve-apt:ARIPARK:11650-202512:no-match-target-area
+resolve-apt:BANPO:11650-202512:래미안퍼스티지
+fill-month:BANPO:2025-12:515000:1
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:SANGMUCENTRAL:29155-202509:empty-0
 resolve-apt:HARRINGTONTECHNO:43113-202509:no-match
