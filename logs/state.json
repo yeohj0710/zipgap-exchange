@@ -1715,9 +1715,21 @@
     ,"fill-month:DOANIPARK:2025-09:58400:4"
     ,"resolve-apt:DUNGGOKWOOMI:30200-202509:대전둔곡우미린"
     ,"fill-month:DUNGGOKWOOMI:2025-09:45500:5"
+    ,"resolve-apt:EASYGWANGGYO:41117-202509:광교2차e편한세상"
+    ,"fill-month:EASYGWANGGYO:2025-09:98250:2"
+    ,"resolve-apt:ELS:11710-202509:잠실엘스"
+    ,"fill-month:ELS:2025-09:329500:2"
+    ,"resolve-apt:GAEPO:11680-202509:개포자이프레지던스"
+    ,"fill-month:GAEPO:2025-09:358000:2"
+    ,"resolve-apt:GAPCHEON1TRIPLE:30200-202509:갑천1트리풀시티힐스테이트"
+    ,"fill-month:GAPCHEON1TRIPLE:2025-09:69575:2"
+    ,"resolve-apt:GJUNGHEUNG:41117-202509:광교중흥에스클래스"
+    ,"fill-month:GJUNGHEUNG:2025-09:167000:8"
+    ,"resolve-apt:EASYGWANGGYO:41117-202510:광교2차e편한세상"
+    ,"fill-month:EASYGWANGGYO:2025-10:100000:6"
   ],
-  "cyclesCompleted": 242,
-  "lastAction": "Processed five historical official median fills for 2025-09: CHUNGJUCENTRAL, DAEYEONH, DJIPARKCITY, DOANIPARK, and DUNGGOKWOOMI; kept DOAN9TRIPLE deferred.",
+  "cyclesCompleted": 244,
+  "lastAction": "Processed five historical official median fills plus EASYGWANGGYO adjacent continuity for 2025-10; kept DOAN9TRIPLE deferred.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
