@@ -1003,6 +1003,15 @@ resolve-apt:GWANGMYEONG:41210-202510:광명역센트럴자이
 fill-month:GWANGMYEONG:2025-10:128250:2
 resolve-apt:KINTEXONE:41285-202510:킨텍스원시티3블럭
 fill-month:KINTEXONE:2025-10:121000:5
+resolve-apt:PYEONGCHON:41173-202510:평촌더샵센트럴시티
+fill-month:PYEONGCHON:2025-10:130000:5
+resolve-apt:BUPYEONGIP:28237-202510:no-match-target-area
+resolve-apt:CENTUMVISTA:26500-202510:센텀비스타동원
+fill-month:CENTUMVISTA:2025-10:73500:3
+resolve-apt:DONGRAEIP:26260-202510:동래래미안아이파크
+fill-month:DONGRAEIP:2025-10:94500:28
+resolve-apt:MYEONGNYUN2IP:26260-202510:명륜2차아이파크1단지
+fill-month:MYEONGNYUN2IP:2025-10:66250:6
 resolve-apt:HEUKSEOK:11590-202509:흑석리버파크자이
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:BUPYEONGIP:28237-202509:부평IPARK

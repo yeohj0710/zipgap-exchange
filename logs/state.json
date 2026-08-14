@@ -1124,9 +1124,18 @@
     ,"fill-month:GWANGMYEONG:2025-10:128250:2"
     ,"resolve-apt:KINTEXONE:41285-202510:킨텍스원시티3블럭"
     ,"fill-month:KINTEXONE:2025-10:121000:5"
+    ,"resolve-apt:PYEONGCHON:41173-202510:평촌더샵센트럴시티"
+    ,"fill-month:PYEONGCHON:2025-10:130000:5"
+    ,"resolve-apt:BUPYEONGIP:28237-202510:no-match-target-area"
+    ,"resolve-apt:CENTUMVISTA:26500-202510:센텀비스타동원"
+    ,"fill-month:CENTUMVISTA:2025-10:73500:3"
+    ,"resolve-apt:DONGRAEIP:26260-202510:동래래미안아이파크"
+    ,"fill-month:DONGRAEIP:2025-10:94500:28"
+    ,"resolve-apt:MYEONGNYUN2IP:26260-202510:명륜2차아이파크1단지"
+    ,"fill-month:MYEONGNYUN2IP:2025-10:66250:6"
   ],
-  "cyclesCompleted": 174,
-  "lastAction": "Processed the next October 2025 batch; CLASIA, GODUKGR, SEOULSTC, GWANGMYEONG, and KINTEXONE were filled from official medians.",
+  "cyclesCompleted": 175,
+  "lastAction": "Processed the next October 2025 batch; PYEONGCHON, CENTUMVISTA, DONGRAEIP, and MYEONGNYUN2IP were filled, while BUPYEONGIP had no target-area trade.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
