@@ -24139,6 +24139,7 @@
       "rentYield": 0.025,
       "shareDivisor": 100000,
       "lawdCd": "44133",
+      "aptName": "천안불당지웰더샵",
       "history": [
         { "ym": "2024-01", "price": 70400, "trades": 4, "source": "seed" },
         { "ym": "2024-02", "price": 69800, "trades": 3, "source": "seed" },
@@ -24158,7 +24159,7 @@
         { "ym": "2025-04", "price": 83000, "trades": 5, "source": "seed" },
         { "ym": "2025-05", "price": 82200, "trades": 4, "source": "seed" },
         { "ym": "2025-06", "price": 81600, "trades": 3, "source": "seed" },
-        { "ym": "2025-07", "price": 85800, "trades": 5, "source": "seed" },
+        { "ym": "2025-07", "price": 82000, "trades": 3, "source": "real" },
         { "ym": "2025-08", "price": 85000, "trades": 4, "source": "seed" },
         { "ym": "2025-09", "price": 84400, "trades": 6, "source": "seed" },
         { "ym": "2025-10", "price": 88800, "trades": 5, "source": "seed" },
@@ -24245,6 +24246,7 @@
       "rentYield": 0.029,
       "shareDivisor": 100000,
       "lawdCd": "31200",
+      "aptName": "울산송정금강펜테리움그린테라스1차",
       "history": [
         { "ym": "2024-01", "price": 52200, "trades": 4, "source": "seed" },
         { "ym": "2024-02", "price": 51600, "trades": 3, "source": "seed" },
@@ -24264,7 +24266,7 @@
         { "ym": "2025-04", "price": 60100, "trades": 5, "source": "seed" },
         { "ym": "2025-05", "price": 59500, "trades": 4, "source": "seed" },
         { "ym": "2025-06", "price": 58900, "trades": 3, "source": "seed" },
-        { "ym": "2025-07", "price": 61900, "trades": 5, "source": "seed" },
+        { "ym": "2025-07", "price": 53300, "trades": 3, "source": "real" },
         { "ym": "2025-08", "price": 61300, "trades": 4, "source": "seed" },
         { "ym": "2025-09", "price": 60700, "trades": 6, "source": "seed" },
         { "ym": "2025-10", "price": 63800, "trades": 5, "source": "seed" },

@@ -858,3 +858,10 @@ resolve-apt:WOLSEONGSAMJ:27290-202507:월성삼정그린코아카운티
 fill-month:WOLSEONGSAMJ:2025-07:76500:1
 resolve-apt:DORYONGSKVIEW:30200-202507:no-match
 resolve-apt:GAGYEONGIPARK:43113-202507:ambiguous-subdivisions
+resolve-apt:BULDANGWELL:44133-202507:천안불당지웰더샵
+fill-month:BULDANGWELL:2025-07:82000:3
+resolve-apt:UNAMSANIPARK:29170-202507:empty-0
+resolve-apt:ULSANGUMGANG:31200-202507:울산송정금강펜테리움그린테라스1차
+fill-month:ULSANGUMGANG:2025-07:53300:3
+resolve-apt:NOHYEONG2IPARK:50110-202507:no-match
+resolve-apt:WONJUEGTHE1:42130-202507:empty-0
