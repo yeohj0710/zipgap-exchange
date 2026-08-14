@@ -24879,6 +24879,7 @@
     },
     {
       "symbol": "CHANGWONUNICITY4",
+      "aptName": "창원중동유니시티4단지",
       "name": "창원중동유니시티4단지",
       "alias": "유니시티4단지",
       "kind": "complex",
@@ -24917,7 +24918,7 @@
         { "ym": "2025-06", "price": 83000, "trades": 3, "source": "seed" },
         { "ym": "2025-07", "price": 88500, "trades": 5, "source": "seed" },
         { "ym": "2025-08", "price": 87500, "trades": 4, "source": "seed" },
-        { "ym": "2025-09", "price": 86500, "trades": 6, "source": "seed" },
+        { "ym": "2025-09", "price": 85500, "trades": 9, "source": "real" },
         { "ym": "2025-10", "price": 92000, "trades": 5, "source": "seed" },
         { "ym": "2025-11", "price": 91000, "trades": 4, "source": "seed" },
         { "ym": "2025-12", "price": 90000, "trades": 3, "source": "seed" },
