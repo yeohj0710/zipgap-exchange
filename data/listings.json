@@ -4999,9 +4999,9 @@
         },
         {
           "ym": "2025-12",
-          "price": 148800,
-          "trades": 14,
-          "source": "seed"
+          "price": 164250,
+          "trades": 2,
+          "source": "real"
         },
         {
           "ym": "2026-01",
@@ -12449,9 +12449,9 @@
         },
         {
           "ym": "2025-12",
-          "price": 57100,
+          "price": 56900,
           "trades": 2,
-          "source": "seed"
+          "source": "real"
         },
         {
           "ym": "2026-01",
@@ -17561,9 +17561,9 @@
         },
         {
           "ym": "2025-12",
-          "price": 56440,
-          "trades": 7,
-          "source": "seed"
+          "price": 55550,
+          "trades": 2,
+          "source": "real"
         },
         {
           "ym": "2026-01",
@@ -25835,7 +25835,7 @@
         { "ym": "2025-09", "price": 45000, "trades": 2, "source": "real" },
         { "ym": "2025-10", "price": 43900, "trades": 1, "source": "real" },
         { "ym": "2025-11", "price": 46200, "trades": 4, "source": "seed" },
-        { "ym": "2025-12", "price": 45800, "trades": 3, "source": "seed" },
+        { "ym": "2025-12", "price": 43675, "trades": 4, "source": "real" },
         { "ym": "2026-01", "price": 43300, "trades": 7, "source": "real" },
         { "ym": "2026-02", "price": 44600, "trades": 4, "source": "seed" },
         { "ym": "2026-03", "price": 44200, "trades": 6, "source": "seed" },
@@ -26449,7 +26449,7 @@
         { "ym": "2025-09", "price": 47400, "trades": 6, "source": "real" },
         { "ym": "2025-10", "price": 47000, "trades": 6, "source": "seed" },
         { "ym": "2025-11", "price": 47300, "trades": 5, "source": "seed" },
-        { "ym": "2025-12", "price": 47700, "trades": 7, "source": "seed" },
+        { "ym": "2025-12", "price": 48000, "trades": 1, "source": "real" },
         { "ym": "2026-01", "price": 48800, "trades": 1, "source": "real" },
         { "ym": "2026-02", "price": 47800, "trades": 5, "source": "seed" },
         { "ym": "2026-03", "price": 48300, "trades": 7, "source": "seed" },
