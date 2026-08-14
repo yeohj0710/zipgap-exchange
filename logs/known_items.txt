@@ -900,6 +900,15 @@ resolve-apt:GAKSANDECIAN:27140-202510:각산태영데시앙
 fill-month:GAKSANDECIAN:2025-10:28500:1
 resolve-apt:GANGJEONGYOO:50130-202510:제주강정유승한내들퍼스트오션
 fill-month:GANGJEONGYOO:2025-10:50500:1
+resolve-apt:EUNMA:11680-202511:은마
+fill-month:EUNMA:2025-11:415000:1
+resolve-apt:ELS:11710-202511:잠실엘스
+fill-month:ELS:2025-11:327900:6
+resolve-apt:HELIO:11710-202511:헬리오시티
+fill-month:HELIO:2025-11:300000:9
+resolve-apt:ARIPARK:11650-202511:no-match-target-area
+resolve-apt:BANPO:11650-202511:래미안퍼스티지
+fill-month:BANPO:2025-11:541000:4
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:SANGMUCENTRAL:29155-202509:empty-0
 resolve-apt:HARRINGTONTECHNO:43113-202509:no-match
