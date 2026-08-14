@@ -717,3 +717,11 @@ fill-meta:SHINYOUNGTECHNO:deferred-planned-2027:resume3
 fill-meta:CENTUMPARKSK:deferred-planned-2028:resume3
 fill-meta:ANDONGTOP:deferred-planned-2028:resume3
 fill-meta:GYEONGSANIP2:deferred-unresolved-schedule:resume3
+resolve-apt:EUNMA:11680-202507:은마
+resolve-apt:ELS:11710-202507:잠실엘스
+resolve-apt:HELIO:11710-202507:헬리오시티
+resolve-apt:ARIPARK:11650-202507:아크로리버파크
+resolve-apt:BANPO:11650-202507:래미안퍼스티지
+resolve-apt:MRP:11440-202507:마포래미안푸르지오3단지
+resolve-apt:MOKDONG7:11470-202507:목동신시가지7
+resolve-apt:GAEPO:11680-202507:개포자이프레지던스
