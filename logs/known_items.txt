@@ -890,3 +890,9 @@ resolve-apt:CHEOMDANJAI1:29170-202509:empty-0
 resolve-apt:DUNSANJAI:30170-202509:no-match
 resolve-apt:ANYANGPRUGIOT:41171-202509:no-match
 resolve-apt:GWANGGYOLAKE:41117-202509:no-match
+resolve-apt:MAGOKMVALLEY7:11500-202509:마곡엠밸리7단지
+fill-month:MAGOKMVALLEY7:2025-09:182250:2
+resolve-apt:YEUIDOJAI:11560-202509:no-match
+resolve-apt:LGMETROCITY:26290-202509:ambiguous-subdivisions
+resolve-apt:DORYONGSKVIEW:30200-202509:no-match
+resolve-apt:GAGYEONGIPARK:43113-202509:ambiguous-subdivisions

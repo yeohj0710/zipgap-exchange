@@ -21472,6 +21472,7 @@
       "rentYield": 0.021,
       "shareDivisor": 100000,
       "lawdCd": "11500",
+      "aptName": "마곡엠밸리7단지",
       "history": [
         {
           "ym": "2024-01",
@@ -21595,9 +21596,9 @@
         },
         {
           "ym": "2025-09",
-          "price": 168000,
-          "trades": 6,
-          "source": "seed"
+          "price": 182250,
+          "trades": 2,
+          "source": "real"
         },
         {
           "ym": "2025-10",
