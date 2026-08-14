@@ -11665,6 +11665,7 @@
       "rentYield": 0.031,
       "shareDivisor": 100000,
       "lawdCd": "27290",
+      "aptName": "월드마크웨스트엔드",
       "history": [
         {
           "ym": "2024-01",
@@ -12515,6 +12516,7 @@
       "rentYield": 0.032,
       "shareDivisor": 100000,
       "lawdCd": "41115",
+      "aptName": "수원역푸르지오자이",
       "history": [
         {
           "ym": "2024-01",
@@ -12626,9 +12628,9 @@
         },
         {
           "ym": "2025-07",
-          "price": 74500,
-          "trades": 8,
-          "source": "seed"
+          "price": 80000,
+          "trades": 6,
+          "source": "real"
         },
         {
           "ym": "2025-08",
@@ -18265,6 +18267,7 @@
       "rentYield": 0.038,
       "shareDivisor": 100000,
       "lawdCd": "48310",
+      "aptName": "거제아주KCC스위첸",
       "history": [
         {
           "ym": "2024-01",

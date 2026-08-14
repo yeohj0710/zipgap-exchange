@@ -816,10 +816,17 @@
     "resolve-apt:GAPCHEON1TRIPLE:30200-202507:갑천1트리풀시티힐스테이트",
     "resolve-apt:NAMCHEONJAI:26500-202507:남천자이",
     "resolve-apt:BEOMEOCENTRAL:27260-202507:범어센트럴푸르지오",
-    "resolve-apt:MUNSUIPARK1:31140-202507:문수로IPARK1"
+    "resolve-apt:MUNSUIPARK1:31140-202507:문수로IPARK1",
+    "resolve-apt:WORLDMARKWE:27290-202507:월드마크웨스트엔드",
+    "resolve-apt:SUWONPRUGIOJAI:41115-202507:수원역푸르지오자이",
+    "fill-month:SUWONPRUGIOJAI:2025-07:80000:6",
+    "resolve-apt:GEOJEKCC:48310-202507:거제아주KCC스위첸",
+    "resolve-apt:GUMIINDONG:47190-202507:no-match",
+    "resolve-apt:CHEOMDANJAI1:29170-202507:empty-0",
+    "resolve-apt:CENTUMPARKSK:26470-202507:no-match"
   ],
   "cyclesCompleted": 126,
-  "lastAction": "Reused saved 202507 responses for GAPCHEON1TRIPLE, NAMCHEONJAI, BEOMEOCENTRAL, and MUNSUIPARK1; set four more aptName values from returned aptNm values. Set sixty-three aptName values from returned aptNm values. Kept five planned or unresolved builtYear fields unset.",
-  "nextAction": "Continue resolve-apt for the next lawdCd using an official response, save data/raw/{lawdCd}-{ym}.xml, then fill-month only after aptName is confirmed.",
+  "lastAction": "Saved official 202507 responses for six next queue items; confirmed three aptName values and one real median price; kept three unresolved target identities without guessing.",
+  "nextAction": "Continue resolve-apt for the next data:next item using its correct lawdCd, reuse saved raw when present, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
