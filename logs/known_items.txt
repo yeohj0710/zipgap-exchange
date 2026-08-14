@@ -875,6 +875,12 @@ resolve-apt:SANGMUCENTRAL:29155-202509:empty-0
 resolve-apt:HARRINGTONTECHNO:43113-202509:no-match
 resolve-apt:GEOMDANPRUGIO:28260-202509:empty-0
 resolve-apt:ULSANAEILIN2:31710-202509:no-match
+resolve-apt:SUWANBANG6:29200-202509:empty-0
+resolve-apt:GUMIINDONG:47190-202509:구미인동하늘채디어반
+fill-month:GUMIINDONG:2025-09:35550:1
+resolve-apt:CHEONGRALAKE:28260-202509:empty-0
+resolve-apt:LUWONSKLEADERS:28260-202509:empty-0
+resolve-apt:CENTUMPARKSK:26470-202509:no-match
 resolve-apt:HEUKSEOK:11590-202509:흑석리버파크자이
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:BUPYEONGIP:28237-202509:부평IPARK

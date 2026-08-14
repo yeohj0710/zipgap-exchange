@@ -18470,6 +18470,7 @@
     },
     {
       "symbol": "GUMIINDONG",
+      "aptName": "구미인동하늘채디어반",
       "name": "구미인동하늘채디어반",
       "alias": "구미인동하늘채디어반1차",
       "kind": "complex",
@@ -18609,9 +18610,9 @@
         },
         {
           "ym": "2025-09",
-          "price": 42600,
-          "trades": 4,
-          "source": "seed"
+          "price": 35550,
+          "trades": 1,
+          "source": "real"
         },
         {
           "ym": "2025-10",
