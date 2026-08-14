@@ -193,4 +193,9 @@
 - 2026-08-14 17:30 · LGMETROCITY · 저장 원자료 26290-202508에서 `엘지메트로시티` 전체 aptNm 미확인, 유지
 - 2026-08-14 17:30 · DORYONGSKVIEW · 공식 API 30200-202508에서 `도룡에스케이뷰` 84.8851㎡ 1건 105,000만원 반영
 - 2026-08-14 17:30 · WONJUEGTHE1 · 공식 API 42130-202508 totalCount 0, aptNm 미확인, 유지
-- 2026-08-14 17:30 · JEONJUECOSHOP · 공식 API 45113-202508 totalCount 0, aptNm 미확인, 유지
+ - 2026-08-14 17:30 · JEONJUECOSHOP · 공식 API 45113-202508 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 17:45 · UNGCHONZ1BL · 공식 API 46130-202508 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 17:45 · YEOSUWELL3 · 공식 API 46130-202508 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 17:45 · POHANGXATON · 저장 원자료 47113-202508에서 `포항자이애서턴` aptNm 미확인, 유지
+- 2026-08-14 17:45 · CHUNGCENTRAL · 공식 API 42110-202508 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 17:45 · SUNCHEONEDUHI · 공식 API 46150-202508 totalCount 0, aptNm 미확인, 유지
