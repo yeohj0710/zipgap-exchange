@@ -916,6 +916,14 @@ fill-month:GWANGGYO:2025-11:177000:5
 resolve-apt:SONGDO:28185-202511:송도더샵퍼스트파크F13-1BL
 fill-month:SONGDO:2025-11:99300:5
 resolve-apt:HAEUNDAE:26350-202511:no-match-target-area
+resolve-apt:GWACHEON:41290-202511:no-match-target-area
+resolve-apt:WIRYECENT:41131-202511:no-match-target-area
+resolve-apt:BEOMW:27260-202511:수성범어W
+fill-month:BEOMW:2025-11:149000:24
+resolve-apt:DOANIPARK:30170-202511:현대아이파크
+fill-month:DOANIPARK:2025-11:59900:4
+resolve-apt:MUNSU2IPARK:31140-202511:문수로2차IPARK1단지
+fill-month:MUNSU2IPARK:2025-11:100000:5
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:SANGMUCENTRAL:29155-202509:empty-0
 resolve-apt:HARRINGTONTECHNO:43113-202509:no-match
