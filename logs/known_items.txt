@@ -796,5 +796,16 @@ resolve-apt:HWANGSEONGKCC:47130-202507:황성KCC스위첸
 resolve-apt:SEOSANPRUGIO:44210-202507:서산예천푸르지오
 resolve-apt:JEJUDREAM2:50110-202507:no-match-3단지-only
 resolve-apt:CHEONGJUSKVIEW:43113-202507:no-match
+resolve-apt:CHANGWONUNICITY2:48121-202507:창원중동유니시티2단지
+resolve-apt:ULSANAEILIN1:31710-202507:울산뉴시티에일린의뜰1차
+resolve-apt:MYEONGJIDUSAN:26440-202507:명지두산위브포세이돈
+resolve-apt:CHEONANLAKESIDE:44133-202507:천안푸르지오레이크사이드
+resolve-apt:JEJUDREAM3:50110-202507:제주첨단꿈에그린3단지아파트
+resolve-apt:SHINYOUNGTECHNO:43113-202507:청주테크노폴리스신영지웰푸르지오
+resolve-apt:MYEONGJIOCEAN2:26440-202507:명지대방노블랜드오션뷰2차
+resolve-apt:CHEONGJUTECHNO1:43113-202507:청주테크노폴리스우방아이유쉘1단지
+resolve-apt:DUNGGOKWOOMI:30200-202507:대전둔곡우미린
+resolve-apt:HARRINGTONTECHNO:43113-202507:no-match
+resolve-apt:ULSANAEILIN2:31710-202507:no-match
 resolve-apt:DONGTANH:41590-202508:empty-0
 resolve-apt:GEOMDANP:28260-202508:empty-0
