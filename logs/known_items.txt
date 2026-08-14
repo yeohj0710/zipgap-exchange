@@ -910,6 +910,15 @@ resolve-apt:GWANGMYEONG:41210-202512:광명역센트럴자이
 fill-month:GWANGMYEONG:2025-12:129250:2
 resolve-apt:KINTEXONE:41285-202512:킨텍스원시티3블럭
 fill-month:KINTEXONE:2025-12:129000:2
+resolve-apt:PYEONGCHON:41173-202512:평촌더샵센트럴시티
+fill-month:PYEONGCHON:2025-12:136000:3
+resolve-apt:BUPYEONGIP:28237-202512:no-match-target-area
+resolve-apt:CENTUMVISTA:26500-202512:센텀비스타동원
+fill-month:CENTUMVISTA:2025-12:82500:9
+resolve-apt:DONGRAEIP:26260-202512:동래래미안아이파크
+fill-month:DONGRAEIP:2025-12:97000:8
+resolve-apt:MYEONGNYUN2IP:26260-202512:명륜2차아이파크1단지
+fill-month:MYEONGNYUN2IP:2025-12:69000:9
 resolve-apt:HILLJAIKEYANG:28245-202510:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-10:81000:2
 resolve-apt:LOTTERIVERPK:11215-202510:롯데캐슬리버파크시그니쳐
