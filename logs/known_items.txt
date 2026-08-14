@@ -949,6 +949,8 @@ resolve-apt:BEOMEOCENTRAL:27260-202601:deferred-historical-continuity
 resolve-apt:MUNSUIPARK1:31140-202601:deferred-historical-continuity
 resolve-apt:EDUNSAN:30170-202602:e편한세상둔산2단지
 fill-month:EDUNSAN:2026-02:81800:2
+resolve-apt:SHINYOUNGTECHNO:43113-202601:청주테크노폴리스신영지웰푸르지오
+fill-month:SHINYOUNGTECHNO:2026-01:62500:2
 resolve-apt:HAEUNDAE:26350-202512:no-match-target-area
 resolve-apt:GWACHEON:41290-202512:no-match-target-area
 resolve-apt:WIRYECENT:41131-202512:no-match-target-area

@@ -17140,9 +17140,9 @@
         },
         {
           "ym": "2026-01",
-          "price": 74100,
-          "trades": 5,
-          "source": "seed"
+          "price": 62500,
+          "trades": 2,
+          "source": "real"
         },
         {
           "ym": "2026-02",
