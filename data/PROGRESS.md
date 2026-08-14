@@ -372,3 +372,4 @@
 - 2026-08-14 | Official MOLIT median fills for 2026-02: BANPO 572,500/2, BEOMW 159,000/8, MANCHEONGREEN 117,000/3, MUNSUDONGMH 61,850/4, SUSEONGLAKE 83,500/3. 2026-01 unsafe candidates remain untouched; DOAN9TRIPLE remains deferred.
 - 2026-08-14 | Official MOLIT median fills for 2026-03: DJIPARKCITY 71,500/10, DUNGGOKWOOMI 45,200/1, EDUNSAN 79,500/2, GAPCHEON1TRIPLE 70,000/3. 2026-01 unsafe candidates remain untouched; DOAN9TRIPLE remains deferred.
 - 2026-08-14 | Official MOLIT median fills: DJIPARKCITY 2026-04 74,800/19 and 2026-05 73,600/8, DORYONGSKVIEW 2026-05 120,000/1, DUNGGOKWOOMI 2026-05 45,000/1, GAPCHEON1TRIPLE 2026-05 71,900/3. 2026-01 unsafe candidates remain untouched; DOAN9TRIPLE remains deferred.
+- 2026-08-14 | Official MOLIT median fills: DJIPARKCITY 2026-06 75,850/12 and 2026-07 75,250/8, DUNGGOKWOOMI 2026-06 45,500/6 and 2026-07 45,600/2, EDUNSAN 2026-06 82,000/1. 2026-01 unsafe candidates remain untouched; DOAN9TRIPLE remains deferred.
