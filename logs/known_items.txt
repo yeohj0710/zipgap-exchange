@@ -915,3 +915,13 @@ resolve-apt:JINJUPRIME:48170-202509:진주혁신도시중흥에스-클래스더�
 fill-month:JINJUPRIME:2025-09:58200:3
 resolve-apt:GANGNEUNGYUS:42150-202509:empty-0
 resolve-apt:HONGSEONGDL:44800-202509:no-match
+resolve-apt:YANGSANPARK:48330-202509:양산물금동일스위트
+fill-month:YANGSANPARK:2025-09:21500:5
+resolve-apt:ANDONGTOP:47170-202509:no-match
+resolve-apt:BAEGOTPRIME:41390-202509:호반베르디움더프라임(1차)
+fill-month:BAEGOTPRIME:2025-09:78250:2
+resolve-apt:SUSEONGLAKE:27260-202509:no-match
+resolve-apt:GEOJEEURO:48310-202509:이편한세상거제유로스카이
+fill-month:GEOJEEURO:2025-09:45000:2
+fill-month:BAEGOTPRIME:2025-08:63172:0-seed-log
+fill-month:BAEGOTPRIME:2025-10:63666:0-seed-log
