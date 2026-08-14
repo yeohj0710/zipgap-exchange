@@ -47,6 +47,9 @@
 - 2026-08-14 13:15 · DONGRAEIP·MYEONGNYUN2IP · 공식 API 26260-202507 원자료 303건에서 aptName 동래래미안아이파크·명륜2차아이파크1단지 확정
 - 2026-08-14 13:15 · DOAN9TRIPLE·MUNSUDONGMH · 저장 원자료에서 aptName 트리풀시티(5단지)·울산문수로동문디이스트 확정
 - 2026-08-14 13:15 · EASYGWANGGYO · 공식 API 41117-202507 원자료에서 84.6861㎡ 일치 aptName 광교2차e편한세상 확정
+- 2026-08-14 13:25 · CHUNGJUCENTRAL·HWANGSEONGKCC·SEOSANPRUGIO · 공식 API 202507 원자료에서 aptName 충주센트럴푸르지오·황성KCC스위첸·서산예천푸르지오 확정
+- 2026-08-14 13:25 · JEJUDREAM2 · 공식 API 50110-202507 원자료에 3단지만 확인되어 2단지 aptName 미확정
+- 2026-08-14 13:25 · CHEONGJUSKVIEW · 공식 API 43113-202507 원자료에 대상 aptNm 미확정
 - 2026-08-14 12:35 · DONGTANH·GEOMDANP · 공식 API 202508 원자료도 각각 0건 · aptName 미확정
 
 - 2026-08-14 · 재개 주기 3회차: 준공 예정·일정 미정 단지 5건의 준공년도 보류, 법정동코드 확정 · 종목 160개, 남은 실거래 칸 5120 · 후보 59개 중 유효 59개

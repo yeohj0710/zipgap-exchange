@@ -796,10 +796,15 @@
     "resolve-apt:SINCHONGRAN:11440-202507:마포그랑자이",
     "resolve-apt:BUNDANGPARK:41135-202507:파크뷰",
     "resolve-apt:SUWONIPARK2:41113-202507:수원아이파크시티2단지",
-    "resolve-apt:EASYGWANGGYO:41117-202507:광교2차e편한세상"
+    "resolve-apt:EASYGWANGGYO:41117-202507:광교2차e편한세상",
+    "resolve-apt:CHUNGJUCENTRAL:43130-202507:충주센트럴푸르지오",
+    "resolve-apt:HWANGSEONGKCC:47130-202507:황성KCC스위첸",
+    "resolve-apt:SEOSANPRUGIO:44210-202507:서산예천푸르지오",
+    "resolve-apt:JEJUDREAM2:50110-202507:no-match-3단지-only",
+    "resolve-apt:CHEONGJUSKVIEW:43113-202507:no-match"
   ],
   "cyclesCompleted": 126,
-  "lastAction": "Saved official responses for the next 송도·부산·대구·수도권 tasks from 202507 and reused saved responses for shared lawdCd groups; set five more aptName values and kept BUPYEONGIP, JAMSIL5, SANGMUCENTRAL, and INDEOGWON unresolved. Set forty-seven aptName values from returned aptNm values. Kept five planned or unresolved builtYear fields unset.",
+  "lastAction": "Saved official responses for CHUNGJUCENTRAL, HWANGSEONGKCC, SEOSANPRUGIO, JEJUDREAM2, and CHEONGJUSKVIEW for 202507; set three more aptName values and kept JEJUDREAM2 unresolved because only 3단지 was returned. Set fifty aptName values from returned aptNm values. Kept five planned or unresolved builtYear fields unset.",
   "nextAction": "Continue resolve-apt for the next lawdCd using an official response, save data/raw/{lawdCd}-{ym}.xml, then fill-month only after aptName is confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }

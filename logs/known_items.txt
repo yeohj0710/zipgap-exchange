@@ -791,5 +791,10 @@ resolve-apt:SINCHONGRAN:11440-202507:마포그랑자이
 resolve-apt:BUNDANGPARK:41135-202507:파크뷰
 resolve-apt:SUWONIPARK2:41113-202507:수원아이파크시티2단지
 resolve-apt:EASYGWANGGYO:41117-202507:광교2차e편한세상
+resolve-apt:CHUNGJUCENTRAL:43130-202507:충주센트럴푸르지오
+resolve-apt:HWANGSEONGKCC:47130-202507:황성KCC스위첸
+resolve-apt:SEOSANPRUGIO:44210-202507:서산예천푸르지오
+resolve-apt:JEJUDREAM2:50110-202507:no-match-3단지-only
+resolve-apt:CHEONGJUSKVIEW:43113-202507:no-match
 resolve-apt:DONGTANH:41590-202508:empty-0
 resolve-apt:GEOMDANP:28260-202508:empty-0
