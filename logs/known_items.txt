@@ -1012,6 +1012,13 @@ resolve-apt:DONGRAEIP:26260-202510:동래래미안아이파크
 fill-month:DONGRAEIP:2025-10:94500:28
 resolve-apt:MYEONGNYUN2IP:26260-202510:명륜2차아이파크1단지
 fill-month:MYEONGNYUN2IP:2025-10:66250:6
+resolve-apt:WORLDMARKWE:27290-202510:no-match-target-area
+resolve-apt:SUWONPRUGIOJAI:41115-202510:수원역푸르지오자이
+fill-month:SUWONPRUGIOJAI:2025-10:86000:9
+resolve-apt:SUWONIPARK2:41113-202510:deferred-historical-continuity
+resolve-apt:CHUNGJUCENTRAL:43130-202510:충주센트럴푸르지오
+fill-month:CHUNGJUCENTRAL:2025-10:41300:3
+resolve-apt:HWANGSEONGKCC:47130-202510:no-match-target-area
 resolve-apt:HEUKSEOK:11590-202509:흑석리버파크자이
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:BUPYEONGIP:28237-202509:부평IPARK
