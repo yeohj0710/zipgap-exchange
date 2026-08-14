@@ -946,6 +946,14 @@ fill-month:BUSANPARKCITY:2025-12:67500:3
 resolve-apt:HILLJAIKEYANG:28245-202512:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-12:82750:6
 resolve-apt:LOTTERIVERPK:11215-202512:no-match-target-area
+resolve-apt:MAGOKMVALLEY7:11500-202512:no-match-target-area
+resolve-apt:SEONGBOKLOTTE:41465-202512:성복역롯데캐슬골드타운
+fill-month:SEONGBOKLOTTE:2025-12:150495:12
+resolve-apt:MISACENTRAL:41450-202512:no-match-target-area
+resolve-apt:DASANJAIIB:41360-202512:다산자이아이비플레이스
+fill-month:DASANJAIIB:2025-12:112500:1
+resolve-apt:GODEOKPARAGON:41220-202512:고덕국제신도시파라곤
+fill-month:GODEOKPARAGON:2025-12:54650:4
 resolve-apt:HILLJAIKEYANG:28245-202510:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-10:81000:2
 resolve-apt:LOTTERIVERPK:11215-202510:롯데캐슬리버파크시그니쳐
