@@ -971,6 +971,16 @@ resolve-apt:HELIO:11710-202506:헬리오시티
 fill-month:HELIO:2025-06:270000:20
 resolve-apt:OLYMPIC:11710-202506:올림픽선수기자촌2단지
 fill-month:OLYMPIC:2025-06:258000:2
+resolve-apt:ARIPARK:11650-202507:아크로리버파크
+fill-month:ARIPARK:2025-07:520000:2
+resolve-apt:AUTOVALLEYZOOM:31200-202507:울산오토밸리로Z00M파크
+fill-month:AUTOVALLEYZOOM:2025-07:28500:3
+resolve-apt:BANPO:11650-202507:래미안퍼스티지
+fill-month:BANPO:2025-07:480000:1
+resolve-apt:BEOMEOCENTRAL:27260-202507:범어센트럴푸르지오
+fill-month:BEOMEOCENTRAL:2025-07:105500:6
+resolve-apt:BEOMW:27260-202507:수성범어W
+fill-month:BEOMW:2025-07:139000:12
 resolve-apt:HAEUNDAE:26350-202512:no-match-target-area
 resolve-apt:GWACHEON:41290-202512:no-match-target-area
 resolve-apt:WIRYECENT:41131-202512:no-match-target-area

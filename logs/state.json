@@ -1587,9 +1587,19 @@
     ,"fill-month:HELIO:2025-06:270000:20"
     ,"resolve-apt:OLYMPIC:11710-202506:올림픽선수기자촌2단지"
     ,"fill-month:OLYMPIC:2025-06:258000:2"
+    ,"resolve-apt:ARIPARK:11650-202507:아크로리버파크"
+    ,"fill-month:ARIPARK:2025-07:520000:2"
+    ,"resolve-apt:AUTOVALLEYZOOM:31200-202507:울산오토밸리로Z00M파크"
+    ,"fill-month:AUTOVALLEYZOOM:2025-07:28500:3"
+    ,"resolve-apt:BANPO:11650-202507:래미안퍼스티지"
+    ,"fill-month:BANPO:2025-07:480000:1"
+    ,"resolve-apt:BEOMEOCENTRAL:27260-202507:범어센트럴푸르지오"
+    ,"fill-month:BEOMEOCENTRAL:2025-07:105500:6"
+    ,"resolve-apt:BEOMW:27260-202507:수성범어W"
+    ,"fill-month:BEOMW:2025-07:139000:12"
   ],
-  "cyclesCompleted": 227,
-  "lastAction": "Processed five historical official median fills: DOANIPARK, EDUNSAN, ELS, HELIO, and OLYMPIC for 2025-06.",
+  "cyclesCompleted": 228,
+  "lastAction": "Processed five historical official median fills for 2025-07: ARIPARK, AUTOVALLEYZOOM, BANPO, BEOMEOCENTRAL, and BEOMW.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
