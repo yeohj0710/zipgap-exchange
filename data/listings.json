@@ -23323,9 +23323,9 @@
         },
         {
           "ym": "2025-11",
-          "price": 63800,
-          "trades": 5,
-          "source": "seed"
+          "price": 68500,
+          "trades": 1,
+          "source": "real"
         },
         {
           "ym": "2025-12",
@@ -24173,7 +24173,7 @@
         { "ym": "2025-08", "price": 85000, "trades": 4, "source": "seed" },
         { "ym": "2025-09", "price": 85350, "trades": 2, "source": "real" },
         { "ym": "2025-10", "price": 87000, "trades": 1, "source": "real" },
-        { "ym": "2025-11", "price": 88000, "trades": 4, "source": "seed" },
+        { "ym": "2025-11", "price": 84000, "trades": 3, "source": "real" },
         { "ym": "2025-12", "price": 87400, "trades": 3, "source": "seed" },
         { "ym": "2026-01", "price": 83700, "trades": 1, "source": "real" },
         { "ym": "2026-02", "price": 91000, "trades": 4, "source": "seed" },
@@ -24495,7 +24495,7 @@
         { "ym": "2025-08", "price": 85700, "trades": 4, "source": "seed" },
         { "ym": "2025-09", "price": 85500, "trades": 4, "source": "real" },
         { "ym": "2025-10", "price": 86500, "trades": 3, "source": "real" },
-        { "ym": "2025-11", "price": 87700, "trades": 4, "source": "seed" },
+        { "ym": "2025-11", "price": 95000, "trades": 3, "source": "real" },
         { "ym": "2025-12", "price": 87100, "trades": 3, "source": "seed" },
         { "ym": "2026-01", "price": 95000, "trades": 3, "source": "real" },
         { "ym": "2026-02", "price": 88500, "trades": 4, "source": "seed" },
@@ -25943,7 +25943,7 @@
         { "ym": "2025-08", "price": 22800, "trades": 4, "source": "seed" },
         { "ym": "2025-09", "price": 28000, "trades": 1, "source": "real" },
         { "ym": "2025-10", "price": 27850, "trades": 2, "source": "real" },
-        { "ym": "2025-11", "price": 23600, "trades": 4, "source": "seed" },
+        { "ym": "2025-11", "price": 28000, "trades": 1, "source": "real" },
         { "ym": "2025-12", "price": 23400, "trades": 3, "source": "seed" },
         { "ym": "2026-01", "price": 23800, "trades": 5, "source": "seed" },
         { "ym": "2026-02", "price": 24200, "trades": 4, "source": "seed" },
@@ -26498,7 +26498,7 @@
         { "ym": "2025-08", "price": 36300, "trades": 6, "source": "seed" },
         { "ym": "2025-09", "price": 30400, "trades": 2, "source": "real" },
         { "ym": "2025-10", "price": 30000, "trades": 5, "source": "real" },
-        { "ym": "2025-11", "price": 37300, "trades": 6, "source": "seed" },
+        { "ym": "2025-11", "price": 31500, "trades": 3, "source": "real" },
         { "ym": "2025-12", "price": 37600, "trades": 8, "source": "seed" },
         { "ym": "2026-01", "price": 32000, "trades": 2, "source": "real" },
         { "ym": "2026-02", "price": 37700, "trades": 6, "source": "seed" },
