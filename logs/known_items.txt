@@ -1835,3 +1835,13 @@ resolve-apt:MUNSUDONGMH:31140-202512:울산문수로동문디이스트
 fill-month:MUNSUDONGMH:2025-12:56900:2
 resolve-apt:MYEONGJIOCEAN2:26440-202512:명지대방노블랜드오션뷰2차
 fill-month:MYEONGJIOCEAN2:2025-12:55550:2
+resolve-apt:GEOJEEURO:48310-202511:이편한세상거제유로스카이
+fill-month:GEOJEEURO:2025-11:43000:3
+resolve-apt:GJUNGHEUNG:41117-202511:광교중흥에스클래스
+fill-month:GJUNGHEUNG:2025-11:164000:1
+resolve-apt:HOAMUMI:43130-202511:우미린에듀시티
+fill-month:HOAMUMI:2025-11:47250:2
+resolve-apt:MUNSUDONGMH:31140-202511:울산문수로동문디이스트
+fill-month:MUNSUDONGMH:2025-11:58400:2
+resolve-apt:SUSEONGLAKE:27260-202511:수성레이크푸르지오
+fill-month:SUSEONGLAKE:2025-11:77300:1
