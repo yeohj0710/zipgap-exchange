@@ -961,6 +961,16 @@ resolve-apt:PANGYO:41135-202504:봇들마을8단지(주공)
 fill-month:PANGYO:2025-04:217000:1
 resolve-apt:PANGYO:41135-202505:봇들마을8단지(주공)
 fill-month:PANGYO:2025-05:230000:1
+resolve-apt:DOANIPARK:30170-202506:현대아이파크
+fill-month:DOANIPARK:2025-06:57000:9
+resolve-apt:EDUNSAN:30170-202506:e편한세상둔산2단지
+fill-month:EDUNSAN:2025-06:78500:1
+resolve-apt:ELS:11710-202506:잠실엘스
+fill-month:ELS:2025-06:320000:32
+resolve-apt:HELIO:11710-202506:헬리오시티
+fill-month:HELIO:2025-06:270000:20
+resolve-apt:OLYMPIC:11710-202506:올림픽선수기자촌2단지
+fill-month:OLYMPIC:2025-06:258000:2
 resolve-apt:HAEUNDAE:26350-202512:no-match-target-area
 resolve-apt:GWACHEON:41290-202512:no-match-target-area
 resolve-apt:WIRYECENT:41131-202512:no-match-target-area
