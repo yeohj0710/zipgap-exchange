@@ -8239,9 +8239,9 @@
         },
         {
           "ym": "2026-08",
-          "price": 79400,
-          "trades": 10,
-          "source": "seed"
+          "price": 75000,
+          "trades": 1,
+          "source": "real"
         }
       ],
       "lawdCd": "30200"
