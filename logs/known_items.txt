@@ -890,6 +890,16 @@ resolve-apt:GUWOLASIADE:28200-202510:구월아시아드선수촌5단지
 fill-month:GUWOLASIADE:2025-10:49700:1
 resolve-apt:HWAMYEONGKAI:26320-202510:화명롯데캐슬카이저
 fill-month:HWAMYEONGKAI:2025-10:67400:3
+resolve-apt:ULSANGUMGANG:31200-202510:울산송정금강펜테리움그린테라스1차
+fill-month:ULSANGUMGANG:2025-10:54500:3
+resolve-apt:JINJUPRIME:48170-202510:진주혁신도시중흥에스-클래스더프라임
+fill-month:JINJUPRIME:2025-10:59775:4
+resolve-apt:YANGSANPARK:48330-202510:양산물금동일스위트
+fill-month:YANGSANPARK:2025-10:21500:3
+resolve-apt:GAKSANDECIAN:27140-202510:각산태영데시앙
+fill-month:GAKSANDECIAN:2025-10:28500:1
+resolve-apt:GANGJEONGYOO:50130-202510:제주강정유승한내들퍼스트오션
+fill-month:GANGJEONGYOO:2025-10:50500:1
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:SANGMUCENTRAL:29155-202509:empty-0
 resolve-apt:HARRINGTONTECHNO:43113-202509:no-match
