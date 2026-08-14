@@ -13,7 +13,8 @@
     "uitest": "node scripts/uitest.mjs",
     "data:next": "node scripts/data-next.mjs",
     "data:lawd": "node scripts/resolve-lawd.mjs",
-    "build:lawd": "node scripts/build-lawd-codes.mjs"
+    "build:lawd": "node scripts/build-lawd-codes.mjs",
+    "deploy": "node scripts/deploy.mjs"
   },
   "dependencies": {
     "firebase": "^12.17.1",
