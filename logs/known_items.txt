@@ -933,6 +933,14 @@ resolve-apt:CLASIA:11290-202511:롯데캐슬클라시아
 fill-month:CLASIA:2025-11:158000:3
 resolve-apt:GODUKGR:11740-202511:고덕그라시움
 fill-month:GODUKGR:2025-11:254000:1
+resolve-apt:SEOULSTC:11140-202511:no-match-target-area
+resolve-apt:GWANGMYEONG:41210-202511:광명역센트럴자이
+fill-month:GWANGMYEONG:2025-11:126000:3
+resolve-apt:KINTEXONE:41285-202511:킨텍스원시티3블럭
+fill-month:KINTEXONE:2025-11:125000:7
+resolve-apt:PYEONGCHON:41173-202511:평촌더샵센트럴시티
+fill-month:PYEONGCHON:2025-11:127000:1
+resolve-apt:BUPYEONGIP:28237-202511:no-match-target-area
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:SANGMUCENTRAL:29155-202509:empty-0
 resolve-apt:HARRINGTONTECHNO:43113-202509:no-match
