@@ -970,6 +970,14 @@ resolve-apt:CHEONANLAKESIDE:44133-202511:천안푸르지오레이크사이드
 fill-month:CHEONANLAKESIDE:2025-11:59500:6
 resolve-apt:MYEONGJIOCEAN2:26440-202511:명지대방노블랜드오션뷰2차
 fill-month:MYEONGJIOCEAN2:2025-11:48400:3
+resolve-apt:GEOJEKCC:48310-202511:deferred-historical-continuity
+resolve-apt:GUMIINDONG:47190-202511:구미인동하늘채디어반
+fill-month:GUMIINDONG:2025-11:43000:1
+resolve-apt:BUSANPARKCITY:26470-202511:더샵파크시티
+fill-month:BUSANPARKCITY:2025-11:67900:3
+resolve-apt:HILLJAIKEYANG:28245-202511:힐스테이트자이계양
+fill-month:HILLJAIKEYANG:2025-11:82499:3
+resolve-apt:MAGOKMVALLEY7:11500-202511:no-match-target-area
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:SANGMUCENTRAL:29155-202509:empty-0
 resolve-apt:HARRINGTONTECHNO:43113-202509:no-match

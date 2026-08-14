@@ -1256,9 +1256,17 @@
     ,"fill-month:CHEONANLAKESIDE:2025-11:59500:6"
     ,"resolve-apt:MYEONGJIOCEAN2:26440-202511:명지대방노블랜드오션뷰2차"
     ,"fill-month:MYEONGJIOCEAN2:2025-11:48400:3"
+    ,"resolve-apt:GEOJEKCC:48310-202511:deferred-historical-continuity"
+    ,"resolve-apt:GUMIINDONG:47190-202511:구미인동하늘채디어반"
+    ,"fill-month:GUMIINDONG:2025-11:43000:1"
+    ,"resolve-apt:BUSANPARKCITY:26470-202511:더샵파크시티"
+    ,"fill-month:BUSANPARKCITY:2025-11:67900:3"
+    ,"resolve-apt:HILLJAIKEYANG:28245-202511:힐스테이트자이계양"
+    ,"fill-month:HILLJAIKEYANG:2025-11:82499:3"
+    ,"resolve-apt:MAGOKMVALLEY7:11500-202511:no-match-target-area"
   ],
-  "cyclesCompleted": 189,
-  "lastAction": "Processed the next November 2025 batch; CHANGWONUNICITY2, MYEONGJIDUSAN, ULSANAEILIN1, CHEONANLAKESIDE, and MYEONGJIOCEAN2 were filled.",
+  "cyclesCompleted": 190,
+  "lastAction": "Processed the next November 2025 batch; GUMIINDONG, BUSANPARKCITY, and HILLJAIKEYANG were filled, MAGOKMVALLEY7 had no target-area trade, and GEOJEKCC was deferred for historical continuity.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
