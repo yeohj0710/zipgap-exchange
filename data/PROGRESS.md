@@ -174,3 +174,8 @@
 - 2026-08-14 16:30 · HOAMUMI · 공식 API 43130-202509에서 `우미린에듀시티` 84.97㎡ 6건 중앙값 47,400만원 반영
 - 2026-08-14 16:30 · AUTOVALLEYZOOM · 공식 API 31200-202509에서 `울산오토밸리로Z00M파크` 84.92㎡ 2건 중앙값 30,400만원 반영
 - 2026-08-14 16:30 · GYEONGSANIP2 · 저장 원자료 47290-202509에서 `경산아이파크2차` aptNm 미확인, 유지
+- 2026-08-14 16:45 · DONGTANH · 저장 원자료 41590-202508 totalCount 0, aptName·시세 유지
+- 2026-08-14 16:45 · GEOMDANP · 저장 원자료 28260-202508 totalCount 0, aptName·시세 유지
+- 2026-08-14 16:45 · BONGSEON57 · 공식 API 29155-202508 totalCount 0, aptName·시세 유지
+- 2026-08-14 16:45 · HWAMJAIPARK · 공식 API 29140-202508 totalCount 0, aptName·시세 유지
+- 2026-08-14 16:45 · SWANJ · 공식 API 29200-202508 totalCount 0, aptName·시세 유지

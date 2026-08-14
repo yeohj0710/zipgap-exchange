@@ -939,3 +939,8 @@ fill-month:HOAMUMI:2025-09:47400:6
 resolve-apt:AUTOVALLEYZOOM:31200-202509:울산오토밸리로Z00M파크
 fill-month:AUTOVALLEYZOOM:2025-09:30400:2
 resolve-apt:GYEONGSANIP2:47290-202509:no-match
+resolve-apt:DONGTANH:41590-202508:empty-0
+resolve-apt:GEOMDANP:28260-202508:empty-0
+resolve-apt:BONGSEON57:29155-202508:empty-0
+resolve-apt:HWAMJAIPARK:29140-202508:empty-0
+resolve-apt:SWANJ:29200-202508:empty-0
