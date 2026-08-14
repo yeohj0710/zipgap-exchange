@@ -733,3 +733,4 @@ resolve-apt:RAEWON:11650-202507:래미안원베일리
 resolve-apt:MAPOPJ:11440-202507:마포프레스티지자이
 resolve-apt:GJUNGHEUNG:41117-202507:광교중흥에스클래스
 resolve-apt:GWACHEON:41290-202507:센트럴파크푸르지오써밋
+resolve-apt:OLYMPIC:11710-202506:올림픽선수기자촌2단지
