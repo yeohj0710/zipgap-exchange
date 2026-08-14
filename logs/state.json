@@ -1272,9 +1272,18 @@
     ,"fill-month:GODEOKPARAGON:2025-11:55000:5"
     ,"resolve-apt:HANGANGJAI:41570-202511:한강센트럴자이1단지"
     ,"fill-month:HANGANGJAI:2025-11:49700:10"
+    ,"resolve-apt:GUWOLASIADE:28200-202511:no-match-target-area"
+    ,"resolve-apt:HWAMYEONGKAI:26320-202511:화명롯데캐슬카이저"
+    ,"fill-month:HWAMYEONGKAI:2025-11:66400:4"
+    ,"resolve-apt:ULSANGUMGANG:31200-202511:울산송정금강펜테리움그린테라스1차"
+    ,"fill-month:ULSANGUMGANG:2025-11:54400:7"
+    ,"resolve-apt:JINJUPRIME:48170-202511:진주혁신도시중흥에스-클래스더프라임"
+    ,"fill-month:JINJUPRIME:2025-11:59750:12"
+    ,"resolve-apt:YANGSANPARK:48330-202511:양산물금동일스위트"
+    ,"fill-month:YANGSANPARK:2025-11:22750:8"
   ],
-  "cyclesCompleted": 191,
-  "lastAction": "Processed the next November 2025 batch; SEONGBOKLOTTE, GODEOKPARAGON, and HANGANGJAI were filled, while MISACENTRAL and DASANJAIIB had no target-area trade.",
+  "cyclesCompleted": 192,
+  "lastAction": "Processed the next November 2025 batch; HWAMYEONGKAI, ULSANGUMGANG, JINJUPRIME, and YANGSANPARK were filled, while GUWOLASIADE had no target-area trade.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
