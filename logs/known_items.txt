@@ -730,3 +730,6 @@ resolve-apt:SONGDO:28185-202507:송도더샵퍼스트파크F13-1BL
 resolve-apt:PANGYO:41135-202506:봇들마을8단지(주공)
 resolve-apt:HAEUNDAE:26350-202506:해운대두산위브더제니스
 resolve-apt:RAEWON:11650-202507:래미안원베일리
+resolve-apt:MAPOPJ:11440-202507:마포프레스티지자이
+resolve-apt:GJUNGHEUNG:41117-202507:광교중흥에스클래스
+resolve-apt:GWACHEON:41290-202507:센트럴파크푸르지오써밋
