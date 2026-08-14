@@ -3497,9 +3497,9 @@
         },
         {
           "ym": "2025-10",
-          "price": 195400,
-          "trades": 5,
-          "source": "seed"
+          "price": 260000,
+          "trades": 1,
+          "source": "real"
         },
         {
           "ym": "2025-11",
@@ -3709,9 +3709,9 @@
         },
         {
           "ym": "2025-10",
-          "price": 125300,
-          "trades": 12,
-          "source": "seed"
+          "price": 173000,
+          "trades": 17,
+          "source": "real"
         },
         {
           "ym": "2025-11",
@@ -4987,9 +4987,9 @@
         },
         {
           "ym": "2025-10",
-          "price": 142700,
-          "trades": 10,
-          "source": "seed"
+          "price": 162000,
+          "trades": 11,
+          "source": "real"
         },
         {
           "ym": "2025-11",
@@ -6691,9 +6691,9 @@
         },
         {
           "ym": "2025-10",
-          "price": 77500,
-          "trades": 10,
-          "source": "seed"
+          "price": 58000,
+          "trades": 3,
+          "source": "real"
         },
         {
           "ym": "2025-11",

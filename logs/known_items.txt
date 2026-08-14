@@ -972,6 +972,15 @@ resolve-apt:DAEGUCJ:27110-202607:대구역센트럴자이
 fill-month:DAEGUCJ:2026-07:54800:7
 resolve-apt:DAEGUCJ:27110-202608:대구역센트럴자이
 fill-month:DAEGUCJ:2026-08:53600:3
+resolve-apt:PANGYO:41135-202510:봇들마을8단지(주공)
+fill-month:PANGYO:2025-10:260000:1
+resolve-apt:GWANGGYO:41117-202510:자연앤힐스테이트
+fill-month:GWANGGYO:2025-10:173000:17
+resolve-apt:HAEUNDAE:26350-202510:no-match-target-area
+resolve-apt:GJUNGHEUNG:41117-202510:광교중흥에스클래스
+fill-month:GJUNGHEUNG:2025-10:162000:11
+resolve-apt:DOANIPARK:30170-202510:현대아이파크
+fill-month:DOANIPARK:2025-10:58000:3
 resolve-apt:HEUKSEOK:11590-202509:흑석리버파크자이
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:BUPYEONGIP:28237-202509:부평IPARK
