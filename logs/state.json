@@ -1468,9 +1468,18 @@
     ,"resolve-apt:ULSANAEILIN1:31710-202601:no-match-target-area"
     ,"resolve-apt:CHEONANLAKESIDE:44133-202601:천안푸르지오레이크사이드"
     ,"fill-month:CHEONANLAKESIDE:2026-01:58000:1"
+    ,"resolve-apt:GUMIINDONG:47190-202601:구미인동하늘채디어반"
+    ,"fill-month:GUMIINDONG:2026-01:39595:2"
+    ,"resolve-apt:BUSANPARKCITY:26470-202601:더샵파크시티"
+    ,"fill-month:BUSANPARKCITY:2026-01:67200:5"
+    ,"resolve-apt:HILLJAIKEYANG:28245-202601:힐스테이트자이계양"
+    ,"fill-month:HILLJAIKEYANG:2026-01:83750:2"
+    ,"resolve-apt:LOTTERIVERPK:11215-202601:no-match-target-area"
+    ,"resolve-apt:MAGOKMVALLEY7:11500-202601:마곡엠밸리7단지"
+    ,"fill-month:MAGOKMVALLEY7:2026-01:198500:1"
   ],
-  "cyclesCompleted": 213,
-  "lastAction": "Processed the next January 2026 batch; CHEONGJUSKVIEW, CHANGWONUNICITY2, MYEONGJIDUSAN, and CHEONANLAKESIDE were filled, while ULSANAEILIN1 had no target-area trade.",
+  "cyclesCompleted": 214,
+  "lastAction": "Processed the next January 2026 batch; GUMIINDONG, BUSANPARKCITY, HILLJAIKEYANG, and MAGOKMVALLEY7 were filled, while LOTTERIVERPK had no target-area trade.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
