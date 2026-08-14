@@ -26398,6 +26398,7 @@
     },
     {
       "symbol": "HOAMUMI",
+      "aptName": "우미린에듀시티",
       "name": "호암지구우미린에듀시티",
       "alias": "우미린에듀시티",
       "kind": "complex",
@@ -26431,7 +26432,7 @@
         { "ym": "2025-06", "price": 46000, "trades": 7, "source": "seed" },
         { "ym": "2025-07", "price": 46400, "trades": 6, "source": "seed" },
         { "ym": "2025-08", "price": 46100, "trades": 5, "source": "seed" },
-        { "ym": "2025-09", "price": 46600, "trades": 7, "source": "seed" },
+        { "ym": "2025-09", "price": 47400, "trades": 6, "source": "real" },
         { "ym": "2025-10", "price": 47000, "trades": 6, "source": "seed" },
         { "ym": "2025-11", "price": 47300, "trades": 5, "source": "seed" },
         { "ym": "2025-12", "price": 47700, "trades": 7, "source": "seed" },
@@ -26447,6 +26448,7 @@
     },
     {
       "symbol": "AUTOVALLEYZOOM",
+      "aptName": "울산오토밸리로Z00M파크",
       "name": "오토밸리로줌파크",
       "alias": "울산오토밸리로줌파크",
       "kind": "complex",
@@ -26480,7 +26482,7 @@
         { "ym": "2025-06", "price": 36200, "trades": 8, "source": "seed" },
         { "ym": "2025-07", "price": 36500, "trades": 7, "source": "seed" },
         { "ym": "2025-08", "price": 36300, "trades": 6, "source": "seed" },
-        { "ym": "2025-09", "price": 36700, "trades": 8, "source": "seed" },
+        { "ym": "2025-09", "price": 30400, "trades": 2, "source": "real" },
         { "ym": "2025-10", "price": 37000, "trades": 7, "source": "seed" },
         { "ym": "2025-11", "price": 37300, "trades": 6, "source": "seed" },
         { "ym": "2025-12", "price": 37600, "trades": 8, "source": "seed" },
