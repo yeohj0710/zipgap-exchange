@@ -1737,9 +1737,23 @@
     ,"fill-month:MAGOKMVALLEY9:2025-09:149000:5"
     ,"resolve-apt:OLYMPIC:11710-202509:official"
     ,"fill-month:OLYMPIC:2025-09:243500:2"
+    ,"resolve-apt:BEOMEOCENTRAL:27260-202509:official"
+    ,"fill-month:BEOMEOCENTRAL:2025-09:116500:4"
+    ,"resolve-apt:PANGYO:41135-202509:official"
+    ,"fill-month:PANGYO:2025-09:257000:1"
+    ,"resolve-apt:SHINYOUNGTECHNO:43113-202509:official"
+    ,"fill-month:SHINYOUNGTECHNO:2025-09:57400:7"
+    ,"resolve-apt:ULSANAEILIN1:31710-202509:official"
+    ,"fill-month:ULSANAEILIN1:2025-09:46000:1"
+    ,"resolve-apt:ULSANGUMGANG:31200-202509:official"
+    ,"fill-month:ULSANGUMGANG:2025-09:54100:4"
+    ,"resolve-apt:BEOMEOCENTRAL:27260-202508:official"
+    ,"fill-month:BEOMEOCENTRAL:2025-08:120000:3"
+    ,"resolve-apt:BEOMEOCENTRAL:27260-202510:official"
+    ,"fill-month:BEOMEOCENTRAL:2025-10:110000:5"
   ],
-  "cyclesCompleted": 245,
-  "lastAction": "Processed five historical official median fills for 2025-09; kept DOAN9TRIPLE deferred.",
+  "cyclesCompleted": 247,
+  "lastAction": "Processed ten historical official median fills for 2025-09 and repaired BEOMEOCENTRAL adjacent continuity; kept DOAN9TRIPLE deferred.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
