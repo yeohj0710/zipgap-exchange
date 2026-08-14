@@ -25955,6 +25955,7 @@
     },
     {
       "symbol": "YEONSANLCGF",
+      "aptName": "연산롯데캐슬골드포레",
       "name": "연산롯데캐슬골드포레",
       "alias": "연산 롯데캐슬 골드포레",
       "kind": "complex",
@@ -25992,7 +25993,7 @@
         { "ym": "2025-06", "price": 70200, "trades": 3, "source": "seed" },
         { "ym": "2025-07", "price": 72400, "trades": 5, "source": "seed" },
         { "ym": "2025-08", "price": 72000, "trades": 4, "source": "seed" },
-        { "ym": "2025-09", "price": 71600, "trades": 6, "source": "seed" },
+        { "ym": "2025-09", "price": 74000, "trades": 8, "source": "real" },
         { "ym": "2025-10", "price": 70400, "trades": 5, "source": "seed" },
         { "ym": "2025-11", "price": 70000, "trades": 4, "source": "seed" },
         { "ym": "2025-12", "price": 69600, "trades": 3, "source": "seed" },
@@ -26160,6 +26161,7 @@
     }
     , {
       "symbol": "GAGYEONGIPARK3",
+      "aptName": "청주가경아이파크3단지",
       "name": "청주가경아이파크3단지",
       "alias": "청주 가경 아이파크 3단지",
       "kind": "complex",
@@ -26193,7 +26195,7 @@
         { "ym": "2025-06", "price": 65400, "trades": 4, "source": "seed" },
         { "ym": "2025-07", "price": 68600, "trades": 6, "source": "seed" },
         { "ym": "2025-08", "price": 67900, "trades": 5, "source": "seed" },
-        { "ym": "2025-09", "price": 67300, "trades": 7, "source": "seed" },
+        { "ym": "2025-09", "price": 64500, "trades": 1, "source": "real" },
         { "ym": "2025-10", "price": 70500, "trades": 6, "source": "seed" },
         { "ym": "2025-11", "price": 69700, "trades": 5, "source": "seed" },
         { "ym": "2025-12", "price": 69100, "trades": 4, "source": "seed" },

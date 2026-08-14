@@ -1037,6 +1037,13 @@
     ,"fill-month:GUMIGOLD:2025-05:37650:2"
     ,"fill-month:GUMIGOLD:2025-06:36750:4"
     ,"fill-month:GUMIGOLD:2025-07:36750:2"
+    ,"resolve-apt:GEOMDANJAI2:28260-202509:empty-0"
+    ,"resolve-apt:YEONSANLCGF:26470-202509:연산롯데캐슬골드포레"
+    ,"fill-month:YEONSANLCGF:2025-09:74000:8"
+    ,"resolve-apt:CHEONGRATSHARP:28260-202509:empty-0"
+    ,"resolve-apt:GAYALSKYEL:26230-202509:no-match"
+    ,"resolve-apt:GAGYEONGIPARK3:43113-202509:청주가경아이파크3단지"
+    ,"fill-month:GAGYEONGIPARK3:2025-09:64500:1"
     ,"resolve-apt:CHEOMDAN2:29170-202509:empty-0"
     ,"resolve-apt:CHUNGRACHEONG:28260-202509:empty-0"
     ,"resolve-apt:YUSEONGO2G3:30200-202509:no-match"
@@ -1045,8 +1052,8 @@
     ,"resolve-apt:LUWONSKLEADERS:28260-202509:empty-0"
     ,"resolve-apt:CENTUMPARKSK:26470-202509:no-match"
   ],
-  "cyclesCompleted": 162,
-  "lastAction": "Normalized GUMIGOLD from September 2024 through September 2025 using official medians and one August bridge for the missing raw month.",
+  "cyclesCompleted": 163,
+  "lastAction": "Checked five more unresolved identities against existing September 2025 raw data; confirmed two aptNames and two real medians, while preserving three unresolved identities.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
