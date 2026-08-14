@@ -878,6 +878,11 @@ resolve-apt:ULSANAEILIN2:31710-202509:no-match
 resolve-apt:SUWANBANG6:29200-202509:empty-0
 resolve-apt:GUMIINDONG:47190-202509:구미인동하늘채디어반
 fill-month:GUMIINDONG:2025-09:35550:1
+resolve-apt:CHEOMDANJAI1:29170-202509:empty-0
+resolve-apt:DUNSANJAI:30170-202509:no-match
+resolve-apt:ANYANGPRUGIOT:41171-202509:no-match
+resolve-apt:GWANGGYOLAKE:41117-202509:no-match
+resolve-apt:YEUIDOJAI:11560-202509:no-match
 resolve-apt:CHEONGRALAKE:28260-202509:empty-0
 resolve-apt:LUWONSKLEADERS:28260-202509:empty-0
 resolve-apt:CENTUMPARKSK:26470-202509:no-match
