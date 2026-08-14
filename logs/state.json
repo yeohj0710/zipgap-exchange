@@ -1281,9 +1281,13 @@
     ,"fill-month:JINJUPRIME:2025-11:59750:12"
     ,"resolve-apt:YANGSANPARK:48330-202511:양산물금동일스위트"
     ,"fill-month:YANGSANPARK:2025-11:22750:8"
+    ,"resolve-apt:BAEGOTPRIME:41390-202511:no-match-target-area"
+    ,"resolve-apt:GAKSANDECIAN:27140-202511:no-match-target-area"
+    ,"resolve-apt:GANGJEONGYOO:50130-202511:제주강정유승한내들퍼스트오션"
+    ,"fill-month:GANGJEONGYOO:2025-11:51800:3"
   ],
-  "cyclesCompleted": 192,
-  "lastAction": "Processed the next November 2025 batch; HWAMYEONGKAI, ULSANGUMGANG, JINJUPRIME, and YANGSANPARK were filled, while GUWOLASIADE had no target-area trade.",
+  "cyclesCompleted": 193,
+  "lastAction": "Processed the next November 2025 batch; GANGJEONGYOO was filled, while BAEGOTPRIME and GAKSANDECIAN had no target-area trade.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }

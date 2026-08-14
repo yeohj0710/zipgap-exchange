@@ -26299,7 +26299,7 @@
         { "ym": "2025-08", "price": 51200, "trades": 4, "source": "seed" },
         { "ym": "2025-09", "price": 56000, "trades": 2, "source": "real" },
         { "ym": "2025-10", "price": 50500, "trades": 1, "source": "real" },
-        { "ym": "2025-11", "price": 52600, "trades": 3, "source": "seed" },
+        { "ym": "2025-11", "price": 51800, "trades": 3, "source": "real" },
         { "ym": "2025-12", "price": 52500, "trades": 4, "source": "seed" },
         { "ym": "2026-01", "price": 50300, "trades": 5, "source": "seed" },
         { "ym": "2026-02", "price": 49600, "trades": 4, "source": "seed" },

@@ -995,6 +995,10 @@ resolve-apt:JINJUPRIME:48170-202511:진주혁신도시중흥에스-클래스더�
 fill-month:JINJUPRIME:2025-11:59750:12
 resolve-apt:YANGSANPARK:48330-202511:양산물금동일스위트
 fill-month:YANGSANPARK:2025-11:22750:8
+resolve-apt:BAEGOTPRIME:41390-202511:no-match-target-area
+resolve-apt:GAKSANDECIAN:27140-202511:no-match-target-area
+resolve-apt:GANGJEONGYOO:50130-202511:제주강정유승한내들퍼스트오션
+fill-month:GANGJEONGYOO:2025-11:51800:3
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:SANGMUCENTRAL:29155-202509:empty-0
 resolve-apt:HARRINGTONTECHNO:43113-202509:no-match
