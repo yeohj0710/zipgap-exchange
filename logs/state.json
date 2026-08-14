@@ -1332,9 +1332,18 @@
     ,"fill-month:DJIPARKCITY:2025-12:75400:16"
     ,"resolve-apt:HEUKSEOK:11590-202512:no-match-target-area"
     ,"resolve-apt:TRIMAGE:11200-202512:deferred-historical-continuity"
+    ,"resolve-apt:CLASIA:11290-202512:롯데캐슬클라시아"
+    ,"fill-month:CLASIA:2025-12:153750:4"
+    ,"resolve-apt:GODUKGR:11740-202512:no-match-target-area"
+    ,"resolve-apt:SEOULSTC:11140-202512:서울역센트럴자이"
+    ,"fill-month:SEOULSTC:2025-12:228000:1"
+    ,"resolve-apt:GWANGMYEONG:41210-202512:광명역센트럴자이"
+    ,"fill-month:GWANGMYEONG:2025-12:129250:2"
+    ,"resolve-apt:KINTEXONE:41285-202512:킨텍스원시티3블럭"
+    ,"fill-month:KINTEXONE:2025-12:129000:2"
   ],
-  "cyclesCompleted": 197,
-  "lastAction": "Processed the next December 2025 batch; MUNSU2IPARK, DAEYEONH, and DJIPARKCITY were filled, HEUKSEOK had no target-area trade, and TRIMAGE remained deferred for historical continuity.",
+  "cyclesCompleted": 198,
+  "lastAction": "Processed the next December 2025 batch; CLASIA, SEOULSTC, GWANGMYEONG, and KINTEXONE were filled, while GODUKGR had no target-area trade.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }

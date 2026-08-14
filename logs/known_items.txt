@@ -901,6 +901,15 @@ resolve-apt:DJIPARKCITY:30200-202512:대전아이파크시티1단지
 fill-month:DJIPARKCITY:2025-12:75400:16
 resolve-apt:HEUKSEOK:11590-202512:no-match-target-area
 resolve-apt:TRIMAGE:11200-202512:deferred-historical-continuity
+resolve-apt:CLASIA:11290-202512:롯데캐슬클라시아
+fill-month:CLASIA:2025-12:153750:4
+resolve-apt:GODUKGR:11740-202512:no-match-target-area
+resolve-apt:SEOULSTC:11140-202512:서울역센트럴자이
+fill-month:SEOULSTC:2025-12:228000:1
+resolve-apt:GWANGMYEONG:41210-202512:광명역센트럴자이
+fill-month:GWANGMYEONG:2025-12:129250:2
+resolve-apt:KINTEXONE:41285-202512:킨텍스원시티3블럭
+fill-month:KINTEXONE:2025-12:129000:2
 resolve-apt:HILLJAIKEYANG:28245-202510:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-10:81000:2
 resolve-apt:LOTTERIVERPK:11215-202510:롯데캐슬리버파크시그니쳐
