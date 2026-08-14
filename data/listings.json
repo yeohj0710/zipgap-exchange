@@ -7528,9 +7528,9 @@
         },
         {
           "ym": "2025-08",
-          "price": 71400,
-          "trades": 13,
-          "source": "seed"
+          "price": 92500,
+          "trades": 4,
+          "source": "real"
         },
         {
           "ym": "2025-09",
@@ -8167,9 +8167,9 @@
         },
         {
           "ym": "2025-08",
-          "price": 72100,
-          "trades": 10,
-          "source": "seed"
+          "price": 78000,
+          "trades": 5,
+          "source": "real"
         },
         {
           "ym": "2025-09",
@@ -25776,7 +25776,7 @@
         { "ym": "2025-04", "price": 74800, "trades": 5, "source": "seed" },
         { "ym": "2025-05", "price": 74400, "trades": 4, "source": "seed" },
         { "ym": "2025-06", "price": 74000, "trades": 3, "source": "seed" },
-        { "ym": "2025-07", "price": 75800, "trades": 5, "source": "seed" },
+        { "ym": "2025-07", "price": 75000, "trades": 1, "source": "real" },
         { "ym": "2025-08", "price": 72350, "trades": 4, "source": "real" },
         { "ym": "2025-09", "price": 75000, "trades": 6, "source": "seed" },
         { "ym": "2025-10", "price": 77000, "trades": 5, "source": "seed" },
@@ -25993,7 +25993,7 @@
         { "ym": "2025-04", "price": 71000, "trades": 5, "source": "seed" },
         { "ym": "2025-05", "price": 70600, "trades": 4, "source": "seed" },
         { "ym": "2025-06", "price": 70200, "trades": 3, "source": "seed" },
-        { "ym": "2025-07", "price": 72400, "trades": 5, "source": "seed" },
+        { "ym": "2025-07", "price": 72750, "trades": 8, "source": "real" },
         { "ym": "2025-08", "price": 72000, "trades": 4, "source": "seed" },
         { "ym": "2025-09", "price": 74000, "trades": 8, "source": "real" },
         { "ym": "2025-10", "price": 70400, "trades": 5, "source": "seed" },

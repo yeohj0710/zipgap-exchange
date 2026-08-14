@@ -1656,9 +1656,18 @@
     ,"fill-month:MAGOKMVALLEY9:2025-07:143000:1"
     ,"resolve-apt:SEOCHANGCENTRAL:28200-202507:서창센트럴푸르지오"
     ,"fill-month:SEOCHANGCENTRAL:2025-07:53250:2"
+    ,"resolve-apt:SUSEONGLAKE:27260-202507:수성레이크푸르지오"
+    ,"fill-month:SUSEONGLAKE:2025-07:75000:1"
+    ,"resolve-apt:YEONSANLCGF:26470-202507:연산롯데캐슬골드포레"
+    ,"fill-month:YEONSANLCGF:2025-07:72750:8"
+    ,"resolve-apt:DAEYEONH:26290-202508:대연힐스테이트푸르지오"
+    ,"fill-month:DAEYEONH:2025-08:92500:4"
+    ,"resolve-apt:DJIPARKCITY:30200-202508:대전아이파크시티1단지"
+    ,"fill-month:DJIPARKCITY:2025-08:78000:5"
+    ,"resolve-apt:DOAN9TRIPLE:30200-202508:deferred-historical-continuity"
   ],
-  "cyclesCompleted": 234,
-  "lastAction": "Processed five historical official median fills for 2025-07: GAGYEONGIPARK3, GEOJEEURO, HOAMUMI, MAGOKMVALLEY9, and SEOCHANGCENTRAL.",
+  "cyclesCompleted": 237,
+  "lastAction": "Deferred DOAN9TRIPLE historical continuity after 2025-07 because official data has no target trade in 2026-08 and the later seed path is unverified.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
