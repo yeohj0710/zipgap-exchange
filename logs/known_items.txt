@@ -945,6 +945,16 @@ fill-month:DOAN9TRIPLE:2025-09:64000:4
 resolve-apt:DOAN9TRIPLE:30200-202510:트리풀시티(5단지)
 fill-month:DOAN9TRIPLE:2025-10:63000:11
 resolve-apt:DOAN9TRIPLE:30200-202508:deferred-historical-continuity
+resolve-apt:DOANIPARK:30170-202508:현대아이파크
+fill-month:DOANIPARK:2025-08:57200:6
+resolve-apt:DUNGGOKWOOMI:30200-202508:대전둔곡우미린
+fill-month:DUNGGOKWOOMI:2025-08:48150:2
+resolve-apt:EDUNSAN:30170-202508:e편한세상둔산2단지
+fill-month:EDUNSAN:2025-08:71650:2
+resolve-apt:ELS:11710-202508:잠실엘스
+fill-month:ELS:2025-08:329000:1
+resolve-apt:GAGYEONGIPARK3:43113-202508:청주가경아이파크3단지
+fill-month:GAGYEONGIPARK3:2025-08:64300:1
 resolve-apt:DAEGUCJ:27110-202507:deferred-historical-continuity
 resolve-apt:GUWOLASIADE:28200-202601:구월아시아드선수촌5단지
 fill-month:GUWOLASIADE:2026-01:49400:2
