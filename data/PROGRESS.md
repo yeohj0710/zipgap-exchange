@@ -39,6 +39,11 @@
 - 2026-08-14 12:55 · KINTEXONE · 공식 API 41285-202507 원자료 146건에서 84.95㎡ 일치 거래가 더 많은 aptName 킨텍스원시티3블럭 선택 · 실거래 반영은 다음 단계
 - 2026-08-14 12:55 · PYEONGCHON · 공식 API 41173-202507 원자료 360건에서 aptName 평촌더샵센트럴시티 확정 · 실거래 반영은 다음 단계
 - 2026-08-14 12:55 · INDEOGWON · 공식 API 41430-202507·202506 원자료를 저장했지만 인덕원자이SK뷰 aptNm 미확정
+- 2026-08-14 13:05 · FIRSTWORLD · 공식 API 28185-202507 원자료 322건에서 aptName 더샵퍼스트월드 확정 · 실거래 반영은 다음 단계
+- 2026-08-14 13:05 · CENTUMVISTA · 공식 API 26500-202507 원자료 150건에서 aptName 센텀비스타동원 확정 · 실거래 반영은 다음 단계
+- 2026-08-14 13:05 · MANCHEONGREEN · 공식 API 27260-202507 원자료 384건에서 aptName 만촌삼정그린코아에듀파크 확정 · 실거래 반영은 다음 단계
+- 2026-08-14 13:05 · BANPOJAI·GAEPORFOREST·SINCHONGRAN·BUNDANGPARK·SUWONIPARK2 · 저장 원자료에서 aptName 반포자이·개포래미안포레스트·마포그랑자이·파크뷰·수원아이파크시티2단지 확정
+- 2026-08-14 13:05 · BUPYEONGIP·DONGRAEIP·MYEONGNYUN2IP·DOAN9TRIPLE·SANGMUCENTRAL·MUNSUDONGMH·JAMSIL5 · 공식 원자료에서 대상 aptNm 미확정
 - 2026-08-14 12:35 · DONGTANH·GEOMDANP · 공식 API 202508 원자료도 각각 0건 · aptName 미확정
 
 - 2026-08-14 · 재개 주기 3회차: 준공 예정·일정 미정 단지 5건의 준공년도 보류, 법정동코드 확정 · 종목 160개, 남은 실거래 칸 5120 · 후보 59개 중 유효 59개

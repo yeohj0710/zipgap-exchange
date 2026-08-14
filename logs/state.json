@@ -779,10 +779,26 @@
     "resolve-apt:KINTEXONE:41285-202507:킨텍스원시티3블럭",
     "resolve-apt:PYEONGCHON:41173-202507:평촌더샵센트럴시티",
     "resolve-apt:INDEOGWON:41430-202507:no-match",
-    "resolve-apt:INDEOGWON:41430-202506:no-match"
+    "resolve-apt:INDEOGWON:41430-202506:no-match",
+    "resolve-apt:FIRSTWORLD:28185-202507:더샵퍼스트월드",
+    "resolve-apt:BUPYEONGIP:28237-202507:no-match",
+    "resolve-apt:CENTUMVISTA:26500-202507:센텀비스타동원",
+    "resolve-apt:DONGRAEIP:26260-202507:no-match",
+    "resolve-apt:MYEONGNYUN2IP:26260-202507:no-match",
+    "resolve-apt:MANCHEONGREEN:27260-202507:만촌삼정그린코아에듀파크",
+    "resolve-apt:DOAN9TRIPLE:30200-202507:no-match",
+    "resolve-apt:SANGMUCENTRAL:29140-202507:empty-0",
+    "resolve-apt:MUNSUDONGMH:31140-202507:no-match",
+    "resolve-apt:BANPOJAI:11650-202507:반포자이",
+    "resolve-apt:JAMSIL5:11710-202507:no-match",
+    "resolve-apt:JAMSIL5:11710-202506:no-match",
+    "resolve-apt:GAEPORFOREST:11680-202507:개포래미안포레스트",
+    "resolve-apt:SINCHONGRAN:11440-202507:마포그랑자이",
+    "resolve-apt:BUNDANGPARK:41135-202507:파크뷰",
+    "resolve-apt:SUWONIPARK2:41113-202507:수원아이파크시티2단지"
   ],
   "cyclesCompleted": 126,
-  "lastAction": "Saved official responses for TRIMAGE, CLASIA, GODUKGR, SEOULSTC, GWANGMYEONG, KINTEXONE, PYEONGCHON, and INDEOGWON for 202507 plus TRIMAGE and INDEOGWON for 202506; set seven aptName values and kept INDEOGWON unset because no matching aptNm was returned. Set thirty-four aptName values from returned aptNm values. Kept five planned or unresolved builtYear fields unset.",
+  "lastAction": "Saved official responses for the next 송도·부산·대구·수도권 tasks from 202507 and reused saved responses for shared lawdCd groups; set eight more aptName values and recorded no-match cases for BUPYEONGIP, DONGRAEIP, MYEONGNYUN2IP, DOAN9TRIPLE, JAMSIL5, SANGMUCENTRAL, and MUNSUDONGMH. Set forty-two aptName values from returned aptNm values. Kept five planned or unresolved builtYear fields unset.",
   "nextAction": "Continue resolve-apt for the next lawdCd using an official response, save data/raw/{lawdCd}-{ym}.xml, then fill-month only after aptName is confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
