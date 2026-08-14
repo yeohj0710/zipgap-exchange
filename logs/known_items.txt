@@ -904,6 +904,16 @@ resolve-apt:CHEONGJUTECHNO1:43113-202601:청주테크노폴리스우방아이유
 fill-month:CHEONGJUTECHNO1:2026-01:48500:3
 resolve-apt:GAPCHEON1TRIPLE:30200-202601:갑천1트리풀시티힐스테이트
 fill-month:GAPCHEON1TRIPLE:2026-01:71250:3
+resolve-apt:NAMCHEONJAI:26500-202601:남천자이
+fill-month:NAMCHEONJAI:2026-01:139000:5
+resolve-apt:BUPYEONGGRAN:28237-202601:e편한세상부평그랑힐스
+fill-month:BUPYEONGGRAN:2026-01:69800:6
+resolve-apt:DORYONGSKVIEW:30200-202601:도룡에스케이뷰
+fill-month:DORYONGSKVIEW:2026-01:105000:1
+resolve-apt:BULDANGWELL:44133-202601:천안불당지웰더샵
+fill-month:BULDANGWELL:2026-01:83700:1
+resolve-apt:CHANGWONUNICITY1:48121-202601:창원중동유니시티1단지
+fill-month:CHANGWONUNICITY1:2026-01:95000:3
 resolve-apt:HAEUNDAE:26350-202512:no-match-target-area
 resolve-apt:GWACHEON:41290-202512:no-match-target-area
 resolve-apt:WIRYECENT:41131-202512:no-match-target-area
