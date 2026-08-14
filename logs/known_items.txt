@@ -965,6 +965,11 @@ resolve-apt:JINJUPRIME:48170-202512:진주혁신도시중흥에스-클래스더�
 fill-month:JINJUPRIME:2025-12:58500:7
 resolve-apt:YANGSANPARK:48330-202512:양산물금동일스위트
 fill-month:YANGSANPARK:2025-12:23600:2
+resolve-apt:BAEGOTPRIME:41390-202512:deferred-historical-continuity
+resolve-apt:GAKSANDECIAN:27140-202512:각산태영데시앙
+fill-month:GAKSANDECIAN:2025-12:26750:2
+resolve-apt:GANGJEONGYOO:50130-202512:제주강정유승한내들퍼스트오션
+fill-month:GANGJEONGYOO:2025-12:51500:4
 resolve-apt:HILLJAIKEYANG:28245-202510:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-10:81000:2
 resolve-apt:LOTTERIVERPK:11215-202510:롯데캐슬리버파크시그니쳐
