@@ -211,3 +211,8 @@
 - 2026-08-14 18:15 · YANGSANSASONG3 · 공식 API 48330-202508에서 `사송더샵데시앙3단지` 84.9589㎡ 1건 41,800만원 반영
 - 2026-08-14 18:30 · MOKPOGOLDCLASS · 공식 API 46110-202508 totalCount 0, aptNm 미확인, 유지
 - 2026-08-14 18:30 · GYEONGSANIP2 · 저장 원자료 47290-202508에서 `경산아이파크2차` aptNm 미확인, 유지
+- 2026-08-14 18:45 · DONGTANH · 저장 원자료 41590-202509 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 18:45 · GEOMDANP · 저장 원자료 28260-202509 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 18:45 · BONGSEON57 · 저장 원자료 29155-202509 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 18:45 · HWAMJAIPARK · 저장 원자료 29140-202509 totalCount 0, aptNm 미확인, 유지
+- 2026-08-14 18:45 · SWANJ · 저장 원자료 29200-202509 totalCount 0, aptNm 미확인, 유지
