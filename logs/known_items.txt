@@ -950,3 +950,8 @@ fill-month:JEJUDREAM2:2025-08:48000:1
 resolve-apt:HARRINGTONTECHNO:43113-202508:no-match
 resolve-apt:ULSANAEILIN2:31710-202508:no-match
 resolve-apt:GUMIINDONG:47190-202508:no-match
+resolve-apt:CENTUMPARKSK:26470-202508:no-match
+resolve-apt:CHEOMDANJAI1:29170-202508:empty-0
+resolve-apt:DUNSANJAI:30170-202508:no-match
+resolve-apt:ANYANGPRUGIOT:41171-202508:no-match
+resolve-apt:GWANGGYOLAKE:41117-202508:no-match
