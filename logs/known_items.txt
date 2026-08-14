@@ -986,6 +986,12 @@ resolve-apt:GWANGGYO:41117-202601:자연앤힐스테이트
 fill-month:GWANGGYO:2026-01:174000:4
 resolve-apt:SONGDO:28185-202601:송도더샵퍼스트파크F13-1BL
 fill-month:SONGDO:2026-01:99500:5
+resolve-apt:HAEUNDAE:26350-202601:no-match-target-area
+resolve-apt:GWACHEON:41290-202601:no-match-target-area
+resolve-apt:WIRYECENT:41131-202601:no-match-target-area
+resolve-apt:BEOMW:27260-202601:수성범어W
+fill-month:BEOMW:2026-01:160000:13
+resolve-apt:MUNSU2IPARK:31140-202601:no-match-target-area
 resolve-apt:HILLJAIKEYANG:28245-202510:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-10:81000:2
 resolve-apt:LOTTERIVERPK:11215-202510:롯데캐슬리버파크시그니쳐

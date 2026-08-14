@@ -6281,9 +6281,9 @@
         },
         {
           "ym": "2026-01",
-          "price": 125000,
-          "trades": 10,
-          "source": "seed"
+          "price": 160000,
+          "trades": 13,
+          "source": "real"
         },
         {
           "ym": "2026-02",
