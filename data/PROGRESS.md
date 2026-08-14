@@ -375,3 +375,4 @@
 - 2026-08-14 | Official MOLIT median fills: DJIPARKCITY 2026-06 75,850/12 and 2026-07 75,250/8, DUNGGOKWOOMI 2026-06 45,500/6 and 2026-07 45,600/2, EDUNSAN 2026-06 82,000/1. 2026-01 unsafe candidates remain untouched; DOAN9TRIPLE remains deferred.
 - 2026-08-14 | Official MOLIT fill: DJIPARKCITY 2026-08 75,000/1. 2026-01 unsafe candidates and remaining ambiguous continuity items remain untouched; DOAN9TRIPLE remains deferred.
 - 2026-08-14 | Official MOLIT median fills for 2025-10: MUNSUDONGMH 57,700/1, MYEONGJIOCEAN2 52,100/5, SEOCHANGCENTRAL 53,000/3, SUSEONGLAKE 74,000/1, YANGSANSASONG3 44,300/1. Unsafe and ambiguous continuity items remain untouched; DOAN9TRIPLE remains deferred.
+- 2026-08-14 | Official MOLIT median fills for 2025-11: GAGYEONGIPARK3 67,350/4, GAPCHEON1TRIPLE 67,250/8, MANCHEONGREEN 110,000/4, SEOCHANGCENTRAL 51,250/2, YANGSANSASONG3 41,700/1. Unsafe and ambiguous continuity items remain untouched; DOAN9TRIPLE remains deferred.
