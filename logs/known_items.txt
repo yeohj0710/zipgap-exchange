@@ -978,6 +978,14 @@ fill-month:BUSANPARKCITY:2025-11:67900:3
 resolve-apt:HILLJAIKEYANG:28245-202511:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-11:82499:3
 resolve-apt:MAGOKMVALLEY7:11500-202511:no-match-target-area
+resolve-apt:SEONGBOKLOTTE:41465-202511:성복역롯데캐슬골드타운
+fill-month:SEONGBOKLOTTE:2025-11:146000:4
+resolve-apt:MISACENTRAL:41450-202511:no-match-target-area
+resolve-apt:DASANJAIIB:41360-202511:no-match-target-area
+resolve-apt:GODEOKPARAGON:41220-202511:고덕국제신도시파라곤
+fill-month:GODEOKPARAGON:2025-11:55000:5
+resolve-apt:HANGANGJAI:41570-202511:한강센트럴자이1단지
+fill-month:HANGANGJAI:2025-11:49700:10
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:SANGMUCENTRAL:29155-202509:empty-0
 resolve-apt:HARRINGTONTECHNO:43113-202509:no-match
