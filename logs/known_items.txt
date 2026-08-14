@@ -880,6 +880,16 @@ resolve-apt:SEONGBOKLOTTE:41465-202510:성복역롯데캐슬골드타운
 fill-month:SEONGBOKLOTTE:2025-10:147500:18
 resolve-apt:MISACENTRAL:41450-202510:no-match-target-area
 resolve-apt:LOTTERIVERPK:11215-202510:deferred-historical-continuity
+resolve-apt:DASANJAIIB:41360-202510:다산자이아이비플레이스
+fill-month:DASANJAIIB:2025-10:110000:5
+resolve-apt:GODEOKPARAGON:41220-202510:고덕국제신도시파라곤
+fill-month:GODEOKPARAGON:2025-10:57350:6
+resolve-apt:HANGANGJAI:41570-202510:한강센트럴자이1단지
+fill-month:HANGANGJAI:2025-10:48500:9
+resolve-apt:GUWOLASIADE:28200-202510:구월아시아드선수촌5단지
+fill-month:GUWOLASIADE:2025-10:49700:1
+resolve-apt:HWAMYEONGKAI:26320-202510:화명롯데캐슬카이저
+fill-month:HWAMYEONGKAI:2025-10:67400:3
 resolve-apt:INDEOGWON:41430-202509:no-match
 resolve-apt:SANGMUCENTRAL:29155-202509:empty-0
 resolve-apt:HARRINGTONTECHNO:43113-202509:no-match
