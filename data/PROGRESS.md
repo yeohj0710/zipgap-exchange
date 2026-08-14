@@ -54,6 +54,7 @@
 - 2026-08-14 13:35 · JEJUDREAM3·SHINYOUNGTECHNO·CHEONGJUTECHNO1·DUNGGOKWOOMI · 저장 원자료에서 공식 aptName 제주첨단꿈에그린3단지아파트·청주테크노폴리스신영지웰푸르지오·청주테크노폴리스우방아이유쉘1단지·대전둔곡우미린 확정
 - 2026-08-14 13:35 · ULSANAEILIN1 · 공식 API 31710-202507에서 aptName 울산뉴시티에일린의뜰1차 확인 · 84.94㎡ 거래는 아직 미확인
 - 2026-08-14 13:35 · HARRINGTONTECHNO·ULSANAEILIN2 · 공식 202507 원자료에서 대상 aptNm 미확정
+- 2026-08-14 13:45 · GAPCHEON1TRIPLE·NAMCHEONJAI·BEOMEOCENTRAL·MUNSUIPARK1 · 저장 원자료에서 aptName 갑천1트리풀시티힐스테이트·남천자이·범어센트럴푸르지오·문수로IPARK1 확정
 - 2026-08-14 12:35 · DONGTANH·GEOMDANP · 공식 API 202508 원자료도 각각 0건 · aptName 미확정
 
 - 2026-08-14 · 재개 주기 3회차: 준공 예정·일정 미정 단지 5건의 준공년도 보류, 법정동코드 확정 · 종목 160개, 남은 실거래 칸 5120 · 후보 59개 중 유효 59개

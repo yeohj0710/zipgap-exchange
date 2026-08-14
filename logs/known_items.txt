@@ -807,5 +807,9 @@ resolve-apt:CHEONGJUTECHNO1:43113-202507:청주테크노폴리스우방아이유
 resolve-apt:DUNGGOKWOOMI:30200-202507:대전둔곡우미린
 resolve-apt:HARRINGTONTECHNO:43113-202507:no-match
 resolve-apt:ULSANAEILIN2:31710-202507:no-match
+resolve-apt:GAPCHEON1TRIPLE:30200-202507:갑천1트리풀시티힐스테이트
+resolve-apt:NAMCHEONJAI:26500-202507:남천자이
+resolve-apt:BEOMEOCENTRAL:27260-202507:범어센트럴푸르지오
+resolve-apt:MUNSUIPARK1:31140-202507:문수로IPARK1
 resolve-apt:DONGTANH:41590-202508:empty-0
 resolve-apt:GEOMDANP:28260-202508:empty-0
