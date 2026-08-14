@@ -880,6 +880,11 @@ resolve-apt:JINJUPRIME:48170-202601:진주혁신도시중흥에스-클래스더�
 fill-month:JINJUPRIME:2026-01:63500:5
 resolve-apt:YANGSANPARK:48330-202601:양산물금동일스위트
 fill-month:YANGSANPARK:2026-01:23600:3
+resolve-apt:BAEGOTPRIME:41390-202601:deferred-historical-continuity
+resolve-apt:GAKSANDECIAN:27140-202601:각산태영데시앙
+fill-month:GAKSANDECIAN:2026-01:24400:1
+resolve-apt:GANGJEONGYOO:50130-202601:제주강정유승한내들퍼스트오션
+fill-month:GANGJEONGYOO:2026-01:54000:3
 resolve-apt:HAEUNDAE:26350-202512:no-match-target-area
 resolve-apt:GWACHEON:41290-202512:no-match-target-area
 resolve-apt:WIRYECENT:41131-202512:no-match-target-area
