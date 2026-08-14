@@ -1617,9 +1617,19 @@
     ,"fill-month:CHANGWONUNICITY2:2025-07:82300:1"
     ,"resolve-apt:CHANGWONUNICITY3:48121-202507:창원중동유니시티3단지"
     ,"fill-month:CHANGWONUNICITY3:2025-07:79850:2"
+    ,"resolve-apt:CHANGWONUNICITY4:48121-202507:창원중동유니시티4단지"
+    ,"fill-month:CHANGWONUNICITY4:2025-07:82500:2"
+    ,"resolve-apt:CHEONANLAKESIDE:44133-202507:천안푸르지오레이크사이드"
+    ,"fill-month:CHEONANLAKESIDE:2025-07:59500:3"
+    ,"resolve-apt:CHEONGJUTECHNO:43113-202507:청주테크노폴리스푸르지오"
+    ,"fill-month:CHEONGJUTECHNO:2025-07:50850:8"
+    ,"resolve-apt:CHEONGJUTECHNO1:43113-202507:청주테크노폴리스우방아이유쉘1단지"
+    ,"fill-month:CHEONGJUTECHNO1:2025-07:41200:2"
+    ,"resolve-apt:CHUNGJUCENTRAL:43130-202507:충주센트럴푸르지오"
+    ,"fill-month:CHUNGJUCENTRAL:2025-07:41000:2"
   ],
-  "cyclesCompleted": 230,
-  "lastAction": "Processed five historical official median fills for 2025-07 and 2025-06: PANGYO, CENTUMVISTA, CHANGWONUNICITY1, CHANGWONUNICITY2, and CHANGWONUNICITY3.",
+  "cyclesCompleted": 231,
+  "lastAction": "Processed five historical official median fills for 2025-07: CHANGWONUNICITY4, CHEONANLAKESIDE, CHEONGJUTECHNO, CHEONGJUTECHNO1, and CHUNGJUCENTRAL.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
