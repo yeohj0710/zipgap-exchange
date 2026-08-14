@@ -955,3 +955,9 @@ resolve-apt:CHEOMDANJAI1:29170-202508:empty-0
 resolve-apt:DUNSANJAI:30170-202508:no-match
 resolve-apt:ANYANGPRUGIOT:41171-202508:no-match
 resolve-apt:GWANGGYOLAKE:41117-202508:no-match
+resolve-apt:YEUIDOJAI:11560-202508:no-match
+resolve-apt:LGMETROCITY:26290-202508:no-match
+resolve-apt:DORYONGSKVIEW:30200-202508:도룡에스케이뷰
+fill-month:DORYONGSKVIEW:2025-08:105000:1
+resolve-apt:WONJUEGTHE1:42130-202508:empty-0
+resolve-apt:JEONJUECOSHOP:45113-202508:empty-0

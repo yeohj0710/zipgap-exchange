@@ -24023,6 +24023,7 @@
     },
     {
       "symbol": "DORYONGSKVIEW",
+      "aptName": "도룡에스케이뷰",
       "name": "도룡SK뷰",
       "alias": "도룡 SK VIEW",
       "kind": "complex",
@@ -24059,7 +24060,7 @@
         { "ym": "2025-05", "price": 97600, "trades": 4, "source": "seed" },
         { "ym": "2025-06", "price": 97000, "trades": 3, "source": "seed" },
         { "ym": "2025-07", "price": 100800, "trades": 5, "source": "seed" },
-        { "ym": "2025-08", "price": 100200, "trades": 4, "source": "seed" },
+        { "ym": "2025-08", "price": 105000, "trades": 1, "source": "real" },
         { "ym": "2025-09", "price": 99600, "trades": 6, "source": "seed" },
         { "ym": "2025-10", "price": 103800, "trades": 5, "source": "seed" },
         { "ym": "2025-11", "price": 103000, "trades": 4, "source": "seed" },
