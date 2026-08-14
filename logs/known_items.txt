@@ -938,6 +938,14 @@ fill-month:CHANGWONUNICITY2:2025-12:88900:1
 resolve-apt:MYEONGJIDUSAN:26440-202512:명지두산위브포세이돈
 fill-month:MYEONGJIDUSAN:2025-12:30000:7
 resolve-apt:ULSANAEILIN1:31710-202512:no-match-target-area
+resolve-apt:CHEONANLAKESIDE:44133-202512:천안푸르지오레이크사이드
+fill-month:CHEONANLAKESIDE:2025-12:58500:6
+resolve-apt:GUMIINDONG:47190-202512:no-match-target-area
+resolve-apt:BUSANPARKCITY:26470-202512:더샵파크시티
+fill-month:BUSANPARKCITY:2025-12:67500:3
+resolve-apt:HILLJAIKEYANG:28245-202512:힐스테이트자이계양
+fill-month:HILLJAIKEYANG:2025-12:82750:6
+resolve-apt:LOTTERIVERPK:11215-202512:no-match-target-area
 resolve-apt:HILLJAIKEYANG:28245-202510:힐스테이트자이계양
 fill-month:HILLJAIKEYANG:2025-10:81000:2
 resolve-apt:LOTTERIVERPK:11215-202510:롯데캐슬리버파크시그니쳐
