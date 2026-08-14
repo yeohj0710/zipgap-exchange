@@ -1510,9 +1510,19 @@
     ,"resolve-apt:MANCHEONGREEN:27260-202601:만촌삼정그린코아에듀파크"
     ,"fill-month:MANCHEONGREEN:2026-01:113300:5"
     ,"resolve-apt:DOAN9TRIPLE:30200-202601:deferred-historical-continuity"
+    ,"resolve-apt:GAEPORFOREST:11680-202601:개포래미안포레스트"
+    ,"fill-month:GAEPORFOREST:2026-01:360000:2"
+    ,"resolve-apt:DUNGGOKWOOMI:30200-202601:대전둔곡우미린"
+    ,"fill-month:DUNGGOKWOOMI:2026-01:46500:3"
+    ,"resolve-apt:MYEONGJIOCEAN2:26440-202601:명지대방노블랜드오션뷰2차"
+    ,"fill-month:MYEONGJIOCEAN2:2026-01:53500:2"
+    ,"resolve-apt:CHEONGJUTECHNO1:43113-202601:청주테크노폴리스우방아이유쉘1단지"
+    ,"fill-month:CHEONGJUTECHNO1:2026-01:48500:3"
+    ,"resolve-apt:GAPCHEON1TRIPLE:30200-202601:갑천1트리풀시티힐스테이트"
+    ,"fill-month:GAPCHEON1TRIPLE:2026-01:71250:3"
   ],
-  "cyclesCompleted": 218,
-  "lastAction": "Processed the next January 2026 batch; GJUNGHEUNG, HLAKESONG, EDUNSAN, and MANCHEONGREEN were filled, while DOAN9TRIPLE was deferred for historical continuity.",
+  "cyclesCompleted": 219,
+  "lastAction": "Processed the next January 2026 batch; GAEPORFOREST, DUNGGOKWOOMI, MYEONGJIOCEAN2, CHEONGJUTECHNO1, and GAPCHEON1TRIPLE were filled from official medians.",
   "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
 }
