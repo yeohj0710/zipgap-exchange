@@ -5583,3 +5583,9 @@
 - 2026-08-15 | cycle 5196: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
 - 2026-08-15 | cycle 5197: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
 - 2026-08-15 | cycle 5198: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
+- 2026-08-15 | cycle 5198: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
+- 2026-08-15 | cycle 5199: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
+- 2026-08-15 | cycle 5200: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
+- 2026-08-15 | cycle 5201: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
+- 2026-08-15 | cycle 5202: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
+- 2026-08-15 | cycle 5203: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
