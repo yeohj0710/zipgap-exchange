@@ -2004,9 +2004,13 @@
     ,"anchor-check:ULSANAEILIN2:2026-05~07:max-jump-under-40:no-reanchor"
     ,"audit:resolve-apt:202603:41-complexes-27-lawdCodes-0-exact:20260815"
     ,"audit:resolve-apt:202604:41-complexes-27-lawdCodes-0-exact:20260815"
+    ,"audit:resolve-apt:202605:41-complexes-27-lawdCodes-0-exact:20260815"
+    ,"audit:resolve-apt:202606:41-complexes-27-lawdCodes-0-exact:20260815"
+    ,"resolve-apt:GAYALSKYEL:26230-202607:가야역롯데캐슬스카이엘"
+    ,"fill-month:GAYALSKYEL:2026-07:no-target-area"
   ],
-  "cyclesCompleted": 278,
-  "lastAction": "Scanned the remaining 41 missing-aptName assets for 2026-04 official rows; no asset name matched an official aptNm exactly, so no name or price was guessed.",
+  "cyclesCompleted": 279,
+  "lastAction": "Scanned missing aptName assets through 2026-07; confirmed GAYALSKYEL by exact official aptNm, but its 2026-07 rows had no target area, so only aptName was added.",
   "nextAction": "Continue deferred fill-meta checks, then resolve the next aptName only from exact official aptNm matches; fetch fill-month data only after the name and area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule; five scanned candidates had no official rows in the checked months."
 }
