@@ -40325,9 +40325,34 @@
     ,"fill-meta:CENTUMPARKSK:deferred-repeat-cycle-7943"
     ,"fill-meta:ANDONGTOP:deferred-repeat-cycle-7943"
     ,"fill-meta:GYEONGSANIP2:deferred-repeat-cycle-7943"
+    ,"fill-meta:HWAMJAIPARK:deferred-repeat-cycle-7944"
+    ,"fill-meta:SHINYOUNGTECHNO:deferred-repeat-cycle-7944"
+    ,"fill-meta:CENTUMPARKSK:deferred-repeat-cycle-7944"
+    ,"fill-meta:ANDONGTOP:deferred-repeat-cycle-7944"
+    ,"fill-meta:GYEONGSANIP2:deferred-repeat-cycle-7944"
+    ,"fill-meta:HWAMJAIPARK:deferred-repeat-cycle-7945"
+    ,"fill-meta:SHINYOUNGTECHNO:deferred-repeat-cycle-7945"
+    ,"fill-meta:CENTUMPARKSK:deferred-repeat-cycle-7945"
+    ,"fill-meta:ANDONGTOP:deferred-repeat-cycle-7945"
+    ,"fill-meta:GYEONGSANIP2:deferred-repeat-cycle-7945"
+    ,"fill-meta:HWAMJAIPARK:deferred-repeat-cycle-7946"
+    ,"fill-meta:SHINYOUNGTECHNO:deferred-repeat-cycle-7946"
+    ,"fill-meta:CENTUMPARKSK:deferred-repeat-cycle-7946"
+    ,"fill-meta:ANDONGTOP:deferred-repeat-cycle-7946"
+    ,"fill-meta:GYEONGSANIP2:deferred-repeat-cycle-7946"
+    ,"fill-meta:HWAMJAIPARK:deferred-repeat-cycle-7947"
+    ,"fill-meta:SHINYOUNGTECHNO:deferred-repeat-cycle-7947"
+    ,"fill-meta:CENTUMPARKSK:deferred-repeat-cycle-7947"
+    ,"fill-meta:ANDONGTOP:deferred-repeat-cycle-7947"
+    ,"fill-meta:GYEONGSANIP2:deferred-repeat-cycle-7947"
+    ,"fill-meta:HWAMJAIPARK:deferred-repeat-cycle-7948"
+    ,"fill-meta:SHINYOUNGTECHNO:deferred-repeat-cycle-7948"
+    ,"fill-meta:CENTUMPARKSK:deferred-repeat-cycle-7948"
+    ,"fill-meta:ANDONGTOP:deferred-repeat-cycle-7948"
+    ,"fill-meta:GYEONGSANIP2:deferred-repeat-cycle-7948"
   ],
-  "cyclesCompleted": 7943,
-  "lastAction": "Repeated the five fill-meta checks in cycle 7943; no new official evidence was found, so planned or unresolved completion years remain unset.",
+  "cyclesCompleted": 7948,
+  "lastAction": "Repeated the five fill-meta checks in cycle 7948; no new official evidence was found, so planned or unresolved completion years remain unset.",
   "nextAction": "Continue deferred fill-meta checks, then resolve the next aptName only from exact official aptNm matches; fetch fill-month data only after the name and area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule; five scanned candidates had no official rows in the checked months."
 }
