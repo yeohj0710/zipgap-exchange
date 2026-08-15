@@ -1,4 +1,5 @@
 # 자료 채우기 기록
+- 2026-08-15 · 사이클 286: `data:next -- --count 5`가 같은 5건(HWAMJAIPARK·SHINYOUNGTECHNO·CENTUMPARKSK·ANDONGTOP·GYEONGSANIP2)을 반환했다. 공식 준공·입주 일정 증거가 바뀌지 않아 builtYear를 추정하지 않았다.
 - 2026-08-15 · 메타데이터 5건 반복 확인: 공식 준공년도 변경 없음. 추정값은 입력하지 않았다.
 - 2026-08-15 · 동일한 fill-meta 5건을 재확인했으며 공식 준공년도 변경이 없어 입력하지 않았다.
 - 2026-08-15 · fill-meta 5건을 다시 확인했지만 공식 준공년도가 바뀌지 않아 기존 households만 유지했다.
