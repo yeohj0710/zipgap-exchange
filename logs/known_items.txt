@@ -2012,3 +2012,5 @@ audit:resolve-apt:202605:41-complexes-27-lawdCodes-0-exact:20260815
 audit:resolve-apt:202606:41-complexes-27-lawdCodes-0-exact:20260815
 resolve-apt:GAYALSKYEL:26230-202607:가야역롯데캐슬스카이엘
 fill-month:GAYALSKYEL:2026-07:no-target-area
+audit:resolve-apt:202608:40-complexes-26-lawdCodes-0-exact:20260815
+fill-month:known-aptName:2026-08:5-complexes-no-target-area
