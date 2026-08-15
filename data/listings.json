@@ -15641,6 +15641,7 @@
       "region": "울산 울주군 청량읍",
       "unitArea": 84.95,
       "households": 967,
+      "aptName": "울산뉴시티에일린의뜰2차",
       "builtYear": 2024,
       "tags": [
         "울산",
@@ -15821,21 +15822,21 @@
         },
         {
           "ym": "2026-05",
-          "price": 55420,
+          "price": 51900,
           "trades": 6,
-          "source": "seed"
+          "source": "real"
         },
         {
           "ym": "2026-06",
-          "price": 55385,
-          "trades": 4,
-          "source": "seed"
+          "price": 55800,
+          "trades": 3,
+          "source": "real"
         },
         {
           "ym": "2026-07",
-          "price": 57050,
-          "trades": 4,
-          "source": "seed"
+          "price": 54500,
+          "trades": 5,
+          "source": "real"
         },
         {
           "ym": "2026-08",
@@ -22985,6 +22986,7 @@
       "rentYield": 0.022,
       "shareDivisor": 100000,
       "lawdCd": "50110",
+      "aptName": "노형2차아이파크",
       "history": [
         {
           "ym": "2024-01",

@@ -1997,3 +1997,12 @@ resolve-apt:SWANJ:29200-202510~202603:no-rows
 audit:resolve-apt:202601:45-complexes-18-with-rows-2-exact:20260815
 fill-month:YEUIDOJAI:2026-01:no-target-area
 fill-month:HONGSEONGDL:2026-01:no-usable-trade
+audit:resolve-apt:202602:43-complexes-29-lawdCodes-2-exact:20260815
+resolve-apt:ULSANAEILIN2:31710-202602:울산뉴시티에일린의뜰2차
+resolve-apt:NOHYEONG2IPARK:50110-202602:노형2차아이파크
+fill-month:ULSANAEILIN2:2026-02:real-old-no-price-change
+fill-month:ULSANAEILIN2:2026-05:51900:1
+fill-month:ULSANAEILIN2:2026-06:55800:3
+fill-month:ULSANAEILIN2:2026-07:54500:5
+fill-month:NOHYEONG2IPARK:2026-02:no-target-area
+anchor-check:ULSANAEILIN2:2026-05~07:max-jump-under-40:no-reanchor
