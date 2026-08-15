@@ -5594,7 +5594,7 @@
     ,"fill-meta:CENTUMPARKSK:deferred-repeat-cycle-997"
     ,"fill-meta:ANDONGTOP:deferred-repeat-cycle-997"
     ,"fill-meta:GYEONGSANIP2:deferred-repeat-cycle-997"
- ],
+  ],
   "cyclesCompleted": 997,
   "lastAction": "Repeated the five fill-meta checks in cycle 997; no new official evidence was found, so planned or unresolved completion years remain unset.",
   "nextAction": "Continue deferred fill-meta checks, then resolve the next aptName only from exact official aptNm matches; fetch fill-month data only after the name and area are confirmed.",
