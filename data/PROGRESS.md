@@ -3970,3 +3970,8 @@
 - 2026-08-14 | Official MOLIT median fills for 2025-11: EASYGWANGGYO 105,000/1, EDUNSAN 79,900/2, GAEPO 408,500/2, GAEPORFOREST 347,500/2, HLAKESONG 70,000/4. Unsafe and ambiguous continuity items remain untouched; DOAN9TRIPLE remains deferred.
 - 2026-08-14 | Official MOLIT median fills: NAMCHEONJAI 2025-11 144,500/6, SHINYOUNGTECHNO 2025-11 59,000/1, YEONSANLCGF 2025-11 75,000/3, CJWELLPRUGIO 2025-12 64,100/4, EASYGWANGGYO 2025-12 107,000/2. Unsafe and ambiguous continuity items remain untouched; DOAN9TRIPLE remains deferred.
 - 2026-08-14 | Official MOLIT median fills: FIRSTWORLD 2025-12 80,000/3, GAEPO 2025-12 427,000/1, EDUNSAN 2026-05 80,750/2 and 2026-07 81,700/5, GAPCHEON1TRIPLE 2026-07 72,500/3. Unsafe and ambiguous continuity items remain untouched; DOAN9TRIPLE remains deferred.
+- 2026-08-15 | cycle 3854: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
+- 2026-08-15 | cycle 3855: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
+- 2026-08-15 | cycle 3856: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
+- 2026-08-15 | cycle 3857: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
+- 2026-08-15 | cycle 3858: data:next -- --count 5 returned the same five metadata-wait items; official apartment-list API permission is still pending, so builtYear was not guessed.
