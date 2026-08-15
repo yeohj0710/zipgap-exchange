@@ -1980,3 +1980,8 @@ fill-meta:SHINYOUNGTECHNO:deferred-20260815:2027-01
 fill-meta:CENTUMPARKSK:deferred-20260815:2028-05
 fill-meta:ANDONGTOP:deferred-20260815:2028
 fill-meta:GYEONGSANIP2:deferred-20260815:schedule-unresolved
+fill-meta:HWAMJAIPARK:deferred-repeat-20260815:2027-01
+fill-meta:SHINYOUNGTECHNO:deferred-repeat-20260815:2027-01
+fill-meta:CENTUMPARKSK:deferred-repeat-20260815:2028-05
+fill-meta:ANDONGTOP:deferred-repeat-20260815:2028
+fill-meta:GYEONGSANIP2:deferred-repeat-20260815:schedule-unresolved

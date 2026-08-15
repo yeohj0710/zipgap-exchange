@@ -1,4 +1,5 @@
 # 자료 채우기 기록
+- 2026-08-15 · fill-meta 반복 5건 재확인: 다섯 단지 모두 검증된 준공년도가 없어 기존 households만 유지하고 builtYear는 비워 두었다. 같은 보류를 반복 기록하지 않고 다음 확인 가능한 작업으로 순환한다.
 - 2026-08-15 · fill-meta 5건 재확인: HWAMJAIPARK·SHINYOUNGTECHNO는 2027년, CENTUMPARKSK·ANDONGTOP은 2028년 입주 예정이라 builtYear를 넣지 않았다. GYEONGSANIP2는 재분양·준공 일정이 미정이라 추정하지 않았다. households는 기존 공식값을 유지했다.
 - 2026-08-15 · 받아 둔 원자료 471개를 다시 훑어 보류로 남겨 둔 칸을 한 번에 정리했다. seed 133칸을 실거래로 바꿨다(468 → 601칸, 11.7%). DOAN9TRIPLE 2025-08~2026-07 열두 달과 SUWONIPARK2 열두 달, BUNDANGPARK 열 달, JAMSIL5 여덟 달, 2026-01 보류분(OLYMPIC·RAEWON·MAPOPJ·BANPOJAI·GEOJEKCC·BEOMEOCENTRAL·MUNSUIPARK1·BAEGOTPRIME 등)이 여기 들어간다.
 - 2026-08-15 · 남은 seed 칸을 실거래 앵커에 맞춰 다시 앉혔다. 실거래 사이에 낀 달 151칸은 로그 선형으로 잇고, 앞뒤로 남은 2,672칸은 시드 곡선 모양을 그대로 두고 높이만 앵커에 맞췄다. 시드 높이가 실제 시세와 50~120% 어긋나 있어서 실거래를 넣는 순간 한 달 40% 제한에 걸리던 것이 보류의 진짜 원인이었다. 이걸 고치고 나니 40% 초과 이음매 0건, seed·real 경계 낙차 15% 초과 0건.
