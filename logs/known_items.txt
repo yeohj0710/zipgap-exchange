@@ -1987,3 +1987,11 @@ fill-meta:ANDONGTOP:deferred-repeat-20260815:2028
 fill-meta:GYEONGSANIP2:deferred-repeat-20260815:schedule-unresolved
 api-key:RTMSDataSvcAptTradeDev:SERVICE_KEY_IS_NOT_REGISTERED_ERROR:20260815
 audit:260815-rules:raw-pair-and-exact-name-check:20260815
+resolve-apt:YEUIDOJAI:11560-202601:여의도자이
+resolve-apt:HONGSEONGDL:44800-202601:e편한세상홍성더센트럴
+resolve-apt:DONGTANH:41590-202510~202603:no-rows
+resolve-apt:GEOMDANP:28260-202510~202603:no-rows
+resolve-apt:BONGSEON57:29155-202510~202603:no-rows
+resolve-apt:HWAMJAIPARK:29140-202510~202603:no-rows
+resolve-apt:SWANJ:29200-202510~202603:no-rows
+audit:resolve-apt:202601:45-complexes-18-with-rows-2-exact:20260815
