@@ -2073,3 +2073,4 @@ fill-meta:SHINYOUNGTECHNO:deferred-repeat-cycle-292
 fill-meta:CENTUMPARKSK:deferred-repeat-cycle-292
 fill-meta:ANDONGTOP:deferred-repeat-cycle-292
 fill-meta:GYEONGSANIP2:deferred-repeat-cycle-292
+audit:260815-seams-repeat:604-real:0-over40:0-boundary-over15:20260815
