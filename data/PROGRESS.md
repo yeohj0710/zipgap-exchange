@@ -1,4 +1,5 @@
 # 자료 채우기 기록
+- 2026-08-15 · 동일한 fill-meta 5건을 재확인했으며 공식 준공년도 변경이 없어 입력하지 않았다.
 - 2026-08-15 · fill-meta 5건을 다시 확인했지만 공식 준공년도가 바뀌지 않아 기존 households만 유지했다.
 - 2026-08-15 · fill-meta 5건 반복 확인: HWAMJAIPARK·SHINYOUNGTECHNO는 2027년 예정, CENTUMPARKSK·ANDONGTOP은 2028년 예정, GYEONGSANIP2는 일정 미정이라 builtYear를 추정하지 않았다.
 - 2026-08-15 · 캐시된 공식 원자료 전체에서 남은 aptName 미확정 40건의 정확한 이름을 재확인했지만 추가 일치가 없었다. 전체 604개 실거래 칸의 40% 초과 월간 변동과 seed·real 경계 15% 초과 변동은 0건이었다.
