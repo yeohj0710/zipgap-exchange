@@ -1995,3 +1995,5 @@ resolve-apt:BONGSEON57:29155-202510~202603:no-rows
 resolve-apt:HWAMJAIPARK:29140-202510~202603:no-rows
 resolve-apt:SWANJ:29200-202510~202603:no-rows
 audit:resolve-apt:202601:45-complexes-18-with-rows-2-exact:20260815
+fill-month:YEUIDOJAI:2026-01:no-target-area
+fill-month:HONGSEONGDL:2026-01:no-usable-trade
