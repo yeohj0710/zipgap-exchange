@@ -1,4 +1,5 @@
 # 자료 채우기 기록
+- 2026-08-15 · 메타데이터 5건 반복 확인: 공식 준공년도 변경 없음. 추정값은 입력하지 않았다.
 - 2026-08-15 · 동일한 fill-meta 5건을 재확인했으며 공식 준공년도 변경이 없어 입력하지 않았다.
 - 2026-08-15 · fill-meta 5건을 다시 확인했지만 공식 준공년도가 바뀌지 않아 기존 households만 유지했다.
 - 2026-08-15 · fill-meta 5건 반복 확인: HWAMJAIPARK·SHINYOUNGTECHNO는 2027년 예정, CENTUMPARKSK·ANDONGTOP은 2028년 예정, GYEONGSANIP2는 일정 미정이라 builtYear를 추정하지 않았다.
