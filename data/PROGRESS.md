@@ -1,4 +1,5 @@
 # 자료 채우기 기록
+- 2026-08-15 · 사이클 288: `data:next -- --count 5`가 동일한 메타데이터 5건을 반환했다. 새 공식 증거가 없어 builtYear를 입력하지 않았다.
 - 2026-08-15 · 사이클 287: K-apt 공식 검색을 추가 확인했지만 다섯 단지의 exact 준공일 자료를 확인하지 못했다. 계획·미확정 일정만으로 builtYear를 추정하지 않았다.
 - 2026-08-15 · 사이클 286: `data:next -- --count 5`가 같은 5건(HWAMJAIPARK·SHINYOUNGTECHNO·CENTUMPARKSK·ANDONGTOP·GYEONGSANIP2)을 반환했다. 공식 준공·입주 일정 증거가 바뀌지 않아 builtYear를 추정하지 않았다.
 - 2026-08-15 · 메타데이터 5건 반복 확인: 공식 준공년도 변경 없음. 추정값은 입력하지 않았다.
