@@ -3240,3 +3240,8 @@ fill-meta:SHINYOUNGTECHNO:deferred-repeat-cycle-525
 fill-meta:CENTUMPARKSK:deferred-repeat-cycle-525
 fill-meta:ANDONGTOP:deferred-repeat-cycle-525
 fill-meta:GYEONGSANIP2:deferred-repeat-cycle-525
+fill-meta:HWAMJAIPARK:deferred-repeat-cycle-526
+fill-meta:SHINYOUNGTECHNO:deferred-repeat-cycle-526
+fill-meta:CENTUMPARKSK:deferred-repeat-cycle-526
+fill-meta:ANDONGTOP:deferred-repeat-cycle-526
+fill-meta:GYEONGSANIP2:deferred-repeat-cycle-526
