@@ -2007,3 +2007,4 @@ fill-month:ULSANAEILIN2:2026-07:54500:5
 fill-month:NOHYEONG2IPARK:2026-02:no-target-area
 anchor-check:ULSANAEILIN2:2026-05~07:max-jump-under-40:no-reanchor
 audit:resolve-apt:202603:41-complexes-27-lawdCodes-0-exact:20260815
+audit:resolve-apt:202604:41-complexes-27-lawdCodes-0-exact:20260815
