@@ -2012,9 +2012,14 @@
     ,"fill-month:known-aptName:2026-08:5-complexes-no-target-area"
     ,"audit:cached-raw-exact-aptName:40-missing:0:20260815"
     ,"audit:260815-seams:604-real:0-over40:0-boundary-over15:20260815"
+    ,"fill-meta:HWAMJAIPARK:deferred-repeat-cycle-282"
+    ,"fill-meta:SHINYOUNGTECHNO:deferred-repeat-cycle-282"
+    ,"fill-meta:CENTUMPARKSK:deferred-repeat-cycle-282"
+    ,"fill-meta:ANDONGTOP:deferred-repeat-cycle-282"
+    ,"fill-meta:GYEONGSANIP2:deferred-repeat-cycle-282"
   ],
-  "cyclesCompleted": 281,
-  "lastAction": "Audited all cached raw files for the 40 remaining missing aptName assets and rechecked 260815 price seams; no exact cached name, >40% jump, or >15% seed-real boundary was found.",
+  "cyclesCompleted": 282,
+  "lastAction": "Repeated the five fill-meta checks; official evidence is unchanged, so planned or unresolved completion years remain unset.",
   "nextAction": "Continue deferred fill-meta checks, then resolve the next aptName only from exact official aptNm matches; fetch fill-month data only after the name and area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule; five scanned candidates had no official rows in the checked months."
 }

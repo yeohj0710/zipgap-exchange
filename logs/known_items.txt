@@ -2016,3 +2016,8 @@ audit:resolve-apt:202608:40-complexes-26-lawdCodes-0-exact:20260815
 fill-month:known-aptName:2026-08:5-complexes-no-target-area
 audit:cached-raw-exact-aptName:40-missing:0:20260815
 audit:260815-seams:604-real:0-over40:0-boundary-over15:20260815
+fill-meta:HWAMJAIPARK:deferred-repeat-cycle-282
+fill-meta:SHINYOUNGTECHNO:deferred-repeat-cycle-282
+fill-meta:CENTUMPARKSK:deferred-repeat-cycle-282
+fill-meta:ANDONGTOP:deferred-repeat-cycle-282
+fill-meta:GYEONGSANIP2:deferred-repeat-cycle-282
