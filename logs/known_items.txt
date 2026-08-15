@@ -1985,3 +1985,5 @@ fill-meta:SHINYOUNGTECHNO:deferred-repeat-20260815:2027-01
 fill-meta:CENTUMPARKSK:deferred-repeat-20260815:2028-05
 fill-meta:ANDONGTOP:deferred-repeat-20260815:2028
 fill-meta:GYEONGSANIP2:deferred-repeat-20260815:schedule-unresolved
+api-key:RTMSDataSvcAptTradeDev:SERVICE_KEY_IS_NOT_REGISTERED_ERROR:20260815
+audit:260815-rules:raw-pair-and-exact-name-check:20260815

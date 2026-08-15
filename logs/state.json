@@ -1981,9 +1981,11 @@
     ,"fill-meta:CENTUMPARKSK:deferred-repeat-20260815:2028-05"
     ,"fill-meta:ANDONGTOP:deferred-repeat-20260815:2028"
     ,"fill-meta:GYEONGSANIP2:deferred-repeat-20260815:schedule-unresolved"
+    ,"api-key:RTMSDataSvcAptTradeDev:SERVICE_KEY_IS_NOT_REGISTERED_ERROR:20260815"
+    ,"audit:260815-rules:raw-pair-and-exact-name-check:20260815"
   ],
-  "cyclesCompleted": 272,
-  "lastAction": "Repeated the five fill-meta checks on 2026-08-15; no verified completion year became available, so no metadata was guessed.",
-  "nextAction": "Continue with the next actionable resolve-apt item after deferred fill-meta tasks, query only missing lawdCd-month raw, then fill-month only after aptName and target area are confirmed.",
-  "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule."
+  "cyclesCompleted": 273,
+  "lastAction": "Rechecked the 260815 raw-row rules and tested the MOLIT endpoint; exact matching remains in force, while the current service key is rejected and no new trade was written.",
+  "nextAction": "After the user signs in and completes API use application, retest the key; until then continue only safe metadata, exact-name, verifier, and deployment checks.",
+  "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule; MOLIT_SERVICE_KEY returns SERVICE_KEY_IS_NOT_REGISTERED_ERROR."
 }

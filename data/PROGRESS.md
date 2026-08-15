@@ -1,4 +1,5 @@
 # 자료 채우기 기록
+- 2026-08-15 · 260815 규칙 재검증: 원자료 471개에서 해제 행은 정상 행과 아파트명·전용면적·거래금액·계약일·층을 모두 맞춰 짝으로 처리하고, 아파트명은 부분일치 없이 정확히 비교하는 상태를 확인했다. MOLIT API는 현재 키에 `SERVICE_KEY_IS_NOT_REGISTERED_ERROR`를 반환해 새 거래는 쓰지 않았다.
 - 2026-08-15 · fill-meta 반복 5건 재확인: 다섯 단지 모두 검증된 준공년도가 없어 기존 households만 유지하고 builtYear는 비워 두었다. 같은 보류를 반복 기록하지 않고 다음 확인 가능한 작업으로 순환한다.
 - 2026-08-15 · fill-meta 5건 재확인: HWAMJAIPARK·SHINYOUNGTECHNO는 2027년, CENTUMPARKSK·ANDONGTOP은 2028년 입주 예정이라 builtYear를 넣지 않았다. GYEONGSANIP2는 재분양·준공 일정이 미정이라 추정하지 않았다. households는 기존 공식값을 유지했다.
 - 2026-08-15 · 받아 둔 원자료 471개를 다시 훑어 보류로 남겨 둔 칸을 한 번에 정리했다. seed 133칸을 실거래로 바꿨다(468 → 601칸, 11.7%). DOAN9TRIPLE 2025-08~2026-07 열두 달과 SUWONIPARK2 열두 달, BUNDANGPARK 열 달, JAMSIL5 여덟 달, 2026-01 보류분(OLYMPIC·RAEWON·MAPOPJ·BANPOJAI·GEOJEKCC·BEOMEOCENTRAL·MUNSUIPARK1·BAEGOTPRIME 등)이 여기 들어간다.
