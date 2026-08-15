@@ -5819,6 +5819,7 @@
     ,"fill-meta:CENTUMPARKSK:deferred-repeat-cycle-1042"
     ,"fill-meta:ANDONGTOP:deferred-repeat-cycle-1042"
     ,"fill-meta:GYEONGSANIP2:deferred-repeat-cycle-1042"
+    ,"meta-api:AptListService3:HTTP403-cycle-1042"
   ],
   "cyclesCompleted": 1042,
   "lastAction": "Repeated the five fill-meta checks in cycle 1042; no new official evidence was found, so planned or unresolved completion years remain unset.",
