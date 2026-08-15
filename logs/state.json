@@ -2002,9 +2002,10 @@
     ,"fill-month:ULSANAEILIN2:2026-07:54500:5"
     ,"fill-month:NOHYEONG2IPARK:2026-02:no-target-area"
     ,"anchor-check:ULSANAEILIN2:2026-05~07:max-jump-under-40:no-reanchor"
+    ,"audit:resolve-apt:202603:41-complexes-27-lawdCodes-0-exact:20260815"
   ],
-  "cyclesCompleted": 276,
-  "lastAction": "Scanned 2026-02 for the remaining missing aptName assets; confirmed ULSANAEILIN2 and NOHYEONG2IPARK by exact name, then applied three recent ULSANAEILIN2 medians with no 40% seam and no re-anchor needed.",
+  "cyclesCompleted": 277,
+  "lastAction": "Scanned the remaining 41 missing-aptName assets for 2026-03 official rows; no asset name matched an official aptNm exactly, so no name or price was guessed.",
   "nextAction": "Continue deferred fill-meta checks, then resolve the next aptName only from exact official aptNm matches; fetch fill-month data only after the name and area are confirmed.",
   "blockedBy": "HWAMJAIPARK and SHINYOUNGTECHNO have planned completion or move-in in 2027; CENTUMPARKSK and ANDONGTOP have planned completion or move-in in 2028; GYEONGSANIP2 has an unresolved construction and resale schedule; five scanned candidates had no official rows in the checked months."
 }
