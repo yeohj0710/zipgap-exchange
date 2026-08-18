@@ -15,6 +15,51 @@ import { fileURLToPath } from "node:url";
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const MARK = resolve(ROOT, "data", ".last_deploy.json");
 const DATA = resolve(ROOT, "data", "listings.json");
+const MIN_GAP_MS = 6 * 60 * 60 * 1000;
+
+const currentListingsSha = existsSync(DATA)
+  ? createHash("sha256").update(readFileSync(DATA)).digest("hex").slice(0, 16)
+  : null;
+
+let previous = null;
+if (existsSync(MARK)) {
+  try {
+    previous = JSON.parse(readFileSync(MARK, "utf8"));
+  } catch {
+    // 손상된 자국은 새 배포가 필요하다고 보고 아래 절차를 계속한다.
+  }
+}
+
+if (previous) {
+  const sameAsLastSuccess =
+    previous.result === "ok" &&
+    currentListingsSha &&
+    previous.listings_sha === currentListingsSha;
+  if (sameAsLastSuccess) {
+    console.log(
+      JSON.stringify({
+        status: "skipped",
+        reason: "listings unchanged since last successful deployment",
+        lastDeploy: previous.at,
+      })
+    );
+    process.exit(0);
+  }
+
+  const lastAttempt = Date.parse(previous.at ?? "");
+  if (Number.isFinite(lastAttempt) && Date.now() - lastAttempt < MIN_GAP_MS) {
+    const nextAt = new Date(lastAttempt + MIN_GAP_MS).toISOString();
+    console.log(
+      JSON.stringify({
+        status: "skipped",
+        reason: "deployment cooldown",
+        lastAttempt: previous.at,
+        nextEligibleAt: nextAt,
+      })
+    );
+    process.exit(0);
+  }
+}
 
 let result = "fail";
 let url = null;
