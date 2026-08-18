@@ -138,7 +138,7 @@ export function OrderForm({
             <button
               key={k}
               onClick={() => setType(k)}
-              className={`flex-1 rounded-md py-1.5 text-[12.5px] transition-colors ${
+              className={`flex-1 rounded-md py-1.5 text-[13px] transition-colors ${
                 type === k
                   ? "bg-[var(--color-panel2)] text-[var(--color-ink)]"
                   : "text-[var(--color-dim)] hover:text-[var(--color-mute)]"
@@ -150,7 +150,7 @@ export function OrderForm({
         </div>
 
         <label className="block">
-          <span className="mb-1 block text-[11.5px] text-[var(--color-dim)]">주문 값</span>
+          <span className="mb-1 block text-[12.5px] text-[var(--color-dim)]">주문 값</span>
           {type === "limit" ? (
             <div className="flex items-center rounded-lg border border-[var(--color-line)] bg-[var(--color-panel2)]">
               <button
@@ -185,7 +185,7 @@ export function OrderForm({
         </label>
 
         <label className="block">
-          <div className="mb-1 flex items-center justify-between text-[11.5px]">
+          <div className="mb-1 flex items-center justify-between text-[12.5px]">
             <span className="text-[var(--color-dim)]">수량</span>
             <span className="num text-[var(--color-dim)]">
               {side === "buy" ? `살 수 있는 최대 ${fq(maxBuy)}주` : `팔 수 있는 ${fq(sellable)}주`}
@@ -204,7 +204,7 @@ export function OrderForm({
               <button
                 key={r}
                 onClick={() => setCount(String(Math.floor(maxQty * r)))}
-                className="rounded-md border border-[var(--color-line)] py-1 text-[11.5px] text-[var(--color-mute)] hover:border-[var(--color-line2)] hover:text-[var(--color-ink)]"
+                className="rounded-md border border-[var(--color-line)] py-1 text-[12.5px] text-[var(--color-mute)] hover:border-[var(--color-line2)] hover:text-[var(--color-ink)]"
               >
                 {r === 1 ? "최대" : `${r * 100}%`}
               </button>
@@ -212,7 +212,7 @@ export function OrderForm({
           </div>
         </label>
 
-        <div className="rounded-lg bg-[var(--color-panel2)] px-3 py-2.5 text-[12px]">
+        <div className="rounded-lg bg-[var(--color-panel2)] px-3 py-2.5 text-[13px]">
           <Line label="주문 금액" value={`${won(gross)}원`} />
           <Line label={`수수료 ${(RULES.FEE_RATE * 100).toFixed(3)}%`} value={`${won(fee)}원`} />
           <div className="my-1.5 border-t border-[var(--color-line)]" />
@@ -222,14 +222,14 @@ export function OrderForm({
             strong
           />
           {account && (
-            <div className="mt-1.5 text-right text-[11px] text-[var(--color-dim)]">
+            <div className="mt-1.5 text-right text-[12px] text-[var(--color-dim)]">
               예수금 <span className="num">{won(cash)}</span>원
             </div>
           )}
         </div>
 
         {msg && (
-          <p className={`text-[12px] ${msg.bad ? "text-up" : "text-[var(--color-mute)]"}`}>
+          <p className={`text-[13px] ${msg.bad ? "text-up" : "text-[var(--color-mute)]"}`}>
             {msg.text}
           </p>
         )}
@@ -241,8 +241,8 @@ export function OrderForm({
             !account
               ? "bg-[var(--color-accent)] text-black hover:brightness-110"
               : side === "buy"
-                ? "bg-[var(--color-up)] text-white hover:brightness-110"
-                : "bg-[var(--color-down)] text-white hover:brightness-110"
+                ? "bg-[var(--color-up)] text-[var(--color-on-tone)] hover:brightness-110"
+                : "bg-[var(--color-down)] text-[var(--color-on-tone)] hover:brightness-110"
           }`}
         >
           {!ready

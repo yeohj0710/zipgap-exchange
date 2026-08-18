@@ -40,7 +40,7 @@ export function OrderBook({
     return (
       <button
         onClick={() => onPick(price)}
-        className="relative grid w-full grid-cols-2 items-center px-3 py-[3px] text-[12px] transition-colors hover:bg-[var(--color-panel2)]"
+        className="relative grid w-full grid-cols-2 items-center px-3 py-[3px] text-[13px] transition-colors hover:bg-[var(--color-panel2)]"
       >
         <span
           className="absolute inset-y-px right-0 rounded-l-sm"
@@ -57,8 +57,8 @@ export function OrderBook({
   return (
     <div className="panel flex h-full flex-col overflow-hidden">
       <div className="flex items-center justify-between border-b border-[var(--color-line)] px-3 py-2">
-        <span className="text-[12px] text-[var(--color-mute)]">호가</span>
-        <span className="text-[11px] text-[var(--color-dim)]">값 / 수량</span>
+        <span className="text-[13px] text-[var(--color-mute)]">호가</span>
+        <span className="text-[12px] text-[var(--color-dim)]">값 / 수량</span>
       </div>
 
       <div className="flex flex-1 flex-col justify-end pt-1">
@@ -71,7 +71,7 @@ export function OrderBook({
         <span className={`num text-[15px] font-bold ${toneClass(quote.changeRate)}`}>
           {won(quote.price)}
         </span>
-        <span className={`num text-[11.5px] ${toneClass(quote.premium)}`}>
+        <span className={`num text-[12.5px] ${toneClass(quote.premium)}`}>
           실거래가 {pct(quote.premium)}
         </span>
       </div>

@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useSession } from "./providers";
+import { ThemeToggle } from "./theme-toggle";
 import { compact, pct, toneClass, won } from "@/lib/format";
 
 const NAV = [
@@ -48,10 +49,12 @@ export function Header() {
           })}
         </nav>
 
+        <ThemeToggle />
+
         {!ready ? (
           <div className="h-7 w-24 animate-pulse rounded-md bg-[var(--color-panel2)]" />
         ) : readOnly ? (
-          <span className="shrink-0 rounded-lg border border-[var(--color-line)] px-2.5 py-1.5 text-[12px] text-[var(--color-dim)]">
+          <span className="shrink-0 rounded-lg border border-[var(--color-line)] px-2.5 py-1.5 text-[13px] text-[var(--color-dim)]">
             보기 전용
           </span>
         ) : account && me ? (
@@ -68,7 +71,7 @@ export function Header() {
             <span className="num text-[13px] font-semibold sm:hidden">
               {compact(me.equity)}원
             </span>
-            <span className={`num text-[12px] ${toneClass(rate)}`}>{pct(rate)}</span>
+            <span className={`num text-[13px] ${toneClass(rate)}`}>{pct(rate)}</span>
           </Link>
         ) : (
           <div className="flex shrink-0 items-center gap-1.5">

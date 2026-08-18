@@ -96,7 +96,7 @@ export function CandleChart({
           <button
             key={t.key}
             onClick={() => setTf(t.key)}
-            className={`rounded px-2 py-1 text-[12px] transition-colors ${
+            className={`rounded px-2 py-1 text-[13px] transition-colors ${
               tf === t.key
                 ? "bg-[var(--color-panel2)] text-[var(--color-ink)]"
                 : "text-[var(--color-dim)] hover:text-[var(--color-mute)]"
@@ -105,7 +105,7 @@ export function CandleChart({
             {t.label}
           </button>
         ))}
-        <div className="ml-auto flex items-center gap-3 text-[11.5px]">
+        <div className="ml-auto flex items-center gap-3 text-[12.5px]">
           <span className="flex items-center gap-1.5 text-[var(--color-dim)]">
             <span className="inline-block h-px w-4 border-t border-dashed border-[var(--color-accent)]" />
             실거래가

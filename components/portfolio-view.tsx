@@ -93,17 +93,17 @@ export function PortfolioView() {
             />
             <button
               onClick={() => void save()}
-              className="rounded-md bg-[var(--color-panel2)] px-2.5 py-1 text-[12px] hover:text-[var(--color-accent)]"
+              className="rounded-md bg-[var(--color-panel2)] px-2.5 py-1 text-[13px] hover:text-[var(--color-accent-ink)]"
             >
               저장
             </button>
             <button
               onClick={() => setEditing(false)}
-              className="text-[12px] text-[var(--color-dim)] hover:text-[var(--color-ink)]"
+              className="text-[13px] text-[var(--color-dim)] hover:text-[var(--color-ink)]"
             >
               취소
             </button>
-            {err && <span className="text-[12px] text-up">{err}</span>}
+            {err && <span className="text-[13px] text-up">{err}</span>}
           </span>
         ) : (
           <button
@@ -111,7 +111,7 @@ export function PortfolioView() {
               setDraft(account.nick);
               setEditing(true);
             }}
-            className="rounded-md border border-[var(--color-line)] px-2 py-0.5 text-[12px] text-[var(--color-mute)] hover:text-[var(--color-ink)]"
+            className="rounded-md border border-[var(--color-line)] px-2 py-0.5 text-[13px] text-[var(--color-mute)] hover:text-[var(--color-ink)]"
           >
             {account.nick} · 이름 바꾸기
           </button>
@@ -125,7 +125,7 @@ export function PortfolioView() {
         <Card label="예수금" value={`${won(me.account.cash)}원`} />
       </div>
 
-      <div className="mb-3 flex flex-wrap gap-x-5 gap-y-1 rounded-lg border border-[var(--color-line)] bg-[var(--color-panel)] px-4 py-2.5 text-[12.5px] text-[var(--color-mute)]">
+      <div className="mb-3 flex flex-wrap gap-x-5 gap-y-1 rounded-lg border border-[var(--color-line)] bg-[var(--color-panel)] px-4 py-2.5 text-[13px] text-[var(--color-mute)]">
         <span>
           부동산 평가액 <span className="num text-[var(--color-ink)]">{won(me.holdingValue)}</span>원
         </span>
@@ -136,14 +136,14 @@ export function PortfolioView() {
           넣은 돈 <span className="num text-[var(--color-ink)]">{won(me.account.seed)}</span>원
         </span>
         {me.dividendPaid > 0 && (
-          <span className="text-[var(--color-accent)]">
+          <span className="text-[var(--color-accent-ink)]">
             방금 월세 {won(me.dividendPaid)}원이 들어왔습니다
           </span>
         )}
       </div>
 
       <div className="panel mb-3 overflow-hidden">
-        <div className="hidden grid-cols-[minmax(0,1.6fr)_repeat(5,minmax(0,1fr))] gap-2 border-b border-[var(--color-line)] px-4 py-2.5 text-[12px] text-[var(--color-dim)] sm:grid">
+        <div className="hidden grid-cols-[minmax(0,1.6fr)_repeat(5,minmax(0,1fr))] gap-2 border-b border-[var(--color-line)] px-4 py-2.5 text-[13px] text-[var(--color-dim)] sm:grid">
           <span>종목</span>
           <span className="text-right">수량</span>
           <span className="text-right">평단가</span>
@@ -156,13 +156,13 @@ export function PortfolioView() {
             <p className="text-[13px] text-[var(--color-mute)]">아직 가진 집이 없습니다</p>
             <Link
               href="/"
-              className="mt-2 inline-block text-[12.5px] text-[var(--color-accent)] hover:underline"
+              className="mt-2 inline-block text-[13px] text-[var(--color-accent-ink)] hover:underline"
             >
               시장 둘러보기 →
             </Link>
           </div>
         ) : (
-          <div className="divide-y divide-[var(--color-line)]">
+          <div className="rows divide-y divide-[var(--color-line)]">
             {me.holdings.map((h) => (
               <Link
                 key={h.symbol}
@@ -172,7 +172,7 @@ export function PortfolioView() {
                 <div className="col-span-3 min-w-0 sm:col-span-1">
                   <div className="truncate text-[14px] font-semibold">{h.name}</div>
                   {h.locked > 0 && (
-                    <div className="text-[11px] text-[var(--color-dim)]">
+                    <div className="text-[12px] text-[var(--color-dim)]">
                       매도 주문에 {fq(h.locked)}주 묶임
                     </div>
                   )}
@@ -212,7 +212,7 @@ function Card({
 }) {
   return (
     <div className="panel px-4 py-3">
-      <div className="text-[11.5px] text-[var(--color-dim)]">{label}</div>
+      <div className="text-[12.5px] text-[var(--color-dim)]">{label}</div>
       <div
         className={`num mt-1 font-bold ${big ? "text-[17px]" : "text-[15px]"} ${
           tone !== undefined ? toneClass(tone) : ""

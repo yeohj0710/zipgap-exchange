@@ -65,7 +65,7 @@ export function MarketTable() {
           setDesc(key !== "name");
         }
       }}
-      className={`w-full text-[12px] text-[var(--color-dim)] transition-colors hover:text-[var(--color-ink)] ${className}`}
+      className={`w-full text-[13px] text-[var(--color-dim)] transition-colors hover:text-[var(--color-ink)] ${className}`}
     >
       {label}
       {sort === key ? (desc ? " ↓" : " ↑") : ""}
@@ -102,7 +102,7 @@ export function MarketTable() {
             <button
               key={s}
               onClick={() => setSido(s)}
-              className={`rounded-md px-2 py-1 text-[12px] transition-colors ${
+              className={`rounded-md px-2 py-1 text-[13px] transition-colors ${
                 sido === s
                   ? "bg-[var(--color-panel2)] text-[var(--color-ink)]"
                   : "text-[var(--color-dim)] hover:text-[var(--color-mute)]"
@@ -125,14 +125,16 @@ export function MarketTable() {
         {/* 표 머리 — 좁은 화면에서는 숨긴다 */}
         <div className="hidden grid-cols-[minmax(0,2.2fr)_5rem_repeat(4,minmax(0,1fr))] items-center gap-2 border-b border-[var(--color-line)] px-4 py-2.5 md:grid">
           {head("name", "종목", "text-left")}
-          <span className="text-center text-[12px] text-[var(--color-dim)]">추세</span>
+          <span className="text-center text-[13px] text-[var(--color-dim)]">추세</span>
           {head("price", "현재가", "text-right")}
           {head("change", "전일대비", "text-right")}
           {head("premium", "실거래가 대비", "text-right")}
           {head("volume", "거래량", "text-right")}
         </div>
 
-        <div className="divide-y divide-[var(--color-line)]">
+        {/* rows — 한 줄 걸러 바탕을 깔고 마우스 올린 줄을 잡아 준다(globals.css).
+            160줄을 아무 표시 없이 늘어놓으면 가로로 눈이 미끄러진다. */}
+        <div className="rows divide-y divide-[var(--color-line)]">
           {rows.map((a) => {
             // 시계가 붙기 전에는 값 자리를 비워 둔다. 이름과 위치는 그대로 내보낸다
             const qt = quotes[a.symbol];
@@ -141,18 +143,18 @@ export function MarketTable() {
                 key={a.symbol}
                 href={`/t/${a.symbol}`}
                 prefetch={false}
-                className="grid grid-cols-2 items-center gap-x-2 gap-y-1 px-4 py-3 transition-colors hover:bg-[var(--color-panel2)] md:grid-cols-[minmax(0,2.2fr)_5rem_repeat(4,minmax(0,1fr))] md:gap-2"
+                className="grid grid-cols-2 items-center gap-x-2 gap-y-1 px-4 py-3 transition-colors md:grid-cols-[minmax(0,2.2fr)_5rem_repeat(4,minmax(0,1fr))] md:gap-2"
               >
                 <div className="col-span-2 min-w-0 md:col-span-1">
                   <div className="flex items-center gap-2">
                     <span className="truncate text-[15px] font-semibold">{a.name}</span>
                     {a.kind === "index" && (
-                      <span className="shrink-0 rounded border border-[var(--color-line2)] px-1.5 py-px text-[10px] text-[var(--color-dim)]">
+                      <span className="shrink-0 rounded border border-[var(--color-line2)] px-1.5 py-px text-[11px] text-[var(--color-dim)]">
                         지수
                       </span>
                     )}
                   </div>
-                  <div className="mt-0.5 truncate text-[12px] text-[var(--color-dim)]">
+                  <div className="mt-0.5 truncate text-[13px] text-[var(--color-dim)]">
                     {a.region}
                     {a.unitArea ? ` · 전용 ${a.unitArea}㎡` : ""} · 한 채 {eok(lastRealPrice(a))}
                   </div>
@@ -164,7 +166,7 @@ export function MarketTable() {
 
                 <div className="num text-left text-[15px] font-semibold md:text-right">
                   {qt ? won(qt.price) : "—"}
-                  <span className="ml-0.5 text-[11px] font-normal text-[var(--color-dim)]">원</span>
+                  <span className="ml-0.5 text-[12px] font-normal text-[var(--color-dim)]">원</span>
                 </div>
 
                 <div
@@ -177,7 +179,7 @@ export function MarketTable() {
 
                 <div className="text-left text-[13px] md:text-right">
                   {/* 좁은 화면에는 표 머리가 없어서 무슨 숫자인지 적어 준다 */}
-                  <span className="mr-1 text-[11px] text-[var(--color-dim)] md:hidden">
+                  <span className="mr-1 text-[12px] text-[var(--color-dim)] md:hidden">
                     실거래가 대비
                   </span>
                   <span className={`num ${qt ? toneClass(qt.premium) : "text-mute"}`}>
@@ -186,7 +188,7 @@ export function MarketTable() {
                 </div>
 
                 <div className="text-right text-[13px] text-[var(--color-mute)]">
-                  <span className="mr-1 text-[11px] text-[var(--color-dim)] md:hidden">거래량</span>
+                  <span className="mr-1 text-[12px] text-[var(--color-dim)] md:hidden">거래량</span>
                   <span className="num">{qt && qt.volume > 0 ? qty(qt.volume) : "-"}</span>
                 </div>
               </Link>

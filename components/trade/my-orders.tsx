@@ -37,7 +37,7 @@ export function MyOrders({ symbol }: { symbol?: string }) {
           <button
             key={k}
             onClick={() => setTab(k)}
-            className={`rounded px-2.5 py-1 text-[12px] transition-colors ${
+            className={`rounded px-2.5 py-1 text-[13px] transition-colors ${
               tab === k
                 ? "bg-[var(--color-panel2)] text-[var(--color-ink)]"
                 : "text-[var(--color-dim)] hover:text-[var(--color-mute)]"
@@ -50,22 +50,22 @@ export function MyOrders({ symbol }: { symbol?: string }) {
 
       <div className="flex-1 overflow-y-auto">
         {!account ? (
-          <p className="px-3 py-6 text-center text-[12px] text-[var(--color-dim)]">
+          <p className="px-3 py-6 text-center text-[13px] text-[var(--color-dim)]">
             계좌를 열면 주문 내역이 여기 쌓입니다
           </p>
         ) : tab === "open" ? (
           orders.length === 0 ? (
-            <p className="px-3 py-6 text-center text-[12px] text-[var(--color-dim)]">
+            <p className="px-3 py-6 text-center text-[13px] text-[var(--color-dim)]">
               걸어 둔 주문이 없습니다
             </p>
           ) : (
             orders.map((o) => (
               <div
                 key={o.id}
-                className="flex items-center gap-2 border-b border-[var(--color-line)] px-3 py-2 text-[12px] last:border-0"
+                className="flex items-center gap-2 border-b border-[var(--color-line)] px-3 py-2 text-[13px] last:border-0"
               >
                 <span
-                  className={`shrink-0 rounded px-1.5 py-0.5 text-[11px] font-semibold ${
+                  className={`shrink-0 rounded px-1.5 py-0.5 text-[12px] font-semibold ${
                     o.side === "buy"
                       ? "bg-[color-mix(in_srgb,var(--color-up)_18%,transparent)] text-up"
                       : "bg-[color-mix(in_srgb,var(--color-down)_18%,transparent)] text-down"
@@ -81,7 +81,7 @@ export function MyOrders({ symbol }: { symbol?: string }) {
                 <button
                   onClick={() => void cancel(o.id)}
                   disabled={busyId === o.id}
-                  className="ml-auto shrink-0 rounded border border-[var(--color-line)] px-2 py-0.5 text-[11px] text-[var(--color-mute)] hover:border-[var(--color-line2)] hover:text-[var(--color-ink)] disabled:opacity-50"
+                  className="ml-auto shrink-0 rounded border border-[var(--color-line)] px-2 py-0.5 text-[12px] text-[var(--color-mute)] hover:border-[var(--color-line2)] hover:text-[var(--color-ink)] disabled:opacity-50"
                 >
                   {busyId === o.id ? "취소 중" : "취소"}
                 </button>
@@ -89,14 +89,14 @@ export function MyOrders({ symbol }: { symbol?: string }) {
             ))
           )
         ) : fills.length === 0 ? (
-          <p className="px-3 py-6 text-center text-[12px] text-[var(--color-dim)]">
+          <p className="px-3 py-6 text-center text-[13px] text-[var(--color-dim)]">
             체결 내역이 없습니다
           </p>
         ) : (
           fills.map((f) => (
             <div
               key={f.id}
-              className="flex items-center gap-2 border-b border-[var(--color-line)] px-3 py-2 text-[12px] last:border-0"
+              className="flex items-center gap-2 border-b border-[var(--color-line)] px-3 py-2 text-[13px] last:border-0"
             >
               <span className={`shrink-0 font-semibold ${f.side === "buy" ? "text-up" : "text-down"}`}>
                 {f.side === "buy" ? "매수" : "매도"}

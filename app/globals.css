@@ -1,26 +1,61 @@
 @import "tailwindcss";
 
+/* 색은 전부 여기서 정한다. 화면 어디서도 색을 직접 적지 않고 var(--color-*) 만 쓴다.
+   그래서 이 블록만 갈아 끼우면 밝은 화면과 어두운 화면이 통째로 바뀐다.
+
+   대비를 지킬 것 — 260818 에 재 보니 글씨의 30%가 WCAG AA(본문 4.5) 미달이었다.
+   제일 많이 쓰는 --color-dim 이 3.25 였고, 구분선 색을 글씨에 쓴 자리는 1.47 이라
+   사실상 안 보였다. 값을 고칠 때 etc/contrast-audit.mjs 로 다시 재라. */
 @theme {
-  --color-bg: #0a0d12;
-  --color-panel: #11151c;
-  --color-panel2: #161b24;
-  --color-line: #222936;
-  --color-line2: #2c3444;
-  --color-ink: #e8ecf4;
-  --color-mute: #8a94a6;
-  --color-dim: #5e6878;
-  --color-up: #ff4d5e;
-  --color-down: #3b82f6;
+  /* 기본은 밝은 화면 */
+  --color-bg: #f6f7f9;
+  --color-panel: #ffffff;
+  --color-panel2: #e8ecf2;
+  --color-line: #e2e5ea;
+  --color-line2: #c8cfd9;
+  --color-ink: #16191f;
+  --color-mute: #5a6270;
+  --color-dim: #5f6673;
+  --color-up: #c22733;
+  --color-down: #1863d4;
+  /* 오름·내림 색을 바탕으로 깐 단추에 얹는 글씨 색. 밝은 화면은 진한 빨강이라 흰 글씨가
+     맞지만, 어두운 화면은 연한 빨강이라 흰 글씨를 얹으면 대비가 2.75 로 떨어진다. */
+  --color-on-tone: #ffffff;
+  /* 금색은 단추 바탕으로 쓴다(검은 글씨를 얹음). 밝은 바탕 위 글씨로는 안 읽혀서
+     글씨로 쓸 때는 accent-ink 를 따로 둔다. */
   --color-accent: #e0a83c;
+  --color-accent-ink: #8a5a00;
+  /* 줄무늬는 panel 과 hover(panel2) 사이에 있어야 한다. panel 에 너무 붙으면 안 보이고
+     panel2 에 붙으면 마우스 올린 줄과 구별이 안 된다. */
+  --color-zebra: #f4f6f8;
 
   --font-sans: Pretendard, "Pretendard Variable", -apple-system, BlinkMacSystemFont,
     "Segoe UI", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
 }
 
+/* 어두운 화면. :root 와 특정도가 같으면 순서에 기대게 되니 html 을 붙여 확실히 이긴다. */
+html[data-theme="dark"] {
+  --color-bg: #0f1319;
+  --color-panel: #151a22;
+  --color-panel2: #232b37;
+  --color-line: #262d3a;
+  --color-line2: #333c4c;
+  --color-ink: #eef1f7;
+  --color-mute: #a8b3c4;
+  --color-dim: #8792a5;
+  --color-up: #ff6b78;
+  --color-down: #5b9cf8;
+  --color-on-tone: #12161c;
+  --color-accent: #e0a83c;
+  --color-accent-ink: #e8b755;
+  --color-zebra: #1a202a;
+  color-scheme: dark;
+}
+
 @layer base {
   html {
     background: var(--color-bg);
-    color-scheme: dark;
+    color-scheme: light;
   }
   body {
     background: var(--color-bg);
@@ -72,6 +107,18 @@
   }
   .hairline {
     border-color: var(--color-line);
+  }
+  .text-accent-ink {
+    color: var(--color-accent-ink);
+  }
+  /* 160줄짜리 표는 가로로 눈이 미끄러진다. 한 줄 걸러 바탕을 깔고 마우스 올린 줄을
+     더 진하게 해서 어느 줄을 보고 있는지 잡아 준다.
+     hover 가 nth-child 와 특정도가 같으니 반드시 뒤에 와야 이긴다. */
+  .rows > *:nth-child(even) {
+    background: var(--color-zebra);
+  }
+  .rows > *:hover {
+    background: var(--color-panel2);
   }
 }
 

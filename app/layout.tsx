@@ -15,15 +15,25 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#0a0d12",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#f6f7f9" },
+    { media: "(prefers-color-scheme: dark)", color: "#0f1319" },
+  ],
   width: "device-width",
   initialScale: 1,
 };
 
+/* 첫 페인트 전에 골라 둔 화면을 입힌다. 리액트가 붙은 뒤에 바꾸면 밝은 화면이
+   한 번 번쩍이고 어두워진다. 기본값은 밝은 쪽이다. */
+const THEME_BOOT = `try{var t=localStorage.getItem('zipgap.theme');if(t==='dark')document.documentElement.dataset.theme='dark'}catch(e){}`;
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="ko">
+    // THEME_BOOT 이 리액트가 붙기 전에 data-theme 을 얹으므로 서버가 그린 html 태그와
+    // 달라진다. suppressHydrationWarning 으로 이 태그 하나만 다름을 눈감아 준다.
+    <html lang="ko" suppressHydrationWarning>
       <head>
+        <script dangerouslySetInnerHTML={{ __html: THEME_BOOT }} />
         <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"

@@ -36,7 +36,7 @@ export function RankView() {
       </p>
 
       <div className="panel mt-4 overflow-hidden">
-        <div className="grid grid-cols-[2.5rem_minmax(0,1fr)_minmax(0,1fr)_minmax(0,1fr)] gap-2 border-b border-[var(--color-line)] px-4 py-2.5 text-[12px] text-[var(--color-dim)]">
+        <div className="grid grid-cols-[2.5rem_minmax(0,1fr)_minmax(0,1fr)_minmax(0,1fr)] gap-2 border-b border-[var(--color-line)] px-4 py-2.5 text-[13px] text-[var(--color-dim)]">
           <span>순위</span>
           <span>이름</span>
           <span className="text-right">평가액</span>
@@ -52,7 +52,7 @@ export function RankView() {
             아직 아무도 없습니다. 첫 번째로 이름을 올려 보세요
           </div>
         ) : (
-          <div className="divide-y divide-[var(--color-line)]">
+          <div className="rows divide-y divide-[var(--color-line)]">
             {rows.map((r, i) => {
               const mine = account?.uid === r.uid;
               return (
@@ -64,14 +64,14 @@ export function RankView() {
                 >
                   <span
                     className={`num text-[13px] ${
-                      i < 3 ? "font-bold text-[var(--color-accent)]" : "text-[var(--color-dim)]"
+                      i < 3 ? "font-bold text-[var(--color-accent-ink)]" : "text-[var(--color-dim)]"
                     }`}
                   >
                     {i + 1}
                   </span>
                   <span className="truncate text-[13.5px]">
                     {r.nick}
-                    {mine && <span className="ml-1.5 text-[11px] text-[var(--color-accent)]">나</span>}
+                    {mine && <span className="ml-1.5 text-[12px] text-[var(--color-accent-ink)]">나</span>}
                   </span>
                   <span className="num text-right text-[13px]">{won(r.equity)}원</span>
                   <span className={`num text-right text-[13px] font-semibold ${toneClass(r.pnlRate)}`}>

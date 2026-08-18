@@ -19,7 +19,7 @@ import type { Asset, Candle } from "@/lib/types";
 
 function Placeholder({ label }: { label: string }) {
   return (
-    <div className="panel grid h-full place-items-center text-[12.5px] text-[var(--color-dim)]">
+    <div className="panel grid h-full place-items-center text-[13px] text-[var(--color-dim)]">
       {label}
     </div>
   );
@@ -41,7 +41,7 @@ export function TradeScreen({ asset }: { asset: Asset }) {
     <div className="pt-4">
       <Link
         href="/"
-        className="mb-2.5 inline-block text-[12.5px] text-[var(--color-dim)] hover:text-[var(--color-ink)]"
+        className="mb-2.5 inline-block text-[13px] text-[var(--color-dim)] hover:text-[var(--color-ink)]"
       >
         ← 시장으로
       </Link>
@@ -51,11 +51,11 @@ export function TradeScreen({ asset }: { asset: Asset }) {
         <div className="min-w-0">
           <div className="flex items-center gap-2">
             <h1 className="truncate text-[19px] font-bold tracking-tight">{asset.name}</h1>
-            <span className="shrink-0 rounded border border-[var(--color-line2)] px-1.5 py-px text-[10.5px] text-[var(--color-dim)]">
+            <span className="shrink-0 rounded border border-[var(--color-line2)] px-1.5 py-px text-[11.5px] text-[var(--color-dim)]">
               {asset.symbol}
             </span>
           </div>
-          <p className="mt-0.5 truncate text-[12px] text-[var(--color-dim)]">
+          <p className="mt-0.5 truncate text-[13px] text-[var(--color-dim)]">
             {asset.region}
             {asset.unitArea ? ` · 전용 ${asset.unitArea}㎡` : ""}
             {asset.households ? ` · ${fq(asset.households)}세대` : ""}
@@ -81,7 +81,7 @@ export function TradeScreen({ asset }: { asset: Asset }) {
           </span>
         </div>
 
-        <div className="ml-auto grid grid-cols-2 gap-x-6 gap-y-1.5 text-[12px] sm:grid-cols-4">
+        <div className="ml-auto grid grid-cols-2 gap-x-6 gap-y-1.5 text-[13px] sm:grid-cols-4">
           <Stat label="실물 한 채" value={eok(lastRealPrice(asset))} />
           <Stat
             label="실거래가 대비"
@@ -98,7 +98,7 @@ export function TradeScreen({ asset }: { asset: Asset }) {
       </div>
 
       {holding && holding.qty > 0 && (
-        <div className="mb-3 flex flex-wrap items-center gap-x-5 gap-y-1 rounded-lg border border-[var(--color-line)] bg-[var(--color-panel)] px-4 py-2.5 text-[12.5px]">
+        <div className="mb-3 flex flex-wrap items-center gap-x-5 gap-y-1 rounded-lg border border-[var(--color-line)] bg-[var(--color-panel)] px-4 py-2.5 text-[13px]">
           <span className="text-[var(--color-mute)]">내 보유</span>
           <span className="num font-semibold">{fq(holding.qty)}주</span>
           <span className="text-[var(--color-dim)]">
@@ -198,7 +198,7 @@ export function TradeScreen({ asset }: { asset: Asset }) {
           {asset.tags.map((t) => (
             <span
               key={t}
-              className="rounded border border-[var(--color-line2)] px-2 py-0.5 text-[11px] text-[var(--color-dim)]"
+              className="rounded border border-[var(--color-line2)] px-2 py-0.5 text-[12px] text-[var(--color-dim)]"
             >
               {t}
             </span>
@@ -222,7 +222,7 @@ function Stat({
 }) {
   return (
     <div title={hint}>
-      <div className="text-[11px] text-[var(--color-dim)]">{label}</div>
+      <div className="text-[12px] text-[var(--color-dim)]">{label}</div>
       <div className={`num mt-0.5 font-semibold ${tone !== undefined ? toneClass(tone) : ""}`}>
         {value}
       </div>
